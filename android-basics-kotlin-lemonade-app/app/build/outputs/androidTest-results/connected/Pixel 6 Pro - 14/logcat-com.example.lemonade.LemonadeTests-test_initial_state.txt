@@ -1,0 +1,742 @@
+10-11 11:41:58.233 14169 14204 I TestRunner: started: test_initial_state(com.example.lemonade.LemonadeTests)
+10-11 11:41:58.250 14169 14204 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+10-11 11:41:58.273   596   640 W gralloc4: Unable to set buffer name VRI[test]#3839(BLAST Consumer)3839: File name too long
+10-11 11:41:58.275   596   640 W gralloc4: Unable to set buffer name VRI[test]#3839(BLAST Consumer)3839: File name too long
+10-11 11:41:58.275  3849  4660 I LPRequestState: (REDACTED) [%s] #resolveUnusedLanguagePacks
+10-11 11:41:58.275  3849  4660 I LPRequestState: (REDACTED) [%s] #resolveDesiredLanguagePacks
+10-11 11:41:58.276   596   640 W gralloc4: Unable to set buffer name VRI[test]#3839(BLAST Consumer)3839: File name too long
+10-11 11:41:58.278   596   640 W gralloc4: Unable to set buffer name VRI[test]#3839(BLAST Consumer)3839: File name too long
+10-11 11:41:58.280   596   640 W gralloc4: Unable to set buffer name VRI[test]#3839(BLAST Consumer)3839: File name too long
+10-11 11:41:58.281   595   595 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+10-11 11:41:58.292  3849  4664 I cjuo    : (REDACTED) incrementApaDataDownloadStoreStatusNotFound(appVersion = %s, locale = %s, groupName = %s, accountInScope = %s, foundGroups = %s, status = %s, localGroupsAvailable = %s, freeBytes = %s)
+10-11 11:41:58.292  3849  4664 I cjuo    : (REDACTED) incrementApaDataDownloadStoreStatusNotFound(appVersion = %s, locale = %s, groupName = %s, accountInScope = %s, foundGroups = %s, status = %s, localGroupsAvailable = %s, freeBytes = %s)
+10-11 11:41:58.292  3849  4664 I cjuo    : (REDACTED) incrementApaDataDownloadStoreStatusNotFound(appVersion = %s, locale = %s, groupName = %s, accountInScope = %s, foundGroups = %s, status = %s, localGroupsAvailable = %s, freeBytes = %s)
+10-11 11:41:58.292  3849  4664 I cjuo    : (REDACTED) incrementApaDataDownloadStoreStatusNotFound(appVersion = %s, locale = %s, groupName = %s, accountInScope = %s, foundGroups = %s, status = %s, localGroupsAvailable = %s, freeBytes = %s)
+10-11 11:41:58.293  3849  4664 I cjuo    : (REDACTED) incrementApaDataDownloadStoreExtendedStatusNotFound(appVersion = %s, locale = %s, groupName = %s, accountInScope = %s, foundGroups = %s, pendingFilegroup = %s, localGroupsAvailable = %s, freeBytes = %s, totalBytes = %s, availableSpace = %s, fractionSpace = %s, workProfile = %s)
+10-11 11:41:58.293  3849  4661 W cjrt    : (REDACTED) ClientFileGroup %s (BuildId %s VariantId %s LocaleList %s) is Gdd-incompatible with locale %s.
+10-11 11:41:58.293  3849  4661 I cjxz    : (REDACTED) group %s not present %s in %s
+10-11 11:41:58.293  3849  4661 I cjuo    : (REDACTED) incrementApaDataDownloadStoreStatus(latency = %s, appVersion = %s, status = %s, locale = %s, fileGroupnames = %s, accountInScope = %s, localGroupsAvailable = %s, clientId = %s, timeSinceSearchBoot = %s (%s), timeSinceDataDownloadInit = %s (%s))
+10-11 11:41:58.299  3849  4292 I bafu    : (REDACTED) #getHotwordModelFromMobstore [mobstoreUri: %s]
+10-11 11:41:58.300  3849  4292 I HotwordModelPopulator: (REDACTED) Updated file group for locale '%s' from location: %s. Download already finished. Version: %d
+10-11 11:41:58.300  3849  4292 I HotwordModelPopulator: (REDACTED) Updated file group for locale '%s' from location: %s. Download in progress, but older model found. Expected version: %d. Found version: %d
+10-11 11:41:58.300  3849  4292 I bafu    : (REDACTED) #getHotwordModelFromMobstore [mobstoreUri: %s]
+10-11 11:41:58.300  3849 13609 I flme    : (REDACTED) Writing metadata key: %s, corpus: %s
+10-11 11:41:58.300  3849  4292 I HotwordModelPopulator: (REDACTED) Updated file group for locale '%s' from location: %s. Download already finished. Version: %d
+10-11 11:41:58.300  3849  4292 I HotwordModelPopulator: (REDACTED) Updated file group for locale '%s' from location: %s. Download in progress, but older model found. Expected version: %d. Found version: %d
+10-11 11:41:58.300  3849  4292 I bafu    : (REDACTED) #getHotwordModelFromMobstore [mobstoreUri: %s]
+10-11 11:41:58.301  3849 13609 I flme    : (REDACTED) Writing metadata key: %s, corpus: %s
+10-11 11:41:58.301  3849  4292 I HotwordModelPopulator: (REDACTED) Updated file group for locale '%s' from location: %s. Download already finished. Version: %d
+10-11 11:41:58.301  3849  4292 I HotwordModelPopulator: (REDACTED) Updated file group for locale '%s' from location: %s. Download in progress, but older model found. Expected version: %d. Found version: %d
+10-11 11:41:58.301  3849  4292 I bafu    : (REDACTED) #getHotwordModelFromMobstore [mobstoreUri: %s]
+10-11 11:41:58.303  3849 13609 I flme    : (REDACTED) Writing metadata key: %s, corpus: %s
+10-11 11:41:58.304  3849 13609 I flme    : (REDACTED) Writing metadata key: %s, corpus: %s
+10-11 11:41:58.305   596   640 W gralloc4: Unable to set buffer name VRI[test]#3839(BLAST Consumer)3839: File name too long
+10-11 11:41:58.310  3849  4292 I HotwordModelPopulator: (REDACTED) Updated file group for locale '%s' from location: %s. Download already finished. Version: %d
+10-11 11:41:58.310  3849  4292 I HotwordModelPopulator: (REDACTED) Updated file group for locale '%s' from location: %s. Download in progress, but older model found. Expected version: %d. Found version: %d
+10-11 11:41:58.318  3665  5394 I AiAiEcho: SmartspaceNotificationPredictor no parser can handle this notification or notification is invalid
+10-11 11:41:58.318  3849  4664 I flhq    : (REDACTED) Starting batch sync for corpora: %s
+10-11 11:41:58.336  3849  4662 I cjuo    : (REDACTED) incrementApaDataDownloadStoreStatusNotFound(appVersion = %s, locale = %s, groupName = %s, accountInScope = %s, foundGroups = %s, status = %s, localGroupsAvailable = %s, freeBytes = %s)
+10-11 11:41:58.336  3849  4662 I cjuo    : (REDACTED) incrementApaDataDownloadStoreStatusNotFound(appVersion = %s, locale = %s, groupName = %s, accountInScope = %s, foundGroups = %s, status = %s, localGroupsAvailable = %s, freeBytes = %s)
+10-11 11:41:58.338 14169 14169 D LifecycleMonitor: Lifecycle status change: com.example.lemonade.MainActivity@f7d6494 in: PRE_ON_CREATE
+10-11 11:41:58.339 14169 14169 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+10-11 11:41:58.340 14169 14169 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+10-11 11:41:58.342  3849  4662 I cjuo    : (REDACTED) incrementApaDataDownloadStoreStatusNotFound(appVersion = %s, locale = %s, groupName = %s, accountInScope = %s, foundGroups = %s, status = %s, localGroupsAvailable = %s, freeBytes = %s)
+10-11 11:41:58.342  3849  4662 I cjuo    : (REDACTED) incrementApaDataDownloadStoreStatusNotFound(appVersion = %s, locale = %s, groupName = %s, accountInScope = %s, foundGroups = %s, status = %s, localGroupsAvailable = %s, freeBytes = %s)
+10-11 11:41:58.342  3849  4662 I cjuo    : (REDACTED) incrementApaDataDownloadStoreExtendedStatusNotFound(appVersion = %s, locale = %s, groupName = %s, accountInScope = %s, foundGroups = %s, pendingFilegroup = %s, localGroupsAvailable = %s, freeBytes = %s, totalBytes = %s, availableSpace = %s, fractionSpace = %s, workProfile = %s)
+10-11 11:41:58.342  3849  4662 I flhq    : (REDACTED) Starting batch sync for corpora: %s
+10-11 11:41:58.344  3849 14168 I flhq    : (REDACTED) The syncToken for corpus %s is %s.
+10-11 11:41:58.345  3849 14168 D TrafficStats: tagSocket(168) with statsTag=0x0, statsUid=-1
+10-11 11:41:58.347  3849  4244 W cjrt    : (REDACTED) ClientFileGroup %s (BuildId %s VariantId %s LocaleList %s) is Gdd-incompatible with locale %s.
+10-11 11:41:58.347  3849  4664 I cjxz    : (REDACTED) group %s not present %s in %s
+10-11 11:41:58.348  3849  4662 I cjuo    : (REDACTED) incrementApaDataDownloadStoreStatus(latency = %s, appVersion = %s, status = %s, locale = %s, fileGroupnames = %s, accountInScope = %s, localGroupsAvailable = %s, clientId = %s, timeSinceSearchBoot = %s (%s), timeSinceDataDownloadInit = %s (%s))
+10-11 11:41:58.350  3849 13403 I flhq    : (REDACTED) The syncToken for corpus %s is %s.
+10-11 11:41:58.353  3849 13403 D TrafficStats: tagSocket(180) with statsTag=0x0, statsUid=-1
+10-11 11:41:58.354  3849 14256 I flme    : (REDACTED) Writing metadata key: %s, corpus: %s
+10-11 11:41:58.357  3849 14256 I flme    : (REDACTED) Writing metadata key: %s, corpus: %s
+10-11 11:41:58.358  3849 14256 I flme    : (REDACTED) Writing metadata key: %s, corpus: %s
+10-11 11:41:58.358  6863  6863 W View    : couldn't find view with id 2131364316
+10-11 11:41:58.359 14169 14169 D LifecycleMonitor: Lifecycle status change: com.example.lemonade.MainActivity@f7d6494 in: CREATED
+10-11 11:41:58.360 14169 14169 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lemonade.MainActivity@f7d6494
+10-11 11:41:58.360 14169 14169 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lemonade.MainActivity@f7d6494
+10-11 11:41:58.361 14169 14169 D LifecycleMonitor: Lifecycle status change: com.example.lemonade.MainActivity@f7d6494 in: STARTED
+10-11 11:41:58.362 14169 14169 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lemonade.MainActivity@f7d6494
+10-11 11:41:58.362 14169 14169 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lemonade.MainActivity@f7d6494
+10-11 11:41:58.363 14169 14169 D LifecycleMonitor: Lifecycle status change: com.example.lemonade.MainActivity@f7d6494 in: RESUMED
+10-11 11:41:58.364 14169 14169 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lemonade.MainActivity@f7d6494
+10-11 11:41:58.364 14169 14169 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lemonade.MainActivity@f7d6494
+10-11 11:41:58.366  3849  4244 I cjuo    : (REDACTED) incrementApaDataDownloadStoreStatusNotFound(appVersion = %s, locale = %s, groupName = %s, accountInScope = %s, foundGroups = %s, status = %s, localGroupsAvailable = %s, freeBytes = %s)
+10-11 11:41:58.366  3849  4244 I cjuo    : (REDACTED) incrementApaDataDownloadStoreStatusNotFound(appVersion = %s, locale = %s, groupName = %s, accountInScope = %s, foundGroups = %s, status = %s, localGroupsAvailable = %s, freeBytes = %s)
+10-11 11:41:58.366  3849  4244 I cjuo    : (REDACTED) incrementApaDataDownloadStoreStatusNotFound(appVersion = %s, locale = %s, groupName = %s, accountInScope = %s, foundGroups = %s, status = %s, localGroupsAvailable = %s, freeBytes = %s)
+10-11 11:41:58.366  3849  4244 I cjuo    : (REDACTED) incrementApaDataDownloadStoreStatusNotFound(appVersion = %s, locale = %s, groupName = %s, accountInScope = %s, foundGroups = %s, status = %s, localGroupsAvailable = %s, freeBytes = %s)
+10-11 11:41:58.366  3849  4244 I cjuo    : (REDACTED) incrementApaDataDownloadStoreExtendedStatusNotFound(appVersion = %s, locale = %s, groupName = %s, accountInScope = %s, foundGroups = %s, pendingFilegroup = %s, localGroupsAvailable = %s, freeBytes = %s, totalBytes = %s, availableSpace = %s, fractionSpace = %s, workProfile = %s)
+10-11 11:41:58.368  3849  4660 W cjrt    : (REDACTED) ClientFileGroup %s (BuildId %s VariantId %s LocaleList %s) is Gdd-incompatible with locale %s.
+10-11 11:41:58.368  3849  4660 I cjxz    : (REDACTED) group %s not present %s in %s
+10-11 11:41:58.369  3849  4244 I cjuo    : (REDACTED) incrementApaDataDownloadStoreStatus(latency = %s, appVersion = %s, status = %s, locale = %s, fileGroupnames = %s, accountInScope = %s, localGroupsAvailable = %s, clientId = %s, timeSinceSearchBoot = %s (%s), timeSinceDataDownloadInit = %s (%s))
+10-11 11:41:58.375  3849 14256 I flme    : (REDACTED) Writing metadata key: %s, corpus: %s
+10-11 11:41:58.377  3849 14256 I flme    : (REDACTED) Writing metadata key: %s, corpus: %s
+10-11 11:41:58.379  3849 14256 I flme    : (REDACTED) Writing metadata key: %s, corpus: %s
+10-11 11:41:58.385   596   640 W gralloc4: Unable to set buffer name VRI[MainActivity]#1(BLAST Consumer)1: File name too long
+10-11 11:41:58.387   596   640 W gralloc4: Unable to set buffer name VRI[MainActivity]#1(BLAST Consumer)1: File name too long
+10-11 11:41:58.389   596   640 W gralloc4: Unable to set buffer name VRI[MainActivity]#1(BLAST Consumer)1: File name too long
+10-11 11:41:58.391   596   640 W gralloc4: Unable to set buffer name VRI[MainActivity]#1(BLAST Consumer)1: File name too long
+10-11 11:41:58.392   596   640 W gralloc4: Unable to set buffer name VRI[MainActivity]#1(BLAST Consumer)1: File name too long
+10-11 11:41:58.395  1581  1705 W ziparchive: Unable to open '/data/app/~~jbAzdE7dxUo4AvD7l8Qd9A==/com.example.lemonade-A57eHKrU8SAn1gl7U4sg7w==/base.dm': No such file or directory
+10-11 11:41:58.395  3849  4662 I cjuo    : (REDACTED) incrementApaDataDownloadStoreStatusNotFound(appVersion = %s, locale = %s, groupName = %s, accountInScope = %s, foundGroups = %s, status = %s, localGroupsAvailable = %s, freeBytes = %s)
+10-11 11:41:58.396  3849  4662 I cjuo    : (REDACTED) incrementApaDataDownloadStoreStatusNotFound(appVersion = %s, locale = %s, groupName = %s, accountInScope = %s, foundGroups = %s, status = %s, localGroupsAvailable = %s, freeBytes = %s)
+10-11 11:41:58.396  3849  4662 I cjuo    : (REDACTED) incrementApaDataDownloadStoreStatusNotFound(appVersion = %s, locale = %s, groupName = %s, accountInScope = %s, foundGroups = %s, status = %s, localGroupsAvailable = %s, freeBytes = %s)
+10-11 11:41:58.396  3849  4662 I cjuo    : (REDACTED) incrementApaDataDownloadStoreStatusNotFound(appVersion = %s, locale = %s, groupName = %s, accountInScope = %s, foundGroups = %s, status = %s, localGroupsAvailable = %s, freeBytes = %s)
+10-11 11:41:58.396  3849  4662 I cjuo    : (REDACTED) incrementApaDataDownloadStoreExtendedStatusNotFound(appVersion = %s, locale = %s, groupName = %s, accountInScope = %s, foundGroups = %s, pendingFilegroup = %s, localGroupsAvailable = %s, freeBytes = %s, totalBytes = %s, availableSpace = %s, fractionSpace = %s, workProfile = %s)
+10-11 11:41:58.396  1581  1705 I ActivityTaskManager: Displayed com.example.lemonade/.MainActivity for user 0: +138ms
+10-11 11:41:58.399 14169 14169 D RootViewPicker: Root not ready - waiting: 10ms for one to appear.
+10-11 11:41:58.400  3849  4244 W cjrt    : (REDACTED) ClientFileGroup %s (BuildId %s VariantId %s LocaleList %s) is Gdd-incompatible with locale %s.
+10-11 11:41:58.400  3849  4244 I cjxz    : (REDACTED) group %s not present %s in %s
+10-11 11:41:58.400  3849  4661 I cjuo    : (REDACTED) incrementApaDataDownloadStoreStatus(latency = %s, appVersion = %s, status = %s, locale = %s, fileGroupnames = %s, accountInScope = %s, localGroupsAvailable = %s, clientId = %s, timeSinceSearchBoot = %s (%s), timeSinceDataDownloadInit = %s (%s))
+10-11 11:41:58.402  3849 14252 I flme    : (REDACTED) Writing metadata key: %s, corpus: %s
+10-11 11:41:58.402  3849 14252 I flme    : (REDACTED) Writing metadata key: %s, corpus: %s
+10-11 11:41:58.403  3849 14252 I flme    : (REDACTED) Writing metadata key: %s, corpus: %s
+10-11 11:41:58.404  3849 14252 I flme    : (REDACTED) Writing metadata key: %s, corpus: %s
+10-11 11:41:58.407  3849 14252 I flme    : (REDACTED) Writing metadata key: %s, corpus: %s
+10-11 11:41:58.408  3849 14252 I flme    : (REDACTED) Writing metadata key: %s, corpus: %s
+10-11 11:41:58.408  3849 14252 I flme    : (REDACTED) Writing metadata key: %s, corpus: %s
+10-11 11:41:58.408  3849 14252 I flme    : (REDACTED) Writing metadata key: %s, corpus: %s
+10-11 11:41:58.410 14169 14169 D RootViewPicker: Root not ready - waiting: 25ms for one to appear.
+10-11 11:41:58.433  3849  4662 I cjuo    : (REDACTED) incrementApaDataDownloadStoreStatusNotFound(appVersion = %s, locale = %s, groupName = %s, accountInScope = %s, foundGroups = %s, status = %s, localGroupsAvailable = %s, freeBytes = %s)
+10-11 11:41:58.433  3849  4662 I cjuo    : (REDACTED) incrementApaDataDownloadStoreStatusNotFound(appVersion = %s, locale = %s, groupName = %s, accountInScope = %s, foundGroups = %s, status = %s, localGroupsAvailable = %s, freeBytes = %s)
+10-11 11:41:58.434  3849  4662 I cjuo    : (REDACTED) incrementApaDataDownloadStoreStatusNotFound(appVersion = %s, locale = %s, groupName = %s, accountInScope = %s, foundGroups = %s, status = %s, localGroupsAvailable = %s, freeBytes = %s)
+10-11 11:41:58.434  3849  4662 I cjuo    : (REDACTED) incrementApaDataDownloadStoreStatusNotFound(appVersion = %s, locale = %s, groupName = %s, accountInScope = %s, foundGroups = %s, status = %s, localGroupsAvailable = %s, freeBytes = %s)
+10-11 11:41:58.434  3849  4662 I cjuo    : (REDACTED) incrementApaDataDownloadStoreExtendedStatusNotFound(appVersion = %s, locale = %s, groupName = %s, accountInScope = %s, foundGroups = %s, pendingFilegroup = %s, localGroupsAvailable = %s, freeBytes = %s, totalBytes = %s, availableSpace = %s, fractionSpace = %s, workProfile = %s)
+10-11 11:41:58.436 14169 14169 D RootViewPicker: Root not ready - waiting: 50ms for one to appear.
+10-11 11:41:58.449  3849 14139 I flme    : (REDACTED) Writing metadata key: %s, corpus: %s
+10-11 11:41:58.450  3849 14139 I flme    : (REDACTED) Writing metadata key: %s, corpus: %s
+10-11 11:41:58.489 14169 14169 D RootViewPicker: Root not ready - waiting: 100ms for one to appear.
+10-11 11:41:58.590 14169 14169 D RootViewPicker: Root not ready - waiting: 200ms for one to appear.
+10-11 11:41:58.594  3849 14139 I flme    : (REDACTED) Writing metadata key: %s, corpus: %s
+10-11 11:41:58.595  3849 14139 I flme    : (REDACTED) Writing metadata key: %s, corpus: %s
+10-11 11:41:58.601  3849  4244 I flhq    : (REDACTED) Starting batch sync for corpora: %s
+10-11 11:41:58.613  3849 14251 I flhq    : (REDACTED) The syncToken for corpus %s is %s.
+10-11 11:41:58.617  3849 14251 D TrafficStats: tagSocket(267) with statsTag=0x0, statsUid=-1
+10-11 11:41:58.673  3849  3868 I earchbox:search: Background concurrent copying GC freed 3771960(193MB) AllocSpace objects, 483(17MB) LOS objects, 56% free, 74MB/170MB, paused 276us,68us total 352.553ms
+10-11 11:41:58.765  3800 27265 D ModemODPMPoller: Current Modem ODPM (mw): 1320, threshold: 800
+10-11 11:41:58.791 14169 14169 D RootViewPicker: Root not ready - waiting: 400ms for one to appear.
+10-11 11:41:58.816  3849  4662 I gzxe    : Running throttled refresh
+10-11 11:41:58.816  3849  4661 I gzxe    : Running throttled refresh
+10-11 11:41:58.816  3849  4660 I gzxe    : Running throttled refresh
+10-11 11:41:58.816  3849  4244 I gzxe    : Running throttled refresh
+10-11 11:41:58.817  3849  4660 I gzxe    : Running throttled refresh
+10-11 11:41:58.817  3849  4661 I gzxe    : Running throttled refresh
+10-11 11:41:58.818  3849  4661 I gzxe    : Running throttled refresh
+10-11 11:41:58.818  3849  4663 I gzxe    : Running throttled refresh
+10-11 11:41:58.818  3849  4244 I gzxe    : Running throttled refresh
+10-11 11:41:58.818  3849  4660 I gzxe    : Running throttled refresh
+10-11 11:41:58.818  3849  4661 I gzxe    : Running throttled refresh
+10-11 11:41:58.823  3849  4294 W MDD     : GddFileGroupPopulator: Account was not provided, skipping private sync for corpus: GDD_APA_CORRECTIONS, configuration: GddAgsaApaCorrections
+10-11 11:41:58.824  3849  4662 I flhq    : (REDACTED) Starting batch sync for corpora: %s
+10-11 11:41:58.825  3849  4293 I gvow    : Building Device Properties.
+10-11 11:41:58.826  3849  4294 E SQLiteLog: (1) no such table: geller_metadata_table in "SELECT DISTINCT metadata FROM geller_metadata_table WHERE data_type = ? AND key = ?"
+10-11 11:41:58.826  3849  4661 I flhq    : (REDACTED) Starting batch sync for corpora: %s
+10-11 11:41:58.827  3849  4662 I flhq    : (REDACTED) Starting batch sync for corpora: %s
+10-11 11:41:58.830  3849  4294 E flme    : Read metadata failed
+10-11 11:41:58.830  3849  4294 E flme    : android.database.sqlite.SQLiteException: no such table: geller_metadata_table (code 1 SQLITE_ERROR): , while compiling: SELECT DISTINCT metadata FROM geller_metadata_table WHERE data_type = ? AND key = ?
+10-11 11:41:58.830  3849  4294 E flme    : 	at android.database.sqlite.SQLiteConnection.nativePrepareStatement(Native Method)
+10-11 11:41:58.830  3849  4294 E flme    : 	at android.database.sqlite.SQLiteConnection.acquirePreparedStatement(SQLiteConnection.java:1069)
+10-11 11:41:58.830  3849  4294 E flme    : 	at android.database.sqlite.SQLiteConnection.prepare(SQLiteConnection.java:673)
+10-11 11:41:58.830  3849  4294 E flme    : 	at android.database.sqlite.SQLiteSession.prepare(SQLiteSession.java:590)
+10-11 11:41:58.830  3849  4294 E flme    : 	at android.database.sqlite.SQLiteProgram.<init>(SQLiteProgram.java:62)
+10-11 11:41:58.830  3849  4294 E flme    : 	at android.database.sqlite.SQLiteQuery.<init>(SQLiteQuery.java:37)
+10-11 11:41:58.830  3849  4294 E flme    : 	at android.database.sqlite.SQLiteDirectCursorDriver.query(SQLiteDirectCursorDriver.java:46)
+10-11 11:41:58.830  3849  4294 E flme    : 	at android.database.sqlite.SQLiteDatabase.rawQueryWithFactory(SQLiteDatabase.java:1714)
+10-11 11:41:58.830  3849  4294 E flme    : 	at android.database.sqlite.SQLiteDatabase.queryWithFactory(SQLiteDatabase.java:1561)
+10-11 11:41:58.830  3849  4294 E flme    : 	at android.database.sqlite.SQLiteDatabase.query(SQLiteDatabase.java:1432)
+10-11 11:41:58.830  3849  4294 E flme    : 	at flmf.d(PG:4)
+10-11 11:41:58.830  3849  4294 E flme    : 	at flme.readMetadata(PG:2)
+10-11 11:41:58.830  3849  4294 E flme    : 	at com.google.android.libraries.geller.portable.Geller.nativeReadMetadata(Native Method)
+10-11 11:41:58.830  3849  4294 E flme    : 	at com.google.android.libraries.geller.portable.Geller.c(PG:4)
+10-11 11:41:58.830  3849  4294 E flme    : 	at gznx.apply(PG:1)
+10-11 11:41:58.830  3849  4294 E flme    : 	at gzof.a(PG:5)
+10-11 11:41:58.830  3849  4294 E flme    : 	at hqsm.a(PG:3)
+10-11 11:41:58.830  3849  4294 E flme    : 	at iicu.a(PG:1)
+10-11 11:41:58.830  3849  4294 E flme    : 	at iieq.run(PG:4)
+10-11 11:41:58.830  3849  4294 E flme    : 	at fhus.run(PG:1)
+10-11 11:41:58.830  3849  4294 E flme    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-11 11:41:58.830  3849  4294 E flme    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-11 11:41:58.830  3849  4294 E flme    : 	at fhtw.run(PG:2)
+10-11 11:41:58.830  3849  4294 E flme    : 	at java.lang.Thread.run(Thread.java:1012)
+10-11 11:41:58.830  3849  4294 E flme    : 	at fhvb.run(PG:5)
+10-11 11:41:58.831  3849  4294 E flme    : An error occurred. Dropping existing data and recreating all tables.
+10-11 11:41:58.831  3849  4294 E flme    : android.database.sqlite.SQLiteException: no such table: geller_metadata_table (code 1 SQLITE_ERROR): , while compiling: SELECT DISTINCT metadata FROM geller_metadata_table WHERE data_type = ? AND key = ?
+10-11 11:41:58.831  3849  4294 E flme    : 	at android.database.sqlite.SQLiteConnection.nativePrepareStatement(Native Method)
+10-11 11:41:58.831  3849  4294 E flme    : 	at android.database.sqlite.SQLiteConnection.acquirePreparedStatement(SQLiteConnection.java:1069)
+10-11 11:41:58.831  3849  4294 E flme    : 	at android.database.sqlite.SQLiteConnection.prepare(SQLiteConnection.java:673)
+10-11 11:41:58.831  3849  4294 E flme    : 	at android.database.sqlite.SQLiteSession.prepare(SQLiteSession.java:590)
+10-11 11:41:58.831  3849  4294 E flme    : 	at android.database.sqlite.SQLiteProgram.<init>(SQLiteProgram.java:62)
+10-11 11:41:58.831  3849  4294 E flme    : 	at android.database.sqlite.SQLiteQuery.<init>(SQLiteQuery.java:37)
+10-11 11:41:58.831  3849  4294 E flme    : 	at android.database.sqlite.SQLiteDirectCursorDriver.query(SQLiteDirectCursorDriver.java:46)
+10-11 11:41:58.831  3849  4294 E flme    : 	at android.database.sqlite.SQLiteDatabase.rawQueryWithFactory(SQLiteDatabase.java:1714)
+10-11 11:41:58.831  3849  4294 E flme    : 	at android.database.sqlite.SQLiteDatabase.queryWithFactory(SQLiteDatabase.java:1561)
+10-11 11:41:58.831  3849  4294 E flme    : 	at android.database.sqlite.SQLiteDatabase.query(SQLiteDatabase.java:1432)
+10-11 11:41:58.831  3849  4294 E flme    : 	at flmf.d(PG:4)
+10-11 11:41:58.831  3849  4294 E flme    : 	at flme.readMetadata(PG:2)
+10-11 11:41:58.831  3849  4294 E flme    : 	at com.google.android.libraries.geller.portable.Geller.nativeReadMetadata(Native Method)
+10-11 11:41:58.831  3849  4294 E flme    : 	at com.google.android.libraries.geller.portable.Geller.c(PG:4)
+10-11 11:41:58.831  3849  4294 E flme    : 	at gznx.apply(PG:1)
+10-11 11:41:58.831  3849  4294 E flme    : 	at gzof.a(PG:5)
+10-11 11:41:58.831  3849  4294 E flme    : 	at hqsm.a(PG:3)
+10-11 11:41:58.831  3849  4294 E flme    : 	at iicu.a(PG:1)
+10-11 11:41:58.831  3849  4294 E flme    : 	at iieq.run(PG:4)
+10-11 11:41:58.831  3849  4294 E flme    : 	at fhus.run(PG:1)
+10-11 11:41:58.831  3849  4294 E flme    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-11 11:41:58.831  3849  4294 E flme    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-11 11:41:58.831  3849  4294 E flme    : 	at fhtw.run(PG:2)
+10-11 11:41:58.831  3849  4294 E flme    : 	at java.lang.Thread.run(Thread.java:1012)
+10-11 11:41:58.831  3849  4294 E flme    : 	at fhvb.run(PG:5)
+10-11 11:41:58.832  3849  4294 W flme    : (REDACTED) Dropped table %s
+10-11 11:41:58.832  3849  4244 I flhq    : (REDACTED) Starting batch sync for corpora: %s
+10-11 11:41:58.833  3849  4292 I gvow    : Building Device Properties.
+10-11 11:41:58.833  3849  4294 E SQLiteLog: (1) index datatype_key_dataid already exists in "CREATE INDEX datatype_key_dataid ON geller_key_table (data_type, key, delete_status, data_id);"
+10-11 11:41:58.834  3849  4294 E flme    : Failed to recreate tables
+10-11 11:41:58.834  3849  4294 E flme    : android.database.sqlite.SQLiteException: index datatype_key_dataid already exists (code 1 SQLITE_ERROR): , while compiling: CREATE INDEX datatype_key_dataid ON geller_key_table (data_type, key, delete_status, data_id);
+10-11 11:41:58.834  3849  4294 E flme    : 	at android.database.sqlite.SQLiteConnection.nativePrepareStatement(Native Method)
+10-11 11:41:58.834  3849  4294 E flme    : 	at android.database.sqlite.SQLiteConnection.acquirePreparedStatement(SQLiteConnection.java:1069)
+10-11 11:41:58.834  3849  4294 E flme    : 	at android.database.sqlite.SQLiteConnection.prepare(SQLiteConnection.java:673)
+10-11 11:41:58.834  3849  4294 E flme    : 	at android.database.sqlite.SQLiteSession.prepare(SQLiteSession.java:590)
+10-11 11:41:58.834  3849  4294 E flme    : 	at android.database.sqlite.SQLiteProgram.<init>(SQLiteProgram.java:62)
+10-11 11:41:58.834  3849  4294 E flme    : 	at android.database.sqlite.SQLiteStatement.<init>(SQLiteStatement.java:34)
+10-11 11:41:58.834  3849  4294 E flme    : 	at android.database.sqlite.SQLiteDatabase.executeSql(SQLiteDatabase.java:2088)
+10-11 11:41:58.834  3849  4294 E flme    : 	at android.database.sqlite.SQLiteDatabase.execSQL(SQLiteDatabase.java:2010)
+10-11 11:41:58.834  3849  4294 E flme    : 	at flme.onCreate(PG:5)
+10-11 11:41:58.834  3849  4294 E flme    : 	at flme.g(PG:12)
+10-11 11:41:58.834  3849  4294 E flme    : 	at flme.f(PG:18)
+10-11 11:41:58.834  3849  4294 E flme    : 	at flme.readMetadata(PG:5)
+10-11 11:41:58.834  3849  4294 E flme    : 	at com.google.android.libraries.geller.portable.Geller.nativeReadMetadata(Native Method)
+10-11 11:41:58.834  3849  4294 E flme    : 	at com.google.android.libraries.geller.portable.Geller.c(PG:4)
+10-11 11:41:58.834  3849  4294 E flme    : 	at gznx.apply(PG:1)
+10-11 11:41:58.834  3849  4294 E flme    : 	at gzof.a(PG:5)
+10-11 11:41:58.834  3849  4294 E flme    : 	at hqsm.a(PG:3)
+10-11 11:41:58.834  3849  4294 E flme    : 	at iicu.a(PG:1)
+10-11 11:41:58.834  3849  4294 E flme    : 	at iieq.run(PG:4)
+10-11 11:41:58.834  3849  4294 E flme    : 	at fhus.run(PG:1)
+10-11 11:41:58.834  3849  4294 E flme    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-11 11:41:58.834  3849  4294 E flme    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-11 11:41:58.834  3849  4294 E flme    : 	at fhtw.run(PG:2)
+10-11 11:41:58.834  3849  4294 E flme    : 	at java.lang.Thread.run(Thread.java:1012)
+10-11 11:41:58.834  3849  4294 E flme    : 	at fhvb.run(PG:5)
+10-11 11:41:58.834  3849  4662 I flhq    : (REDACTED) Starting batch sync for corpora: %s
+10-11 11:41:58.835  3849  4296 I gvow    : Building Device Properties.
+10-11 11:41:58.835  3849  4661 W flhq    : (REDACTED) Upload permissions denied for Corpus %s
+10-11 11:41:58.835  3849  4244 I flhq    : (REDACTED) Starting batch sync for corpora: %s
+10-11 11:41:58.835  3849  4293 I gvow    : Building Device Properties.
+10-11 11:41:58.836  3849 14250 I flhq    : (REDACTED) The syncToken for corpus %s is %s.
+10-11 11:41:58.838  3849  4664 I flhq    : (REDACTED) Starting batch sync for corpora: %s
+10-11 11:41:58.840  3849  4292 I gvow    : Building Device Properties.
+10-11 11:41:58.841  3849 14256 I flme    : (REDACTED) The GellerConfig is not present, defaulting isUploadEnabled for corpus %s to true.
+10-11 11:41:58.844  3849 14250 D TrafficStats: tagSocket(325) with statsTag=0x0, statsUid=-1
+10-11 11:41:58.847  3849  4296 I gvow    : Building Device Properties.
+10-11 11:41:58.847  3849  4660 I flhq    : (REDACTED) Starting batch sync for corpora: %s
+10-11 11:41:58.847  3849  4244 I flhq    : (REDACTED) Starting batch sync for corpora: %s
+10-11 11:41:58.849  3849 14064 I flhq    : (REDACTED) The syncToken for corpus %s is %s.
+10-11 11:41:58.852  3849 14256 E SQLiteLog: (1) no such table: geller_metadata_table in "SELECT DISTINCT metadata FROM geller_metadata_table WHERE data_type = ? AND key = ?"
+10-11 11:41:58.853  3849 14256 E flme    : Read metadata failed
+10-11 11:41:58.853  3849 14256 E flme    : android.database.sqlite.SQLiteException: no such table: geller_metadata_table (code 1 SQLITE_ERROR): , while compiling: SELECT DISTINCT metadata FROM geller_metadata_table WHERE data_type = ? AND key = ?
+10-11 11:41:58.853  3849 14256 E flme    : 	at android.database.sqlite.SQLiteConnection.nativePrepareStatement(Native Method)
+10-11 11:41:58.853  3849 14256 E flme    : 	at android.database.sqlite.SQLiteConnection.acquirePreparedStatement(SQLiteConnection.java:1069)
+10-11 11:41:58.853  3849 14256 E flme    : 	at android.database.sqlite.SQLiteConnection.prepare(SQLiteConnection.java:673)
+10-11 11:41:58.853  3849 14256 E flme    : 	at android.database.sqlite.SQLiteSession.prepare(SQLiteSession.java:590)
+10-11 11:41:58.853  3849 14256 E flme    : 	at android.database.sqlite.SQLiteProgram.<init>(SQLiteProgram.java:62)
+10-11 11:41:58.853  3849 14256 E flme    : 	at android.database.sqlite.SQLiteQuery.<init>(SQLiteQuery.java:37)
+10-11 11:41:58.853  3849 14256 E flme    : 	at android.database.sqlite.SQLiteDirectCursorDriver.query(SQLiteDirectCursorDriver.java:46)
+10-11 11:41:58.853  3849 14256 E flme    : 	at android.database.sqlite.SQLiteDatabase.rawQueryWithFactory(SQLiteDatabase.java:1714)
+10-11 11:41:58.853  3849 14256 E flme    : 	at android.database.sqlite.SQLiteDatabase.queryWithFactory(SQLiteDatabase.java:1561)
+10-11 11:41:58.853  3849 14256 E flme    : 	at android.database.sqlite.SQLiteDatabase.query(SQLiteDatabase.java:1432)
+10-11 11:41:58.853  3849 14256 E flme    : 	at flmf.d(PG:4)
+10-11 11:41:58.853  3849 14256 E flme    : 	at flme.readMetadata(PG:2)
+10-11 11:41:58.853  3849 14256 E flme    : 	at com.google.android.libraries.geller.portable.Geller.nativeReadMetadata(Native Method)
+10-11 11:41:58.853  3849 14256 E flme    : 	at com.google.android.libraries.geller.portable.Geller.c(PG:4)
+10-11 11:41:58.853  3849 14256 E flme    : 	at flhq.d(PG:30)
+10-11 11:41:58.853  3849 14256 E flme    : 	at flhn.apply(PG:7)
+10-11 11:41:58.853  3849 14256 E flme    : 	at hqsy.apply(PG:3)
+10-11 11:41:58.853  3849 14256 E flme    : 	at iiaz.e(PG:2)
+10-11 11:41:58.853  3849 14256 E flme    : 	at iiba.run(PG:9)
+10-11 11:41:58.853  3849 14256 E flme    : 	at fhus.run(PG:1)
+10-11 11:41:58.853  3849 14256 E flme    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-11 11:41:58.853  3849 14256 E flme    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-11 11:41:58.853  3849 14256 E flme    : 	at fhua.run(PG:2)
+10-11 11:41:58.853  3849 14256 E flme    : 	at java.lang.Thread.run(Thread.java:1012)
+10-11 11:41:58.853  3849 14256 E flme    : 	at fhvb.run(PG:5)
+10-11 11:41:58.854  3849 14256 E flme    : An error occurred. Dropping existing data and recreating all tables.
+10-11 11:41:58.854  3849 14256 E flme    : android.database.sqlite.SQLiteException: no such table: geller_metadata_table (code 1 SQLITE_ERROR): , while compiling: SELECT DISTINCT metadata FROM geller_metadata_table WHERE data_type = ? AND key = ?
+10-11 11:41:58.854  3849 14256 E flme    : 	at android.database.sqlite.SQLiteConnection.nativePrepareStatement(Native Method)
+10-11 11:41:58.854  3849 14256 E flme    : 	at android.database.sqlite.SQLiteConnection.acquirePreparedStatement(SQLiteConnection.java:1069)
+10-11 11:41:58.854  3849 14256 E flme    : 	at android.database.sqlite.SQLiteConnection.prepare(SQLiteConnection.java:673)
+10-11 11:41:58.854  3849 14256 E flme    : 	at android.database.sqlite.SQLiteSession.prepare(SQLiteSession.java:590)
+10-11 11:41:58.854  3849 14256 E flme    : 	at android.database.sqlite.SQLiteProgram.<init>(SQLiteProgram.java:62)
+10-11 11:41:58.854  3849 14256 E flme    : 	at android.database.sqlite.SQLiteQuery.<init>(SQLiteQuery.java:37)
+10-11 11:41:58.854  3849 14256 E flme    : 	at android.database.sqlite.SQLiteDirectCursorDriver.query(SQLiteDirectCursorDriver.java:46)
+10-11 11:41:58.854  3849 14256 E flme    : 	at android.database.sqlite.SQLiteDatabase.rawQueryWithFactory(SQLiteDatabase.java:1714)
+10-11 11:41:58.854  3849 14256 E flme    : 	at android.database.sqlite.SQLiteDatabase.queryWithFactory(SQLiteDatabase.java:1561)
+10-11 11:41:58.854  3849 14256 E flme    : 	at android.database.sqlite.SQLiteDatabase.query(SQLiteDatabase.java:1432)
+10-11 11:41:58.854  3849 14256 E flme    : 	at flmf.d(PG:4)
+10-11 11:41:58.854  3849 14256 E flme    : 	at flme.readMetadata(PG:2)
+10-11 11:41:58.854  3849 14256 E flme    : 	at com.google.android.libraries.geller.portable.Geller.nativeReadMetadata(Native Method)
+10-11 11:41:58.854  3849 14256 E flme    : 	at com.google.android.libraries.geller.portable.Geller.c(PG:4)
+10-11 11:41:58.854  3849 14256 E flme    : 	at flhq.d(PG:30)
+10-11 11:41:58.854  3849 14256 E flme    : 	at flhn.apply(PG:7)
+10-11 11:41:58.854  3849 14256 E flme    : 	at hqsy.apply(PG:3)
+10-11 11:41:58.854  3849 14256 E flme    : 	at iiaz.e(PG:2)
+10-11 11:41:58.854  3849 14256 E flme    : 	at iiba.run(PG:9)
+10-11 11:41:58.854  3849 14256 E flme    : 	at fhus.run(PG:1)
+10-11 11:41:58.854  3849 14256 E flme    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-11 11:41:58.854  3849 14256 E flme    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-11 11:41:58.854  3849 14256 E flme    : 	at fhua.run(PG:2)
+10-11 11:41:58.854  3849 14256 E flme    : 	at java.lang.Thread.run(Thread.java:1012)
+10-11 11:41:58.854  3849 14256 E flme    : 	at fhvb.run(PG:5)
+10-11 11:41:58.854  3849 14256 W flme    : (REDACTED) Dropped table %s
+10-11 11:41:58.855  3849 14256 E SQLiteLog: (1) index datatype_key_dataid already exists in "CREATE INDEX datatype_key_dataid ON geller_key_table (data_type, key, delete_status, data_id);"
+10-11 11:41:58.856  3849 14256 E flme    : Failed to recreate tables
+10-11 11:41:58.856  3849 14256 E flme    : android.database.sqlite.SQLiteException: index datatype_key_dataid already exists (code 1 SQLITE_ERROR): , while compiling: CREATE INDEX datatype_key_dataid ON geller_key_table (data_type, key, delete_status, data_id);
+10-11 11:41:58.856  3849 14256 E flme    : 	at android.database.sqlite.SQLiteConnection.nativePrepareStatement(Native Method)
+10-11 11:41:58.856  3849 14256 E flme    : 	at android.database.sqlite.SQLiteConnection.acquirePreparedStatement(SQLiteConnection.java:1069)
+10-11 11:41:58.856  3849 14256 E flme    : 	at android.database.sqlite.SQLiteConnection.prepare(SQLiteConnection.java:673)
+10-11 11:41:58.856  3849 14256 E flme    : 	at android.database.sqlite.SQLiteSession.prepare(SQLiteSession.java:590)
+10-11 11:41:58.856  3849 14256 E flme    : 	at android.database.sqlite.SQLiteProgram.<init>(SQLiteProgram.java:62)
+10-11 11:41:58.856  3849 14256 E flme    : 	at android.database.sqlite.SQLiteStatement.<init>(SQLiteStatement.java:34)
+10-11 11:41:58.856  3849 14256 E flme    : 	at android.database.sqlite.SQLiteDatabase.executeSql(SQLiteDatabase.java:2088)
+10-11 11:41:58.856  3849 14256 E flme    : 	at android.database.sqlite.SQLiteDatabase.execSQL(SQLiteDatabase.java:2010)
+10-11 11:41:58.856  3849 14256 E flme    : 	at flme.onCreate(PG:5)
+10-11 11:41:58.856  3849 14256 E flme    : 	at flme.g(PG:12)
+10-11 11:41:58.856  3849 14256 E flme    : 	at flme.f(PG:18)
+10-11 11:41:58.856  3849 14256 E flme    : 	at flme.readMetadata(PG:5)
+10-11 11:41:58.856  3849 14256 E flme    : 	at com.google.android.libraries.geller.portable.Geller.nativeReadMetadata(Native Method)
+10-11 11:41:58.856  3849 14256 E flme    : 	at com.google.android.libraries.geller.portable.Geller.c(PG:4)
+10-11 11:41:58.856  3849 14256 E flme    : 	at flhq.d(PG:30)
+10-11 11:41:58.856  3849 14256 E flme    : 	at flhn.apply(PG:7)
+10-11 11:41:58.856  3849 14256 E flme    : 	at hqsy.apply(PG:3)
+10-11 11:41:58.856  3849 14256 E flme    : 	at iiaz.e(PG:2)
+10-11 11:41:58.856  3849 14256 E flme    : 	at iiba.run(PG:9)
+10-11 11:41:58.856  3849 14256 E flme    : 	at fhus.run(PG:1)
+10-11 11:41:58.856  3849 14256 E flme    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-11 11:41:58.856  3849 14256 E flme    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-11 11:41:58.856  3849 14256 E flme    : 	at fhua.run(PG:2)
+10-11 11:41:58.856  3849 14256 E flme    : 	at java.lang.Thread.run(Thread.java:1012)
+10-11 11:41:58.856  3849 14256 E flme    : 	at fhvb.run(PG:5)
+10-11 11:41:58.856  3849 14256 I flhq    : (REDACTED) No previous syncToken for corpus %s found.
+10-11 11:41:58.857  3849  4292 I gvow    : Building Device Properties.
+10-11 11:41:58.857  3849  4292 I gvow    : Building Device Properties.
+10-11 11:41:58.857  3849  4661 I flhq    : (REDACTED) Starting batch sync for corpora: %s
+10-11 11:41:58.859  3849 14252 D TrafficStats: tagSocket(375) with statsTag=0x0, statsUid=-1
+10-11 11:41:58.859  3849 14064 D TrafficStats: tagSocket(348) with statsTag=0x0, statsUid=-1
+10-11 11:41:58.865  3849  4293 I gvow    : Building Device Properties.
+10-11 11:41:58.866  3849 14256 I flhq    : (REDACTED) The syncToken for corpus %s is %s.
+10-11 11:41:58.869  3849 13403 I flhq    : (REDACTED) The syncToken for corpus %s is %s.
+10-11 11:41:58.870  3849 13403 D TrafficStats: tagSocket(379) with statsTag=0x0, statsUid=-1
+10-11 11:41:58.870  3849 14088 D TrafficStats: tagSocket(389) with statsTag=0x0, statsUid=-1
+10-11 11:41:58.873  3849 14168 I flhq    : (REDACTED) The syncToken for corpus %s is %s.
+10-11 11:41:58.876  3849 14168 D TrafficStats: tagSocket(382) with statsTag=0x0, statsUid=-1
+10-11 11:41:58.878  3849 13893 I flhq    : (REDACTED) The syncToken for corpus %s is %s.
+10-11 11:41:58.879  3849 14122 D TrafficStats: tagSocket(394) with statsTag=0x0, statsUid=-1
+10-11 11:41:58.881  3849 14256 I flhq    : (REDACTED) The syncToken for corpus %s is %s.
+10-11 11:41:58.883  3849 14256 D TrafficStats: tagSocket(395) with statsTag=0x0, statsUid=-1
+10-11 11:41:58.883  3849 13893 I flhq    : (REDACTED) The syncToken for corpus %s is %s.
+10-11 11:41:58.886  3849 13893 D TrafficStats: tagSocket(396) with statsTag=0x0, statsUid=-1
+10-11 11:41:58.888  3849 14063 I flhq    : (REDACTED) The syncToken for corpus %s is %s.
+10-11 11:41:58.890  3849 14063 D TrafficStats: tagSocket(398) with statsTag=0x0, statsUid=-1
+10-11 11:41:59.074  6863  6863 I ImeTracker: com.aero:9a5166c9: onRequestHide at ORIGIN_CLIENT_HIDE_SOFT_INPUT reason HIDE_SOFT_INPUT
+10-11 11:41:59.075  4953  4953 I GoogleInputMethodService: GoogleInputMethodService.onFinishInputView():2239
+10-11 11:41:59.075  4953  4953 I NgaExtension: NgaExtension.onDeactivate():480 NgaExtension#onDeactivate [SDG]
+10-11 11:41:59.076  4953  4953 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():163 Tooltip with id spell_check_add_to_dictionary not found in tooltipManager.
+10-11 11:41:59.082  3849  4663 I cslt    : #startInteraction [SD]
+10-11 11:41:59.084  3849  4663 I cslq    : (REDACTED) Starting %s [SD]
+10-11 11:41:59.085  3849  4663 I csng    : (REDACTED) Handling KeyboardVisibilityEvent: %s [SD]
+10-11 11:41:59.087   596   640 W gralloc4: Unable to set buffer name VRI[test]#3839(BLAST Consumer)3839: File name too long
+10-11 11:41:59.087  1581  4993 I ImeTracker: com.example.lemonade:8c1d2ebb: onRequestHide at ORIGIN_SERVER_HIDE_INPUT reason HIDE_UNSPECIFIED_WINDOW
+10-11 11:41:59.088  4953 14617 W RemoteInputConnection: requestCursorUpdates() was cancelled.
+10-11 11:41:59.089  4953  4953 I KeyboardWrapper: KeyboardWrapper.consumeEvent():385 Skip consuming an event as current keyboard is deactivated (state=0, keyboard existence=true)
+10-11 11:41:59.089  4953  4953 I VoiceInputHandler: VoiceInputHandler.onDeactivateIme():110 unregistering TalkbackStateListener
+10-11 11:41:59.089  4953  4953 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.shutdown():81 shutdown()
+10-11 11:41:59.090  4953  4953 I AndroidIME: AbstractIme.onDeactivate():203 LatinIme.onDeactivate()
+10-11 11:41:59.091  4953  4953 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3267
+10-11 11:41:59.092  4953  4953 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2097 repeatCheckTimes = 0, locked = false
+10-11 11:41:59.092  4953  4953 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1889 onStartInput(EditorInfo{EditorInfo{packageName=com.example.lemonade, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+10-11 11:41:59.092  4953  4953 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2097 repeatCheckTimes = 1, locked = false
+10-11 11:41:59.097   596   640 W gralloc4: Unable to set buffer name VRI[test]#3839(BLAST Consumer)3839: File name too long
+10-11 11:41:59.102   596   640 W gralloc4: Unable to set buffer name VRI[test]#3839(BLAST Consumer)3839: File name too long
+10-11 11:41:59.104  4953 18084 W AndroidFuture: Remote result com.android.internal.infra.AndroidFuture@a69262c[Completed normally] ignored, as local future is already completed: com.android.internal.infra.AndroidFuture@a6ed8f5[Completed exceptionally: java.util.concurrent.CancellationException]
+10-11 11:41:59.108  6863  6863 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=falsecallback=ImeCallback=ImeOnBackInvokedCallback@212820832 Callback=android.window.IOnBackInvokedCallback$Stub$Proxy@2aad756
+10-11 11:41:59.110   596   640 W gralloc4: Unable to set buffer name VRI[test]#3839(BLAST Consumer)3839: File name too long
+10-11 11:41:59.118  6863  6863 D WM-SystemJobService: onStopJob for WorkGenerationalId(workSpecId=18f50397-511b-42dc-b4ad-cef4bf7a05a1, generation=0)
+10-11 11:41:59.118  6863  7183 D WM-Processor: Processor stopping background work 18f50397-511b-42dc-b4ad-cef4bf7a05a1
+10-11 11:41:59.118  6863  7183 D WM-WorkerWrapper: Work interrupted for Work [ id=18f50397-511b-42dc-b4ad-cef4bf7a05a1, tags={ com.aero.messaging.xmpp.XmppLogoutWorker } ]
+10-11 11:41:59.121  6863  7183 D WM-Processor: WorkerWrapper interrupted for 18f50397-511b-42dc-b4ad-cef4bf7a05a1
+10-11 11:41:59.121  6863  7183 D WM-StopWorkRunnable: StopWorkRunnable for 18f50397-511b-42dc-b4ad-cef4bf7a05a1; Processor.stopWork = true
+10-11 11:41:59.122  6863  7217 I WM-WorkerWrapper: Work [ id=18f50397-511b-42dc-b4ad-cef4bf7a05a1, tags={ com.aero.messaging.xmpp.XmppLogoutWorker } ] was cancelled
+10-11 11:41:59.122  6863  7217 I WM-WorkerWrapper: java.util.concurrent.CancellationException: Task was cancelled.
+10-11 11:41:59.122  6863  7217 I WM-WorkerWrapper: 	at X.0ZB.A02(Unknown Source:32)
+10-11 11:41:59.122  6863  7217 I WM-WorkerWrapper: 	at X.0ZB.get(Unknown Source:47)
+10-11 11:41:59.122  6863  7217 I WM-WorkerWrapper: 	at X.0b0.run(Unknown Source:4)
+10-11 11:41:59.122  6863  7217 I WM-WorkerWrapper: 	at X.0b5.run(Unknown Source:2)
+10-11 11:41:59.122  6863  7217 I WM-WorkerWrapper: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-11 11:41:59.122  6863  7217 I WM-WorkerWrapper: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-11 11:41:59.122  6863  7217 I WM-WorkerWrapper: 	at java.lang.Thread.run(Thread.java:1012)
+10-11 11:41:59.122  6863  7217 D WM-WorkerWrapper: Work interrupted for Work [ id=18f50397-511b-42dc-b4ad-cef4bf7a05a1, tags={ com.aero.messaging.xmpp.XmppLogoutWorker } ]
+10-11 11:41:59.123  6863  6863 I ImeTracker: com.example.lemonade:8c1d2ebb: onCancelled at PHASE_CLIENT_APPLY_ANIMATION
+10-11 11:41:59.123  6863  6863 I ImeTracker: com.aero:9a5166c9: onCancelled at PHASE_CLIENT_ANIMATION_CANCEL
+10-11 11:41:59.124  6863  6863 I ImeTracker: com.aero:5a5d140d: onRequestHide at ORIGIN_CLIENT_HIDE_SOFT_INPUT reason HIDE_SOFT_INPUT_BY_INSETS_API
+10-11 11:41:59.124  6863  6863 I ImeTracker: com.aero:5a5d140d: onFailed at PHASE_CLIENT_VIEW_SERVED
+10-11 11:41:59.124  3849 13609 I flme    : (REDACTED) Writing metadata key: %s, corpus: %s
+10-11 11:41:59.125 13883 13884 I AidlLazyServiceRegistrar: Process has 0 (of 1 available) client(s) in use after notification artd has clients: 0
+10-11 11:41:59.125 13883 13884 I AidlLazyServiceRegistrar: Trying to shut down the service. No clients in use for any service in process.
+10-11 11:41:59.125  6863  6863 D WM-Processor: 0Xf 18f50397-511b-42dc-b4ad-cef4bf7a05a1 executed; reschedule = true
+10-11 11:41:59.125  6863  6863 D WM-GreedyScheduler: Stopping tracking for WorkGenerationalId(workSpecId=18f50397-511b-42dc-b4ad-cef4bf7a05a1, generation=0)
+10-11 11:41:59.125  6863  6863 D WM-NetworkStateTracker: Unregistering network callback
+10-11 11:41:59.126  3849 13609 I flme    : (REDACTED) Writing metadata key: %s, corpus: %s
+10-11 11:41:59.126 13883 13884 I AidlLazyServiceRegistrar: Unregistered all clients and exiting
+10-11 11:41:59.130  3849  4244 I flhq    : (REDACTED) Starting batch sync for corpora: %s
+10-11 11:41:59.131  3849 13609 I flme    : (REDACTED) Writing metadata key: %s, corpus: %s
+10-11 11:41:59.131  6863  7217 D WM-GreedyScheduler: Cancelling work ID 18f50397-511b-42dc-b4ad-cef4bf7a05a1
+10-11 11:41:59.132  3849 13609 I flme    : (REDACTED) Writing metadata key: %s, corpus: %s
+10-11 11:41:59.132  3849  4293 E SQLiteLog: (1) no such table: geller_metadata_table in "SELECT DISTINCT metadata FROM geller_metadata_table WHERE data_type = ? AND key = ?"
+10-11 11:41:59.133  3849  4293 E flme    : Read metadata failed
+10-11 11:41:59.133  3849  4293 E flme    : android.database.sqlite.SQLiteException: no such table: geller_metadata_table (code 1 SQLITE_ERROR): , while compiling: SELECT DISTINCT metadata FROM geller_metadata_table WHERE data_type = ? AND key = ?
+10-11 11:41:59.133  3849  4293 E flme    : 	at android.database.sqlite.SQLiteConnection.nativePrepareStatement(Native Method)
+10-11 11:41:59.133  3849  4293 E flme    : 	at android.database.sqlite.SQLiteConnection.acquirePreparedStatement(SQLiteConnection.java:1069)
+10-11 11:41:59.133  3849  4293 E flme    : 	at android.database.sqlite.SQLiteConnection.prepare(SQLiteConnection.java:673)
+10-11 11:41:59.133  3849  4293 E flme    : 	at android.database.sqlite.SQLiteSession.prepare(SQLiteSession.java:590)
+10-11 11:41:59.133  3849  4293 E flme    : 	at android.database.sqlite.SQLiteProgram.<init>(SQLiteProgram.java:62)
+10-11 11:41:59.133  3849  4293 E flme    : 	at android.database.sqlite.SQLiteQuery.<init>(SQLiteQuery.java:37)
+10-11 11:41:59.133  3849  4293 E flme    : 	at android.database.sqlite.SQLiteDirectCursorDriver.query(SQLiteDirectCursorDriver.java:46)
+10-11 11:41:59.133  3849  4293 E flme    : 	at android.database.sqlite.SQLiteDatabase.rawQueryWithFactory(SQLiteDatabase.java:1714)
+10-11 11:41:59.133  3849  4293 E flme    : 	at android.database.sqlite.SQLiteDatabase.queryWithFactory(SQLiteDatabase.java:1561)
+10-11 11:41:59.133  3849  4293 E flme    : 	at android.database.sqlite.SQLiteDatabase.query(SQLiteDatabase.java:1432)
+10-11 11:41:59.133  3849  4293 E flme    : 	at flmf.d(PG:4)
+10-11 11:41:59.133  3849  4293 E flme    : 	at flme.readMetadata(PG:2)
+10-11 11:41:59.133  3849  4293 E flme    : 	at com.google.android.libraries.geller.portable.Geller.nativeReadMetadata(Native Method)
+10-11 11:41:59.133  3849  4293 E flme    : 	at com.google.android.libraries.geller.portable.Geller.c(PG:4)
+10-11 11:41:59.133  3849  4293 E flme    : 	at gznx.apply(PG:1)
+10-11 11:41:59.133  3849  4293 E flme    : 	at gzof.a(PG:5)
+10-11 11:41:59.133  3849  4293 E flme    : 	at hqsm.a(PG:3)
+10-11 11:41:59.133  3849  4293 E flme    : 	at iicu.a(PG:1)
+10-11 11:41:59.133  3849  4293 E flme    : 	at iieq.run(PG:4)
+10-11 11:41:59.133  3849  4293 E flme    : 	at fhus.run(PG:1)
+10-11 11:41:59.133  3849  4293 E flme    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-11 11:41:59.133  3849  4293 E flme    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-11 11:41:59.133  3849  4293 E flme    : 	at fhtw.run(PG:2)
+10-11 11:41:59.133  3849  4293 E flme    : 	at java.lang.Thread.run(Thread.java:1012)
+10-11 11:41:59.133  3849  4293 E flme    : 	at fhvb.run(PG:5)
+10-11 11:41:59.133  3849  4293 E flme    : An error occurred. Dropping existing data and recreating all tables.
+10-11 11:41:59.133  3849  4293 E flme    : android.database.sqlite.SQLiteException: no such table: geller_metadata_table (code 1 SQLITE_ERROR): , while compiling: SELECT DISTINCT metadata FROM geller_metadata_table WHERE data_type = ? AND key = ?
+10-11 11:41:59.133  3849  4293 E flme    : 	at android.database.sqlite.SQLiteConnection.nativePrepareStatement(Native Method)
+10-11 11:41:59.133  3849  4293 E flme    : 	at android.database.sqlite.SQLiteConnection.acquirePreparedStatement(SQLiteConnection.java:1069)
+10-11 11:41:59.133  3849  4293 E flme    : 	at android.database.sqlite.SQLiteConnection.prepare(SQLiteConnection.java:673)
+10-11 11:41:59.133  3849  4293 E flme    : 	at android.database.sqlite.SQLiteSession.prepare(SQLiteSession.java:590)
+10-11 11:41:59.133  3849  4293 E flme    : 	at android.database.sqlite.SQLiteProgram.<init>(SQLiteProgram.java:62)
+10-11 11:41:59.133  3849  4293 E flme    : 	at android.database.sqlite.SQLiteQuery.<init>(SQLiteQuery.java:37)
+10-11 11:41:59.133  3849  4293 E flme    : 	at android.database.sqlite.SQLiteDirectCursorDriver.query(SQLiteDirectCursorDriver.java:46)
+10-11 11:41:59.133  3849  4293 E flme    : 	at android.database.sqlite.SQLiteDatabase.rawQueryWithFactory(SQLiteDatabase.java:1714)
+10-11 11:41:59.133  3849  4293 E flme    : 	at android.database.sqlite.SQLiteDatabase.queryWithFactory(SQLiteDatabase.java:1561)
+10-11 11:41:59.133  3849  4293 E flme    : 	at android.database.sqlite.SQLiteDatabase.query(SQLiteDatabase.java:1432)
+10-11 11:41:59.133  3849  4293 E flme    : 	at flmf.d(PG:4)
+10-11 11:41:59.133  3849  4293 E flme    : 	at flme.readMetadata(PG:2)
+10-11 11:41:59.133  3849  4293 E flme    : 	at com.google.android.libraries.geller.portable.Geller.nativeReadMetadata(Native Method)
+10-11 11:41:59.133  3849  4293 E flme    : 	at com.google.android.libraries.geller.portable.Geller.c(PG:4)
+10-11 11:41:59.133  3849  4293 E flme    : 	at gznx.apply(PG:1)
+10-11 11:41:59.133  3849  4293 E flme    : 	at gzof.a(PG:5)
+10-11 11:41:59.133  3849  4293 E flme    : 	at hqsm.a(PG:3)
+10-11 11:41:59.133  3849  4293 E flme    : 	at iicu.a(PG:1)
+10-11 11:41:59.133  3849  4293 E flme    : 	at iieq.run(PG:4)
+10-11 11:41:59.133  3849  4293 E flme    : 	at fhus.run(PG:1)
+10-11 11:41:59.133  3849  4293 E flme    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-11 11:41:59.133  3849  4293 E flme    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-11 11:41:59.133  3849  4293 E flme    : 	at fhtw.run(PG:2)
+10-11 11:41:59.133  3849  4293 E flme    : 	at java.lang.Thread.run(Thread.java:1012)
+10-11 11:41:59.133  3849  4293 E flme    : 	at fhvb.run(PG:5)
+10-11 11:41:59.134  3849  4293 W flme    : (REDACTED) Dropped table %s
+10-11 11:41:59.136  3849  4293 E SQLiteLog: (1) index datatype_key_dataid already exists in "CREATE INDEX datatype_key_dataid ON geller_key_table (data_type, key, delete_status, data_id);"
+10-11 11:41:59.136  6863  7217 D WM-SystemJobScheduler: Scheduling work ID 18f50397-511b-42dc-b4ad-cef4bf7a05a1Job ID 9233
+10-11 11:41:59.136  3849  4293 E flme    : Failed to recreate tables
+10-11 11:41:59.136  3849  4293 E flme    : android.database.sqlite.SQLiteException: index datatype_key_dataid already exists (code 1 SQLITE_ERROR): , while compiling: CREATE INDEX datatype_key_dataid ON geller_key_table (data_type, key, delete_status, data_id);
+10-11 11:41:59.136  3849  4293 E flme    : 	at android.database.sqlite.SQLiteConnection.nativePrepareStatement(Native Method)
+10-11 11:41:59.136  3849  4293 E flme    : 	at android.database.sqlite.SQLiteConnection.acquirePreparedStatement(SQLiteConnection.java:1069)
+10-11 11:41:59.136  3849  4293 E flme    : 	at android.database.sqlite.SQLiteConnection.prepare(SQLiteConnection.java:673)
+10-11 11:41:59.136  3849  4293 E flme    : 	at android.database.sqlite.SQLiteSession.prepare(SQLiteSession.java:590)
+10-11 11:41:59.136  3849  4293 E flme    : 	at android.database.sqlite.SQLiteProgram.<init>(SQLiteProgram.java:62)
+10-11 11:41:59.136  3849  4293 E flme    : 	at android.database.sqlite.SQLiteStatement.<init>(SQLiteStatement.java:34)
+10-11 11:41:59.136  3849  4293 E flme    : 	at android.database.sqlite.SQLiteDatabase.executeSql(SQLiteDatabase.java:2088)
+10-11 11:41:59.136  3849  4293 E flme    : 	at android.database.sqlite.SQLiteDatabase.execSQL(SQLiteDatabase.java:2010)
+10-11 11:41:59.136  3849  4293 E flme    : 	at flme.onCreate(PG:5)
+10-11 11:41:59.136  3849  4293 E flme    : 	at flme.g(PG:12)
+10-11 11:41:59.136  3849  4293 E flme    : 	at flme.f(PG:18)
+10-11 11:41:59.136  3849  4293 E flme    : 	at flme.readMetadata(PG:5)
+10-11 11:41:59.136  3849  4293 E flme    : 	at com.google.android.libraries.geller.portable.Geller.nativeReadMetadata(Native Method)
+10-11 11:41:59.136  3849  4293 E flme    : 	at com.google.android.libraries.geller.portable.Geller.c(PG:4)
+10-11 11:41:59.136  3849  4293 E flme    : 	at gznx.apply(PG:1)
+10-11 11:41:59.136  3849  4293 E flme    : 	at gzof.a(PG:5)
+10-11 11:41:59.136  3849  4293 E flme    : 	at hqsm.a(PG:3)
+10-11 11:41:59.136  3849  4293 E flme    : 	at iicu.a(PG:1)
+10-11 11:41:59.136  3849  4293 E flme    : 	at iieq.run(PG:4)
+10-11 11:41:59.136  3849  4293 E flme    : 	at fhus.run(PG:1)
+10-11 11:41:59.136  3849  4293 E flme    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-11 11:41:59.136  3849  4293 E flme    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-11 11:41:59.136  3849  4293 E flme    : 	at fhtw.run(PG:2)
+10-11 11:41:59.136  3849  4293 E flme    : 	at java.lang.Thread.run(Thread.java:1012)
+10-11 11:41:59.136  3849  4293 E flme    : 	at fhvb.run(PG:5)
+10-11 11:41:59.137  3849  4660 I flhq    : (REDACTED) Starting batch sync for corpora: %s
+10-11 11:41:59.140  3849  4293 E SQLiteLog: (1) no such table: geller_metadata_table in "SELECT DISTINCT metadata FROM geller_metadata_table WHERE data_type = ? AND key = ?"
+10-11 11:41:59.140  3849 13897 I flme    : (REDACTED) The GellerConfig is not present, defaulting isUploadEnabled for corpus %s to true.
+10-11 11:41:59.141  3849  4293 E flme    : Read metadata failed
+10-11 11:41:59.141  3849  4293 E flme    : android.database.sqlite.SQLiteException: no such table: geller_metadata_table (code 1 SQLITE_ERROR): , while compiling: SELECT DISTINCT metadata FROM geller_metadata_table WHERE data_type = ? AND key = ?
+10-11 11:41:59.141  3849  4293 E flme    : 	at android.database.sqlite.SQLiteConnection.nativePrepareStatement(Native Method)
+10-11 11:41:59.141  3849  4293 E flme    : 	at android.database.sqlite.SQLiteConnection.acquirePreparedStatement(SQLiteConnection.java:1069)
+10-11 11:41:59.141  3849  4293 E flme    : 	at android.database.sqlite.SQLiteConnection.prepare(SQLiteConnection.java:673)
+10-11 11:41:59.141  3849  4293 E flme    : 	at android.database.sqlite.SQLiteSession.prepare(SQLiteSession.java:590)
+10-11 11:41:59.141  3849  4293 E flme    : 	at android.database.sqlite.SQLiteProgram.<init>(SQLiteProgram.java:62)
+10-11 11:41:59.141  3849  4293 E flme    : 	at android.database.sqlite.SQLiteQuery.<init>(SQLiteQuery.java:37)
+10-11 11:41:59.141  3849  4293 E flme    : 	at android.database.sqlite.SQLiteDirectCursorDriver.query(SQLiteDirectCursorDriver.java:46)
+10-11 11:41:59.141  3849  4293 E flme    : 	at android.database.sqlite.SQLiteDatabase.rawQueryWithFactory(SQLiteDatabase.java:1714)
+10-11 11:41:59.141  3849  4293 E flme    : 	at android.database.sqlite.SQLiteDatabase.queryWithFactory(SQLiteDatabase.java:1561)
+10-11 11:41:59.141  3849  4293 E flme    : 	at android.database.sqlite.SQLiteDatabase.query(SQLiteDatabase.java:1432)
+10-11 11:41:59.141  3849  4293 E flme    : 	at flmf.d(PG:4)
+10-11 11:41:59.141  3849  4293 E flme    : 	at flme.readMetadata(PG:2)
+10-11 11:41:59.141  3849  4293 E flme    : 	at com.google.android.libraries.geller.portable.Geller.nativeReadMetadata(Native Method)
+10-11 11:41:59.141  3849  4293 E flme    : 	at com.google.android.libraries.geller.portable.Geller.c(PG:4)
+10-11 11:41:59.141  3849  4293 E flme    : 	at gznx.apply(PG:1)
+10-11 11:41:59.141  3849  4293 E flme    : 	at gzof.a(PG:5)
+10-11 11:41:59.141  3849  4293 E flme    : 	at hqsm.a(PG:3)
+10-11 11:41:59.141  3849  4293 E flme    : 	at iicu.a(PG:1)
+10-11 11:41:59.141  3849  4293 E flme    : 	at iieq.run(PG:4)
+10-11 11:41:59.141  3849  4293 E flme    : 	at fhus.run(PG:1)
+10-11 11:41:59.141  3849  4293 E flme    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-11 11:41:59.141  3849  4293 E flme    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-11 11:41:59.141  3849  4293 E flme    : 	at fhtw.run(PG:2)
+10-11 11:41:59.141  3849  4293 E flme    : 	at java.lang.Thread.run(Thread.java:1012)
+10-11 11:41:59.141  3849  4293 E flme    : 	at fhvb.run(PG:5)
+10-11 11:41:59.141  3849 13897 E SQLiteLog: (1) no such table: geller_metadata_table in "SELECT DISTINCT metadata FROM geller_metadata_table WHERE data_type = ? AND key = ?"
+10-11 11:41:59.141  3849 13897 E flme    : Read metadata failed
+10-11 11:41:59.141  3849 13897 E flme    : android.database.sqlite.SQLiteException: no such table: geller_metadata_table (code 1 SQLITE_ERROR): , while compiling: SELECT DISTINCT metadata FROM geller_metadata_table WHERE data_type = ? AND key = ?
+10-11 11:41:59.141  3849 13897 E flme    : 	at android.database.sqlite.SQLiteConnection.nativePrepareStatement(Native Method)
+10-11 11:41:59.141  3849 13897 E flme    : 	at android.database.sqlite.SQLiteConnection.acquirePreparedStatement(SQLiteConnection.java:1069)
+10-11 11:41:59.141  3849 13897 E flme    : 	at android.database.sqlite.SQLiteConnection.prepare(SQLiteConnection.java:673)
+10-11 11:41:59.141  3849 13897 E flme    : 	at android.database.sqlite.SQLiteSession.prepare(SQLiteSession.java:590)
+10-11 11:41:59.141  3849 13897 E flme    : 	at android.database.sqlite.SQLiteProgram.<init>(SQLiteProgram.java:62)
+10-11 11:41:59.141  3849 13897 E flme    : 	at android.database.sqlite.SQLiteQuery.<init>(SQLiteQuery.java:37)
+10-11 11:41:59.141  3849 13897 E flme    : 	at android.database.sqlite.SQLiteDirectCursorDriver.query(SQLiteDirectCursorDriver.java:46)
+10-11 11:41:59.141  3849 13897 E flme    : 	at android.database.sqlite.SQLiteDatabase.rawQueryWithFactory(SQLiteDatabase.java:1714)
+10-11 11:41:59.141  3849 13897 E flme    : 	at android.database.sqlite.SQLiteDatabase.queryWithFactory(SQLiteDatabase.java:1561)
+10-11 11:41:59.141  3849 13897 E flme    : 	at android.database.sqlite.SQLiteDatabase.query(SQLiteDatabase.java:1432)
+10-11 11:41:59.141  3849 13897 E flme    : 	at flmf.d(PG:4)
+10-11 11:41:59.141  3849 13897 E flme    : 	at flme.readMetadata(PG:2)
+10-11 11:41:59.141  3849 13897 E flme    : 	at com.google.android.libraries.geller.portable.Geller.nativeReadMetadata(Native Method)
+10-11 11:41:59.141  3849 13897 E flme    : 	at com.google.android.libraries.geller.portable.Geller.c(PG:4)
+10-11 11:41:59.141  3849 13897 E flme    : 	at flhq.d(PG:30)
+10-11 11:41:59.141  3849 13897 E flme    : 	at flhn.apply(PG:7)
+10-11 11:41:59.141  3849 13897 E flme    : 	at hqsy.apply(PG:3)
+10-11 11:41:59.141  3849 13897 E flme    : 	at iiaz.e(PG:2)
+10-11 11:41:59.141  3849 13897 E flme    : 	at iiba.run(PG:9)
+10-11 11:41:59.141  3849 13897 E flme    : 	at fhus.run(PG:1)
+10-11 11:41:59.141  3849 13897 E flme    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-11 11:41:59.141  3849 13897 E flme    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-11 11:41:59.141  3849 13897 E flme    : 	at fhua.run(PG:2)
+10-11 11:41:59.141  3849 13897 E flme    : 	at java.lang.Thread.run(Thread.java:1012)
+10-11 11:41:59.141  3849 13897 E flme    : 	at fhvb.run(PG:5)
+10-11 11:41:59.141  3849  4293 E flme    : An error occurred. Dropping existing data and recreating all tables.
+10-11 11:41:59.141  3849  4293 E flme    : android.database.sqlite.SQLiteException: no such table: geller_metadata_table (code 1 SQLITE_ERROR): , while compiling: SELECT DISTINCT metadata FROM geller_metadata_table WHERE data_type = ? AND key = ?
+10-11 11:41:59.141  3849  4293 E flme    : 	at android.database.sqlite.SQLiteConnection.nativePrepareStatement(Native Method)
+10-11 11:41:59.141  3849  4293 E flme    : 	at android.database.sqlite.SQLiteConnection.acquirePreparedStatement(SQLiteConnection.java:1069)
+10-11 11:41:59.141  3849  4293 E flme    : 	at android.database.sqlite.SQLiteConnection.prepare(SQLiteConnection.java:673)
+10-11 11:41:59.141  3849  4293 E flme    : 	at android.database.sqlite.SQLiteSession.prepare(SQLiteSession.java:590)
+10-11 11:41:59.141  3849  4293 E flme    : 	at android.database.sqlite.SQLiteProgram.<init>(SQLiteProgram.java:62)
+10-11 11:41:59.141  3849  4293 E flme    : 	at android.database.sqlite.SQLiteQuery.<init>(SQLiteQuery.java:37)
+10-11 11:41:59.141  3849  4293 E flme    : 	at android.database.sqlite.SQLiteDirectCursorDriver.query(SQLiteDirectCursorDriver.java:46)
+10-11 11:41:59.141  3849  4293 E flme    : 	at android.database.sqlite.SQLiteDatabase.rawQueryWithFactory(SQLiteDatabase.java:1714)
+10-11 11:41:59.141  3849  4293 E flme    : 	at android.database.sqlite.SQLiteDatabase.queryWithFactory(SQLiteDatabase.java:1561)
+10-11 11:41:59.141  3849  4293 E flme    : 	at android.database.sqlite.SQLiteDatabase.query(SQLiteDatabase.java:1432)
+10-11 11:41:59.141  3849  4293 E flme    : 	at flmf.d(PG:4)
+10-11 11:41:59.141  3849  4293 E flme    : 	at flme.readMetadata(PG:2)
+10-11 11:41:59.141  3849  4293 E flme    : 	at com.google.android.libraries.geller.portable.Geller.nativeReadMetadata(Native Method)
+10-11 11:41:59.141  3849  4293 E flme    : 	at com.google.android.libraries.geller.portable.Geller.c(PG:4)
+10-11 11:41:59.141  3849  4293 E flme    : 	at gznx.apply(PG:1)
+10-11 11:41:59.141  3849  4293 E flme    : 	at gzof.a(PG:5)
+10-11 11:41:59.141  3849  4293 E flme    : 	at hqsm.a(PG:3)
+10-11 11:41:59.141  3849  4293 E flme    : 	at iicu.a(PG:1)
+10-11 11:41:59.141  3849  4293 E flme    : 	at iieq.run(PG:4)
+10-11 11:41:59.141  3849  4293 E flme    : 	at fhus.run(PG:1)
+10-11 11:41:59.141  3849  4293 E flme    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-11 11:41:59.141  3849  4293 E flme    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-11 11:41:59.141  3849  4293 E flme    : 	at fhtw.run(PG:2)
+10-11 11:41:59.141  3849  4293 E flme    : 	at java.lang.Thread.run(Thread.java:1012)
+10-11 11:41:59.141  3849  4293 E flme    : 	at fhvb.run(PG:5)
+10-11 11:41:59.141  3849 13897 E flme    : An error occurred. Dropping existing data and recreating all tables.
+10-11 11:41:59.141  3849 13897 E flme    : android.database.sqlite.SQLiteException: no such table: geller_metadata_table (code 1 SQLITE_ERROR): , while compiling: SELECT DISTINCT metadata FROM geller_metadata_table WHERE data_type = ? AND key = ?
+10-11 11:41:59.141  3849 13897 E flme    : 	at android.database.sqlite.SQLiteConnection.nativePrepareStatement(Native Method)
+10-11 11:41:59.141  3849 13897 E flme    : 	at android.database.sqlite.SQLiteConnection.acquirePreparedStatement(SQLiteConnection.java:1069)
+10-11 11:41:59.141  3849 13897 E flme    : 	at android.database.sqlite.SQLiteConnection.prepare(SQLiteConnection.java:673)
+10-11 11:41:59.141  3849 13897 E flme    : 	at android.database.sqlite.SQLiteSession.prepare(SQLiteSession.java:590)
+10-11 11:41:59.141  3849 13897 E flme    : 	at android.database.sqlite.SQLiteProgram.<init>(SQLiteProgram.java:62)
+10-11 11:41:59.141  3849 13897 E flme    : 	at android.database.sqlite.SQLiteQuery.<init>(SQLiteQuery.java:37)
+10-11 11:41:59.141  3849 13897 E flme    : 	at android.database.sqlite.SQLiteDirectCursorDriver.query(SQLiteDirectCursorDriver.java:46)
+10-11 11:41:59.141  3849 13897 E flme    : 	at android.database.sqlite.SQLiteDatabase.rawQueryWithFactory(SQLiteDatabase.java:1714)
+10-11 11:41:59.141  3849 13897 E flme    : 	at android.database.sqlite.SQLiteDatabase.queryWithFactory(SQLiteDatabase.java:1561)
+10-11 11:41:59.141  3849 13897 E flme    : 	at android.database.sqlite.SQLiteDatabase.query(SQLiteDatabase.java:1432)
+10-11 11:41:59.141  3849 13897 E flme    : 	at flmf.d(PG:4)
+10-11 11:41:59.141  3849 13897 E flme    : 	at flme.readMetadata(PG:2)
+10-11 11:41:59.141  3849 13897 E flme    : 	at com.google.android.libraries.geller.portable.Geller.nativeReadMetadata(Native Method)
+10-11 11:41:59.141  3849 13897 E flme    : 	at com.google.android.libraries.geller.portable.Geller.c(PG:4)
+10-11 11:41:59.141  3849 13897 E flme    : 	at flhq.d(PG:30)
+10-11 11:41:59.141  3849 13897 E flme    : 	at flhn.apply(PG:7)
+10-11 11:41:59.141  3849 13897 E flme    : 	at hqsy.apply(PG:3)
+10-11 11:41:59.141  3849 13897 E flme    : 	at iiaz.e(PG:2)
+10-11 11:41:59.141  3849 13897 E flme    : 	at iiba.run(PG:9)
+10-11 11:41:59.141  3849 13897 E flme    : 	at fhus.run(PG:1)
+10-11 11:41:59.141  3849 13897 E flme    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-11 11:41:59.141  3849 13897 E flme    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-11 11:41:59.141  3849 13897 E flme    : 	at fhua.run(PG:2)
+10-11 11:41:59.141  3849 13897 E flme    : 	at java.lang.Thread.run(Thread.java:1012)
+10-11 11:41:59.141  3849 13897 E flme    : 	at fhvb.run(PG:5)
+10-11 11:41:59.142  3849  4293 W flme    : (REDACTED) Dropped table %s
+10-11 11:41:59.142  3849 13897 W flme    : (REDACTED) Dropped table %s
+10-11 11:41:59.143  3849 13897 E SQLiteLog: (1) index datatype_key_dataid already exists in "CREATE INDEX datatype_key_dataid ON geller_key_table (data_type, key, delete_status, data_id);"
+10-11 11:41:59.143  3849  4293 E SQLiteLog: (1) index datatype_key_dataid already exists in "CREATE INDEX datatype_key_dataid ON geller_key_table (data_type, key, delete_status, data_id);"
+10-11 11:41:59.143  3849 13897 E flme    : Failed to recreate tables
+10-11 11:41:59.143  3849 13897 E flme    : android.database.sqlite.SQLiteException: index datatype_key_dataid already exists (code 1 SQLITE_ERROR): , while compiling: CREATE INDEX datatype_key_dataid ON geller_key_table (data_type, key, delete_status, data_id);
+10-11 11:41:59.143  3849 13897 E flme    : 	at android.database.sqlite.SQLiteConnection.nativePrepareStatement(Native Method)
+10-11 11:41:59.143  3849 13897 E flme    : 	at android.database.sqlite.SQLiteConnection.acquirePreparedStatement(SQLiteConnection.java:1069)
+10-11 11:41:59.143  3849 13897 E flme    : 	at android.database.sqlite.SQLiteConnection.prepare(SQLiteConnection.java:673)
+10-11 11:41:59.143  3849 13897 E flme    : 	at android.database.sqlite.SQLiteSession.prepare(SQLiteSession.java:590)
+10-11 11:41:59.143  3849 13897 E flme    : 	at android.database.sqlite.SQLiteProgram.<init>(SQLiteProgram.java:62)
+10-11 11:41:59.143  3849 13897 E flme    : 	at android.database.sqlite.SQLiteStatement.<init>(SQLiteStatement.java:34)
+10-11 11:41:59.143  3849 13897 E flme    : 	at android.database.sqlite.SQLiteDatabase.executeSql(SQLiteDatabase.java:2088)
+10-11 11:41:59.143  3849 13897 E flme    : 	at android.database.sqlite.SQLiteDatabase.execSQL(SQLiteDatabase.java:2010)
+10-11 11:41:59.143  3849 13897 E flme    : 	at flme.onCreate(PG:5)
+10-11 11:41:59.143  3849 13897 E flme    : 	at flme.g(PG:12)
+10-11 11:41:59.143  3849 13897 E flme    : 	at flme.f(PG:18)
+10-11 11:41:59.143  3849 13897 E flme    : 	at flme.readMetadata(PG:5)
+10-11 11:41:59.143  3849 13897 E flme    : 	at com.google.android.libraries.geller.portable.Geller.nativeReadMetadata(Native Method)
+10-11 11:41:59.143  3849 13897 E flme    : 	at com.google.android.libraries.geller.portable.Geller.c(PG:4)
+10-11 11:41:59.143  3849 13897 E flme    : 	at flhq.d(PG:30)
+10-11 11:41:59.143  3849 13897 E flme    : 	at flhn.apply(PG:7)
+10-11 11:41:59.143  3849 13897 E flme    : 	at hqsy.apply(PG:3)
+10-11 11:41:59.143  3849 13897 E flme    : 	at iiaz.e(PG:2)
+10-11 11:41:59.143  3849 13897 E flme    : 	at iiba.run(PG:9)
+10-11 11:41:59.143  3849 13897 E flme    : 	at fhus.run(PG:1)
+10-11 11:41:59.143  3849 13897 E flme    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-11 11:41:59.143  3849 13897 E flme    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-11 11:41:59.143  3849 13897 E flme    : 	at fhua.run(PG:2)
+10-11 11:41:59.143  3849 13897 E flme    : 	at java.lang.Thread.run(Thread.java:1012)
+10-11 11:41:59.143  3849 13897 E flme    : 	at fhvb.run(PG:5)
+10-11 11:41:59.143  3849 13897 I flhq    : (REDACTED) No previous syncToken for corpus %s found.
+10-11 11:41:59.143  3849  4293 E flme    : Failed to recreate tables
+10-11 11:41:59.143  3849  4293 E flme    : android.database.sqlite.SQLiteException: index datatype_key_dataid already exists (code 1 SQLITE_ERROR): , while compiling: CREATE INDEX datatype_key_dataid ON geller_key_table (data_type, key, delete_status, data_id);
+10-11 11:41:59.143  3849  4293 E flme    : 	at android.database.sqlite.SQLiteConnection.nativePrepareStatement(Native Method)
+10-11 11:41:59.143  3849  4293 E flme    : 	at android.database.sqlite.SQLiteConnection.acquirePreparedStatement(SQLiteConnection.java:1069)
+10-11 11:41:59.143  3849  4293 E flme    : 	at android.database.sqlite.SQLiteConnection.prepare(SQLiteConnection.java:673)
+10-11 11:41:59.143  3849  4293 E flme    : 	at android.database.sqlite.SQLiteSession.prepare(SQLiteSession.java:590)
+10-11 11:41:59.143  3849  4293 E flme    : 	at android.database.sqlite.SQLiteProgram.<init>(SQLiteProgram.java:62)
+10-11 11:41:59.143  3849  4293 E flme    : 	at android.database.sqlite.SQLiteStatement.<init>(SQLiteStatement.java:34)
+10-11 11:41:59.143  3849  4293 E flme    : 	at android.database.sqlite.SQLiteDatabase.executeSql(SQLiteDatabase.java:2088)
+10-11 11:41:59.143  3849  4293 E flme    : 	at android.database.sqlite.SQLiteDatabase.execSQL(SQLiteDatabase.java:2010)
+10-11 11:41:59.143  3849  4293 E flme    : 	at flme.onCreate(PG:5)
+10-11 11:41:59.143  3849  4293 E flme    : 	at flme.g(PG:12)
+10-11 11:41:59.143  3849  4293 E flme    : 	at flme.f(PG:18)
+10-11 11:41:59.143  3849  4293 E flme    : 	at flme.readMetadata(PG:5)
+10-11 11:41:59.143  3849  4293 E flme    : 	at com.google.android.libraries.geller.portable.Geller.nativeReadMetadata(Native Method)
+10-11 11:41:59.143  3849  4293 E flme    : 	at com.google.android.libraries.geller.portable.Geller.c(PG:4)
+10-11 11:41:59.143  3849  4293 E flme    : 	at gznx.apply(PG:1)
+10-11 11:41:59.143  3849  4293 E flme    : 	at gzof.a(PG:5)
+10-11 11:41:59.143  3849  4293 E flme    : 	at hqsm.a(PG:3)
+10-11 11:41:59.143  3849  4293 E flme    : 	at iicu.a(PG:1)
+10-11 11:41:59.143  3849  4293 E flme    : 	at iieq.run(PG:4)
+10-11 11:41:59.143  3849  4293 E flme    : 	at fhus.run(PG:1)
+10-11 11:41:59.143  3849  4293 E flme    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-11 11:41:59.143  3849  4293 E flme    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-11 11:41:59.143  3849  4293 E flme    : 	at fhtw.run(PG:2)
+10-11 11:41:59.143  3849  4293 E flme    : 	at java.lang.Thread.run(Thread.java:1012)
+10-11 11:41:59.143  3849  4293 E flme    : 	at fhvb.run(PG:5)
+10-11 11:41:59.146  3849 13897 D TrafficStats: tagSocket(168) with statsTag=0x0, statsUid=-1
+10-11 11:41:59.146  3849 13609 I flme    : (REDACTED) The GellerConfig is not present, defaulting isUploadEnabled for corpus %s to true.
+10-11 11:41:59.148  3849 13609 E SQLiteLog: (1) no such table: geller_metadata_table in "SELECT DISTINCT metadata FROM geller_metadata_table WHERE data_type = ? AND key = ?"
+10-11 11:41:59.148  3849 13609 E flme    : Read metadata failed
+10-11 11:41:59.148  3849 13609 E flme    : android.database.sqlite.SQLiteException: no such table: geller_metadata_table (code 1 SQLITE_ERROR): , while compiling: SELECT DISTINCT metadata FROM geller_metadata_table WHERE data_type = ? AND key = ?
+10-11 11:41:59.148  3849 13609 E flme    : 	at android.database.sqlite.SQLiteConnection.nativePrepareStatement(Native Method)
+10-11 11:41:59.148  3849 13609 E flme    : 	at android.database.sqlite.SQLiteConnection.acquirePreparedStatement(SQLiteConnection.java:1069)
+10-11 11:41:59.148  3849 13609 E flme    : 	at android.database.sqlite.SQLiteConnection.prepare(SQLiteConnection.java:673)
+10-11 11:41:59.148  3849 13609 E flme    : 	at android.database.sqlite.SQLiteSession.prepare(SQLiteSession.java:590)
+10-11 11:41:59.148  3849 13609 E flme    : 	at android.database.sqlite.SQLiteProgram.<init>(SQLiteProgram.java:62)
+10-11 11:41:59.148  3849 13609 E flme    : 	at android.database.sqlite.SQLiteQuery.<init>(SQLiteQuery.java:37)
+10-11 11:41:59.148  3849 13609 E flme    : 	at android.database.sqlite.SQLiteDirectCursorDriver.query(SQLiteDirectCursorDriver.java:46)
+10-11 11:41:59.148  3849 13609 E flme    : 	at android.database.sqlite.SQLiteDatabase.rawQueryWithFactory(SQLiteDatabase.java:1714)
+10-11 11:41:59.148  3849 13609 E flme    : 	at android.database.sqlite.SQLiteDatabase.queryWithFactory(SQLiteDatabase.java:1561)
+10-11 11:41:59.148  3849 13609 E flme    : 	at android.database.sqlite.SQLiteDatabase.query(SQLiteDatabase.java:1432)
+10-11 11:41:59.148  3849 13609 E flme    : 	at flmf.d(PG:4)
+10-11 11:41:59.148  3849 13609 E flme    : 	at flme.readMetadata(PG:2)
+10-11 11:41:59.148  3849 13609 E flme    : 	at com.google.android.libraries.geller.portable.Geller.nativeReadMetadata(Native Method)
+10-11 11:41:59.148  3849 13609 E flme    : 	at com.google.android.libraries.geller.portable.Geller.c(PG:4)
+10-11 11:41:59.148  3849 13609 E flme    : 	at flhq.d(PG:30)
+10-11 11:41:59.148  3849 13609 E flme    : 	at flhn.apply(PG:7)
+10-11 11:41:59.148  3849 13609 E flme    : 	at hqsy.apply(PG:3)
+10-11 11:41:59.148  3849 13609 E flme    : 	at iiaz.e(PG:2)
+10-11 11:41:59.148  3849 13609 E flme    : 	at iiba.run(PG:9)
+10-11 11:41:59.148  3849 13609 E flme    : 	at fhus.run(PG:1)
+10-11 11:41:59.148  3849 13609 E flme    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-11 11:41:59.148  3849 13609 E flme    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-11 11:41:59.148  3849 13609 E flme    : 	at fhua.run(PG:2)
+10-11 11:41:59.148  3849 13609 E flme    : 	at java.lang.Thread.run(Thread.java:1012)
+10-11 11:41:59.148  3849 13609 E flme    : 	at fhvb.run(PG:5)
+10-11 11:41:59.149  3849 13609 E flme    : An error occurred. Dropping existing data and recreating all tables.
+10-11 11:41:59.149  3849 13609 E flme    : android.database.sqlite.SQLiteException: no such table: geller_metadata_table (code 1 SQLITE_ERROR): , while compiling: SELECT DISTINCT metadata FROM geller_metadata_table WHERE data_type = ? AND key = ?
+10-11 11:41:59.149  3849 13609 E flme    : 	at android.database.sqlite.SQLiteConnection.nativePrepareStatement(Native Method)
+10-11 11:41:59.149  3849 13609 E flme    : 	at android.database.sqlite.SQLiteConnection.acquirePreparedStatement(SQLiteConnection.java:1069)
+10-11 11:41:59.149  3849 13609 E flme    : 	at android.database.sqlite.SQLiteConnection.prepare(SQLiteConnection.java:673)
+10-11 11:41:59.149  3849 13609 E flme    : 	at android.database.sqlite.SQLiteSession.prepare(SQLiteSession.java:590)
+10-11 11:41:59.149  3849 13609 E flme    : 	at android.database.sqlite.SQLiteProgram.<init>(SQLiteProgram.java:62)
+10-11 11:41:59.149  3849 13609 E flme    : 	at android.database.sqlite.SQLiteQuery.<init>(SQLiteQuery.java:37)
+10-11 11:41:59.149  3849 13609 E flme    : 	at android.database.sqlite.SQLiteDirectCursorDriver.query(SQLiteDirectCursorDriver.java:46)
+10-11 11:41:59.149  3849 13609 E flme    : 	at android.database.sqlite.SQLiteDatabase.rawQueryWithFactory(SQLiteDatabase.java:1714)
+10-11 11:41:59.149  3849 13609 E flme    : 	at android.database.sqlite.SQLiteDatabase.queryWithFactory(SQLiteDatabase.java:1561)
+10-11 11:41:59.149  3849 13609 E flme    : 	at android.database.sqlite.SQLiteDatabase.query(SQLiteDatabase.java:1432)
+10-11 11:41:59.149  3849 13609 E flme    : 	at flmf.d(PG:4)
+10-11 11:41:59.149  3849 13609 E flme    : 	at flme.readMetadata(PG:2)
+10-11 11:41:59.149  3849 13609 E flme    : 	at com.google.android.libraries.geller.portable.Geller.nativeReadMetadata(Native Method)
+10-11 11:41:59.149  3849 13609 E flme    : 	at com.google.android.libraries.geller.portable.Geller.c(PG:4)
+10-11 11:41:59.149  3849 13609 E flme    : 	at flhq.d(PG:30)
+10-11 11:41:59.149  3849 13609 E flme    : 	at flhn.apply(PG:7)
+10-11 11:41:59.149  3849 13609 E flme    : 	at hqsy.apply(PG:3)
+10-11 11:41:59.149  3849 13609 E flme    : 	at iiaz.e(PG:2)
+10-11 11:41:59.149  3849 13609 E flme    : 	at iiba.run(PG:9)
+10-11 11:41:59.149  3849 13609 E flme    : 	at fhus.run(PG:1)
+10-11 11:41:59.149  3849 13609 E flme    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-11 11:41:59.149  3849 13609 E flme    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-11 11:41:59.149  3849 13609 E flme    : 	at fhua.run(PG:2)
+10-11 11:41:59.149  3849 13609 E flme    : 	at java.lang.Thread.run(Thread.java:1012)
+10-11 11:41:59.149  3849 13609 E flme    : 	at fhvb.run(PG:5)
+10-11 11:41:59.149  3849 13609 W flme    : (REDACTED) Dropped table %s
+10-11 11:41:59.149  3849 13609 E SQLiteLog: (1) index datatype_key_dataid already exists in "CREATE INDEX datatype_key_dataid ON geller_key_table (data_type, key, delete_status, data_id);"
+10-11 11:41:59.149  3849 13609 E flme    : Failed to recreate tables
+10-11 11:41:59.149  3849 13609 E flme    : android.database.sqlite.SQLiteException: index datatype_key_dataid already exists (code 1 SQLITE_ERROR): , while compiling: CREATE INDEX datatype_key_dataid ON geller_key_table (data_type, key, delete_status, data_id);
+10-11 11:41:59.149  3849 13609 E flme    : 	at android.database.sqlite.SQLiteConnection.nativePrepareStatement(Native Method)
+10-11 11:41:59.149  3849 13609 E flme    : 	at android.database.sqlite.SQLiteConnection.acquirePreparedStatement(SQLiteConnection.java:1069)
+10-11 11:41:59.149  3849 13609 E flme    : 	at android.database.sqlite.SQLiteConnection.prepare(SQLiteConnection.java:673)
+10-11 11:41:59.149  3849 13609 E flme    : 	at android.database.sqlite.SQLiteSession.prepare(SQLiteSession.java:590)
+10-11 11:41:59.149  3849 13609 E flme    : 	at android.database.sqlite.SQLiteProgram.<init>(SQLiteProgram.java:62)
+10-11 11:41:59.149  3849 13609 E flme    : 	at android.database.sqlite.SQLiteStatement.<init>(SQLiteStatement.java:34)
+10-11 11:41:59.149  3849 13609 E flme    : 	at android.database.sqlite.SQLiteDatabase.executeSql(SQLiteDatabase.java:2088)
+10-11 11:41:59.149  3849 13609 E flme    : 	at android.database.sqlite.SQLiteDatabase.execSQL(SQLiteDatabase.java:2010)
+10-11 11:41:59.149  3849 13609 E flme    : 	at flme.onCreate(PG:5)
+10-11 11:41:59.149  3849 13609 E flme    : 	at flme.g(PG:12)
+10-11 11:41:59.149  3849 13609 E flme    : 	at flme.f(PG:18)
+10-11 11:41:59.149  3849 13609 E flme    : 	at flme.readMetadata(PG:5)
+10-11 11:41:59.149  3849 13609 E flme    : 	at com.google.android.libraries.geller.portable.Geller.nativeReadMetadata(Native Method)
+10-11 11:41:59.149  3849 13609 E flme    : 	at com.google.android.libraries.geller.portable.Geller.c(PG:4)
+10-11 11:41:59.149  3849 13609 E flme    : 	at flhq.d(PG:30)
+10-11 11:41:59.149  3849 13609 E flme    : 	at flhn.apply(PG:7)
+10-11 11:41:59.149  3849 13609 E flme    : 	at hqsy.apply(PG:3)
+10-11 11:41:59.149  3849 13609 E flme    : 	at iiaz.e(PG:2)
+10-11 11:41:59.149  3849 13609 E flme    : 	at iiba.run(PG:9)
+10-11 11:41:59.149  3849 13609 E flme    : 	at fhus.run(PG:1)
+10-11 11:41:59.149  3849 13609 E flme    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-11 11:41:59.149  3849 13609 E flme    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-11 11:41:59.149  3849 13609 E flme    : 	at fhua.run(PG:2)
+10-11 11:41:59.149  3849 13609 E flme    : 	at java.lang.Thread.run(Thread.java:1012)
+10-11 11:41:59.149  3849 13609 E flme    : 	at fhvb.run(PG:5)
+10-11 11:41:59.149  3849 13609 I flhq    : (REDACTED) No previous syncToken for corpus %s found.
+10-11 11:41:59.150  3849 13609 D TrafficStats: tagSocket(180) with statsTag=0x0, statsUid=-1
+10-11 11:41:59.197 14169 14169 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() equals string from resource id: <2131689522>}' assertion on view view.getId() is <2131231150/com.example.lemonade:id/text_action>
+10-11 11:41:59.199 14169 14169 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=has drawable resource 2131165326}' assertion on view view.getId() is <2131230939/com.example.lemonade:id/image_lemon_state>
+10-11 11:41:59.205 14169 14204 I TestRunner: finished: test_initial_state(com.example.lemonade.LemonadeTests)

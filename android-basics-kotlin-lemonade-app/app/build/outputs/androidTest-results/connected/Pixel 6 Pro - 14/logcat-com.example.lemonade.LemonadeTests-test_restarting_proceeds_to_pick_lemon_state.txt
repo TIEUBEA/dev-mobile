@@ -1,0 +1,617 @@
+10-11 11:42:04.837 14169 14204 I TestRunner: started: test_restarting_proceeds_to_pick_lemon_state(com.example.lemonade.LemonadeTests)
+10-11 11:42:04.847  3849  4661 I cjuo    : (REDACTED) incrementApaDataDownloadStoreStatusNotFound(appVersion = %s, locale = %s, groupName = %s, accountInScope = %s, foundGroups = %s, status = %s, localGroupsAvailable = %s, freeBytes = %s)
+10-11 11:42:04.847  3849  4661 I cjuo    : (REDACTED) incrementApaDataDownloadStoreStatusNotFound(appVersion = %s, locale = %s, groupName = %s, accountInScope = %s, foundGroups = %s, status = %s, localGroupsAvailable = %s, freeBytes = %s)
+10-11 11:42:04.848  3849  4661 I cjuo    : (REDACTED) incrementApaDataDownloadStoreStatusNotFound(appVersion = %s, locale = %s, groupName = %s, accountInScope = %s, foundGroups = %s, status = %s, localGroupsAvailable = %s, freeBytes = %s)
+10-11 11:42:04.848  3849  4661 I cjuo    : (REDACTED) incrementApaDataDownloadStoreStatusNotFound(appVersion = %s, locale = %s, groupName = %s, accountInScope = %s, foundGroups = %s, status = %s, localGroupsAvailable = %s, freeBytes = %s)
+10-11 11:42:04.848  3849  4661 I cjuo    : (REDACTED) incrementApaDataDownloadStoreExtendedStatusNotFound(appVersion = %s, locale = %s, groupName = %s, accountInScope = %s, foundGroups = %s, pendingFilegroup = %s, localGroupsAvailable = %s, freeBytes = %s, totalBytes = %s, availableSpace = %s, fractionSpace = %s, workProfile = %s)
+10-11 11:42:04.848  3849  4662 W cjrt    : (REDACTED) ClientFileGroup %s (BuildId %s VariantId %s LocaleList %s) is Gdd-incompatible with locale %s.
+10-11 11:42:04.848  3849  4662 I cjxz    : (REDACTED) group %s not present %s in %s
+10-11 11:42:04.849  3849  4662 I cjuo    : (REDACTED) incrementApaDataDownloadStoreStatus(latency = %s, appVersion = %s, status = %s, locale = %s, fileGroupnames = %s, accountInScope = %s, localGroupsAvailable = %s, clientId = %s, timeSinceSearchBoot = %s (%s), timeSinceDataDownloadInit = %s (%s))
+10-11 11:42:04.849  3849  4244 I cssh    : (REDACTED) Dictation is not enabled because some data files are not downloaded for %s. workprofile=%s [SD]
+10-11 11:42:04.849  3849  4664 I crno    : (REDACTED) Requesting download of data files for %s tag %s[SD]
+10-11 11:42:04.849  3849  4244 I cssh    : (REDACTED) Dictation is not enabled because of a locale mismatch: dictation locale: %s; system primary locale: %s. workprofile=%s [SD]
+10-11 11:42:04.850  3849  4663 E PhFileGroupPop: Failed to add file group
+10-11 11:42:04.850  3849  4244 I ctfc    : Manual switching disabled because flag is disabled [SD]
+10-11 11:42:04.850  3849  4663 E PhFileGroupPop: Failed to add file group
+10-11 11:42:04.850  3849  4663 E PhFileGroupPop: Failed to add file group
+10-11 11:42:04.850  3849  4663 E PhFileGroupPop: Failed to add file group
+10-11 11:42:04.850  3849  4663 E PhFileGroupPop: Failed to add file group
+10-11 11:42:04.850  3849  4244 I ctfc    : Manual switching disabled because flag is disabled [SD]
+10-11 11:42:04.850  3849  4663 E PhFileGroupPop: Failed to add file group
+10-11 11:42:04.850  3849  4663 E PhFileGroupPop: Failed to add file group
+10-11 11:42:04.850  3849  4661 E PhFileGroupPop: Failed to add file group
+10-11 11:42:04.850  3849  4663 E PhFileGroupPop: Failed to add file group
+10-11 11:42:04.850  3849  4661 E PhFileGroupPop: Failed to add file group
+10-11 11:42:04.850  3849  4661 E PhFileGroupPop: Failed to add file group
+10-11 11:42:04.850  3849  4661 E PhFileGroupPop: Failed to add file group
+10-11 11:42:04.850  3849  4244 I ctfc    : Automatic switching disabled because flag is disabled [SD]
+10-11 11:42:04.850  3849  4663 E PhFileGroupPop: Failed to add file group
+10-11 11:42:04.850  3849  4244 I ctfc    : Manual switching disabled because flag is disabled [SD]
+10-11 11:42:04.851  3849  4663 E PhFileGroupPop: Failed to add file group
+10-11 11:42:04.851  3849  4244 I ctfc    : Automatic switching disabled because manual switching is disabled [SD]
+10-11 11:42:04.851  3849  4661 E PhFileGroupPop: Failed to add file group
+10-11 11:42:04.851  3849  4244 I ctfc    : Automatic switching disabled because AiAi is not compatible [SD]
+10-11 11:42:04.851  3849  4663 I gzxe    : Throttled; returning pending refresh
+10-11 11:42:04.851  3849  4244 I ctfc    : Automatic switching disabled because Gboard setting is not shown [SD]
+10-11 11:42:04.851  3849  4661 E PhFileGroupPop: Failed to add file group
+10-11 11:42:04.851  3849  4663 I gzxe    : Throttled; returning pending refresh
+10-11 11:42:04.851  3849  4661 E PhFileGroupPop: Failed to add file group
+10-11 11:42:04.851  3849  4663 I gzxe    : Throttled; returning pending refresh
+10-11 11:42:04.851  3849  4661 E PhFileGroupPop: Failed to add file group
+10-11 11:42:04.851  3849  4663 I gzxe    : Throttled; returning pending refresh
+10-11 11:42:04.851  3849  4661 E PhFileGroupPop: Failed to add file group
+10-11 11:42:04.851  3849  4661 E PhFileGroupPop: Failed to add file group
+10-11 11:42:04.851  3849  4663 I gzxe    : Throttled; returning pending refresh
+10-11 11:42:04.851  3849  4661 I gzxe    : Throttled; returning pending refresh
+10-11 11:42:04.852  3849  4661 I gzxe    : Throttled; returning pending refresh
+10-11 11:42:04.852  3849  4661 I gzxe    : Throttled; returning pending refresh
+10-11 11:42:04.852  3849  4661 I gzxe    : Throttled; returning pending refresh
+10-11 11:42:04.852  3849  4661 I gzxe    : Throttled; returning pending refresh
+10-11 11:42:04.852  3849  4244 I ctfc    : Automatic switching disabled because there aren't enough supported keyboard languages [SD]
+10-11 11:42:04.852  3849  4661 I blhv    : (REDACTED) Flag controlled groups: %s
+10-11 11:42:04.852  3849  4661 I blhv    : (REDACTED) Required groups: %s
+10-11 11:42:04.852  3849  4661 I blfq    : Max migration attempts reached, skipping until NGA restarts.
+10-11 11:42:04.852  3849  4661 I gzxe    : Throttled; returning pending refresh
+10-11 11:42:04.852  3849  4663 I blhv    : (REDACTED) Flag controlled groups: %s
+10-11 11:42:04.852  3849  4660 I gzxe    : Throttled; returning pending refresh
+10-11 11:42:04.852  3849  4663 I blhv    : (REDACTED) Required groups: %s
+10-11 11:42:04.852  3849  4661 E SingleDataFileGroupPop: Failed to add file group
+10-11 11:42:04.852  3849  4660 I gzxe    : Throttled; returning pending refresh
+10-11 11:42:04.852  3849  4663 I blfq    : Max migration attempts reached, skipping until NGA restarts.
+10-11 11:42:04.852  3849  4660 I gzxe    : Throttled; returning pending refresh
+10-11 11:42:04.853  3849  4660 I gzxe    : Throttled; returning pending refresh
+10-11 11:42:04.853  3849  4663 I gzxe    : Throttled; returning pending refresh
+10-11 11:42:04.853  3849  4661 I dpft    : #schedule SheldonFinetuningPlan refresh.
+10-11 11:42:04.853  3849  4661 I dpft    : iete: MEDIUM
+10-11 11:42:04.853  3849  4661 I dpft    : 	at dpft.b(PG:1)
+10-11 11:42:04.853  3849  4661 I dpft    : 	at fxwc.w(PG:3)
+10-11 11:42:04.853  3849  4661 I dpft    : 	at fxwc.h(PG:3)
+10-11 11:42:04.853  3849  4661 I dpft    : 	at cjrt.h(PG:2)
+10-11 11:42:04.853  3849  4661 I dpft    : 	at cjre.apply(PG:1)
+10-11 11:42:04.853  3849  4661 I dpft    : 	at hqsq.apply(PG:3)
+10-11 11:42:04.853  3849  4661 I dpft    : 	at iiay.e(PG:2)
+10-11 11:42:04.853  3849  4661 I dpft    : 	at iiba.run(PG:9)
+10-11 11:42:04.853  3849  4661 I dpft    : 	at fhus.run(PG:1)
+10-11 11:42:04.853  3849  4661 I dpft    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-11 11:42:04.853  3849  4661 I dpft    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-11 11:42:04.853  3849  4661 I dpft    : 	at fhtw.run(PG:2)
+10-11 11:42:04.853  3849  4661 I dpft    : 	at java.lang.Thread.run(Thread.java:1012)
+10-11 11:42:04.853  3849  4661 I dpft    : 	at fhvb.run(PG:5)
+10-11 11:42:04.853  3849  4661 I dpft    : Finetuning mdd download flag not enabled, scheduling pack deletion.
+10-11 11:42:04.853  3849  4664 I gzxe    : Throttled; returning pending refresh
+10-11 11:42:04.853  3849  4660 I gzxe    : Throttled; returning pending refresh
+10-11 11:42:04.853  3849  4664 I gzxe    : Throttled; returning pending refresh
+10-11 11:42:04.853  3849  4661 I dpft    : Purging SheldonFinetuningFileGroup...
+10-11 11:42:04.853  3849  4664 I gzxe    : Throttled; returning pending refresh
+10-11 11:42:04.853  3849  4664 I gzxe    : Throttled; returning pending refresh
+10-11 11:42:04.853  3849  4664 I gzxe    : Throttled; returning pending refresh
+10-11 11:42:04.853  3849  4661 I ZipLPPopulator: #scheduleLanguagePackDeletion
+10-11 11:42:04.853  3849  4661 I ZipLPPopulator: iete: MEDIUM
+10-11 11:42:04.853  3849  4661 I ZipLPPopulator: 	at hixr.b(PG:1)
+10-11 11:42:04.853  3849  4661 I ZipLPPopulator: 	at fxwc.w(PG:3)
+10-11 11:42:04.853  3849  4661 I ZipLPPopulator: 	at fxwc.h(PG:3)
+10-11 11:42:04.853  3849  4661 I ZipLPPopulator: 	at cjrt.h(PG:2)
+10-11 11:42:04.853  3849  4661 I ZipLPPopulator: 	at cjre.apply(PG:1)
+10-11 11:42:04.853  3849  4661 I ZipLPPopulator: 	at hqsq.apply(PG:3)
+10-11 11:42:04.853  3849  4661 I ZipLPPopulator: 	at iiay.e(PG:2)
+10-11 11:42:04.853  3849  4661 I ZipLPPopulator: 	at iiba.run(PG:9)
+10-11 11:42:04.853  3849  4661 I ZipLPPopulator: 	at fhus.run(PG:1)
+10-11 11:42:04.853  3849  4661 I ZipLPPopulator: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-11 11:42:04.853  3849  4661 I ZipLPPopulator: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-11 11:42:04.853  3849  4661 I ZipLPPopulator: 	at fhtw.run(PG:2)
+10-11 11:42:04.853  3849  4661 I ZipLPPopulator: 	at java.lang.Thread.run(Thread.java:1012)
+10-11 11:42:04.853  3849  4661 I ZipLPPopulator: 	at fhvb.run(PG:5)
+10-11 11:42:04.853  3849  4660 I blmi    : refreshFileGroupsSkipping called
+10-11 11:42:04.853  3849  4661 I ZipLPPopulator: #addNewFileGroups
+10-11 11:42:04.853  3849  4661 I hiwv    : #getDownloadableLanguagePacks
+10-11 11:42:04.853  4953  4953 I NgaGrpcClient: NgaGrpcClient$1.onSuccess():151 Handshake done; eligibility: 9 locale_config_eligibility: {fr-FR=26, en-GB=9} [SDG]
+10-11 11:42:04.853  3849  4663 E SingleDataFileGroupPop: Failed to add file group
+10-11 11:42:04.853  3849  4661 I yhs     : (REDACTED) Download file group for language pack: %s
+10-11 11:42:04.853  3849  4661 W yhs     : (REDACTED) Locale %s is not compatible, please check manifest exists
+10-11 11:42:04.853  3849  4662 I LPRequestState: (REDACTED) [%s] #resolveDesiredLanguagePacks
+10-11 11:42:04.853  3849  4662 I hiwv    : #getInstalledPackages
+10-11 11:42:04.853  3849  4664 I blmi    : refreshFileGroupsSkipping called
+10-11 11:42:04.853  3849  4661 I babf    : getLocaleToModelSpecsMap
+10-11 11:42:04.853  3849  4661 I babf    : Fetching latest config from MDD...
+10-11 11:42:04.853  3849  4663 I dpft    : #schedule SheldonFinetuningPlan refresh.
+10-11 11:42:04.853  3849  4663 I dpft    : iete: MEDIUM
+10-11 11:42:04.853  3849  4663 I dpft    : 	at dpft.b(PG:1)
+10-11 11:42:04.853  3849  4663 I dpft    : 	at fxwc.w(PG:3)
+10-11 11:42:04.853  3849  4663 I dpft    : 	at fxwc.h(PG:3)
+10-11 11:42:04.853  3849  4663 I dpft    : 	at cjrt.h(PG:2)
+10-11 11:42:04.853  3849  4663 I dpft    : 	at cjre.apply(PG:1)
+10-11 11:42:04.853  3849  4663 I dpft    : 	at hqsq.apply(PG:3)
+10-11 11:42:04.853  3849  4663 I dpft    : 	at iiay.e(PG:2)
+10-11 11:42:04.853  3849  4663 I dpft    : 	at iiba.run(PG:9)
+10-11 11:42:04.853  3849  4663 I dpft    : 	at fhus.run(PG:1)
+10-11 11:42:04.853  3849  4663 I dpft    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-11 11:42:04.853  3849  4663 I dpft    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-11 11:42:04.853  3849  4663 I dpft    : 	at fhtw.run(PG:2)
+10-11 11:42:04.853  3849  4663 I dpft    : 	at java.lang.Thread.run(Thread.java:1012)
+10-11 11:42:04.853  3849  4663 I dpft    : 	at fhvb.run(PG:5)
+10-11 11:42:04.853  3849  4664 I blmp    : NGA Sync: beginOnDataPresent
+10-11 11:42:04.853  3849  4661 I babf    : (REDACTED) Found map of size: %d
+10-11 11:42:04.853  3849  4663 I dpft    : Finetuning mdd download flag not enabled, scheduling pack deletion.
+10-11 11:42:04.853  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.853  3849  4663 I dpft    : Purging SheldonFinetuningFileGroup...
+10-11 11:42:04.853  3849  4660 I blmp    : NGA Sync: beginOnDataPresent
+10-11 11:42:04.853  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.853  4953  4953 I NgaStateManager: NgaStateManager.setAssistantDictationEligibility():184 AssistantDictationEligibility = 9 [SDG]
+10-11 11:42:04.853  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.853  4953  4953 I NgaStateManager: NgaStateManager.lambda$setAssistantDictationEligibility$0():196 AssistantDictationEligibility(config, fr-FR) = 26 [SDG]
+10-11 11:42:04.853  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.853  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.853  4953  4953 I NgaStateManager: NgaStateManager.lambda$setAssistantDictationEligibility$0():196 AssistantDictationEligibility(config, en-GB) = 9 [SDG]
+10-11 11:42:04.854  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.854  4953  4953 I NgaStateManager: NgaStateManager.setAssistantDictationEligibility():203 AssistantDictationEligibility(inputField) = 1 [SDG]
+10-11 11:42:04.854  3849  4663 I ZipLPPopulator: #scheduleLanguagePackDeletion
+10-11 11:42:04.854  3849  4663 I ZipLPPopulator: iete: MEDIUM
+10-11 11:42:04.854  3849  4663 I ZipLPPopulator: 	at hixr.b(PG:1)
+10-11 11:42:04.854  3849  4663 I ZipLPPopulator: 	at fxwc.w(PG:3)
+10-11 11:42:04.854  3849  4663 I ZipLPPopulator: 	at fxwc.h(PG:3)
+10-11 11:42:04.854  3849  4663 I ZipLPPopulator: 	at cjrt.h(PG:2)
+10-11 11:42:04.854  3849  4663 I ZipLPPopulator: 	at cjre.apply(PG:1)
+10-11 11:42:04.854  3849  4663 I ZipLPPopulator: 	at hqsq.apply(PG:3)
+10-11 11:42:04.854  3849  4663 I ZipLPPopulator: 	at iiay.e(PG:2)
+10-11 11:42:04.854  3849  4663 I ZipLPPopulator: 	at iiba.run(PG:9)
+10-11 11:42:04.854  3849  4663 I ZipLPPopulator: 	at fhus.run(PG:1)
+10-11 11:42:04.854  3849  4663 I ZipLPPopulator: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-11 11:42:04.854  3849  4663 I ZipLPPopulator: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-11 11:42:04.854  3849  4663 I ZipLPPopulator: 	at fhtw.run(PG:2)
+10-11 11:42:04.854  3849  4663 I ZipLPPopulator: 	at java.lang.Thread.run(Thread.java:1012)
+10-11 11:42:04.854  3849  4663 I ZipLPPopulator: 	at fhvb.run(PG:5)
+10-11 11:42:04.854  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.854  3849  4663 I ZipLPPopulator: #addNewFileGroups
+10-11 11:42:04.854  3849  4663 I hiwv    : #getDownloadableLanguagePacks
+10-11 11:42:04.854  4953  4953 W NgaExtension: NgaExtension.onEligibilityUpdated():631 Disconnecting KeyboardService as dictation is not eligible. [SDG]
+10-11 11:42:04.854  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.854  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.854  3849  4663 I yhs     : (REDACTED) Download file group for language pack: %s
+10-11 11:42:04.854  4953 13892 I KeyboardActiveSessionStreamManager: KeyboardActiveSessionStreamManager.closeStream():118 Closing stream. [SDG]
+10-11 11:42:04.854  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.854  3849  4663 W yhs     : (REDACTED) Locale %s is not compatible, please check manifest exists
+10-11 11:42:04.854  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.854  3849  4660 I blmp    : (REDACTED) NGA Sync: isNgaSyncEnabled: %s; enableFileGroupPopulator: %s; requiresMddAssets: %s
+10-11 11:42:04.854  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.854  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.854  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.854  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.854  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.854  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.854  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.854  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.854  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.854  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.854  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.854  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.854  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.854 14169 14204 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+10-11 11:42:04.854  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.854  3849  4664 I blmp    : (REDACTED) NGA Sync: isNgaSyncEnabled: %s; enableFileGroupPopulator: %s; requiresMddAssets: %s
+10-11 11:42:04.854  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.855  3849  4660 I blhv    : (REDACTED) Flag controlled groups: %s
+10-11 11:42:04.855  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.855  3849  4660 I blhv    : (REDACTED) Required groups: %s
+10-11 11:42:04.855  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.855  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.855  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.855  3849  4660 I blmp    : NGA Sync: endOnDataPresent
+10-11 11:42:04.855  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.855  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.855  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.855  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.855  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.855  3849  4664 I blhv    : (REDACTED) Flag controlled groups: %s
+10-11 11:42:04.855  3849  4664 I blhv    : (REDACTED) Required groups: %s
+10-11 11:42:04.855  3849  4664 I blmp    : NGA Sync: endOnDataPresent
+10-11 11:42:04.855  3849  4660 I blmp    : (REDACTED) NGA Sync: isNgaSyncEnabled: %s; enableFileGroupPopulator: %s; requiresMddAssets: %s
+10-11 11:42:04.855  3849  4660 I LPRequestState: (REDACTED) [%s] #resolveDesiredLanguagePacks
+10-11 11:42:04.856  3849  4660 I hiwv    : #getInstalledPackages
+10-11 11:42:04.856  3849  4664 I blmp    : (REDACTED) NGA Sync: isNgaSyncEnabled: %s; enableFileGroupPopulator: %s; requiresMddAssets: %s
+10-11 11:42:04.857  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.857  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.858  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.858  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.858  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.858  3849  4663 I babf    : getLocaleToModelSpecsMap
+10-11 11:42:04.858  3849  4663 I babf    : Fetching latest config from MDD...
+10-11 11:42:04.858  3849  4661 I HotwordModelPopulator: (REDACTED) #updateHotwordFileGroup group name: %s, raw locale: %s, locale: %s
+10-11 11:42:04.858  3849  4663 I babf    : (REDACTED) Found map of size: %d
+10-11 11:42:04.858  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.858  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.858  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.858  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.859  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.859  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.859  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.859  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.859  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.859  3849  4294 I blhm    : Reading embedded SoT config, without catching it afterwards.
+10-11 11:42:04.859  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.859  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.859  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.859  3849  4296 I blhm    : Reading embedded SoT config, without catching it afterwards.
+10-11 11:42:04.859  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.859  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.859  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.859  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.859  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.859  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.859  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.859  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.859  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.859  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.859  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.860  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.860  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.860  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.860  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.860  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.860  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.860  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.860  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.860  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.860  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.860  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.860  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.860  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.860  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.860  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.860  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.860  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.860  3849  4663 I HotwordModelPopulator: (REDACTED) #updateHotwordFileGroup group name: %s, raw locale: %s, locale: %s
+10-11 11:42:04.860  3849  4661 I babf    : getLocaleToModelSpecsMap
+10-11 11:42:04.860  3849  4663 I babf    : getLocaleToModelSpecsMap
+10-11 11:42:04.860  3849  4661 I babf    : Fetching latest config from MDD...
+10-11 11:42:04.860  3849  4661 I babf    : (REDACTED) Found map of size: %d
+10-11 11:42:04.860  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.860  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.860  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.860  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.860  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.861  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.861  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.861  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.861  3849  4663 I babf    : Fetching latest config from MDD...
+10-11 11:42:04.861  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.861  3849  4663 I babf    : (REDACTED) Found map of size: %d
+10-11 11:42:04.861  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.861  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.861  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.861  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.861  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.861  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.861  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.861  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.861  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.861  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.861  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.861  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.861  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.861  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.861  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.861  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.861  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.861  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.861  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.861  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.862  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.862  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.862  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.862  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.862  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.862  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.862  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.862  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.862  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.862  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.862  3849  4661 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.862  3849  4661 I HotwordModelPopulator: (REDACTED) #updateHotwordFileGroup group name: %s, raw locale: %s, locale: %s
+10-11 11:42:04.862  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.862  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.862  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.862  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.862  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.862  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.862  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.862  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.862  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.862  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.862  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.862  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.862  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.862  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.863  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.863  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.863  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.863  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.863  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.863  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.863  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.863  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.863  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.863  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.863  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.863  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.863  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.863  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.863  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.863  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.863  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.863  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.863  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.863  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.863  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.863  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.863  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.863  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.863  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.863  3849  4663 I babe    : (REDACTED) Adding from proto config to map [configKey: %s locale: %s modelType: %s modelPrefix: %s Location: %s isSpeakerIdSupported: %b]
+10-11 11:42:04.864  3849  4663 I HotwordModelPopulator: (REDACTED) #updateHotwordFileGroup group name: %s, raw locale: %s, locale: %s
+10-11 11:42:04.871  3849  4664 I cjuo    : (REDACTED) incrementApaDataDownloadStoreStatusNotFound(appVersion = %s, locale = %s, groupName = %s, accountInScope = %s, foundGroups = %s, status = %s, localGroupsAvailable = %s, freeBytes = %s)
+10-11 11:42:04.872  3849  4664 I cjuo    : (REDACTED) incrementApaDataDownloadStoreStatusNotFound(appVersion = %s, locale = %s, groupName = %s, accountInScope = %s, foundGroups = %s, status = %s, localGroupsAvailable = %s, freeBytes = %s)
+10-11 11:42:04.872  3849  4664 I cjuo    : (REDACTED) incrementApaDataDownloadStoreStatusNotFound(appVersion = %s, locale = %s, groupName = %s, accountInScope = %s, foundGroups = %s, status = %s, localGroupsAvailable = %s, freeBytes = %s)
+10-11 11:42:04.872  3849  4664 I cjuo    : (REDACTED) incrementApaDataDownloadStoreStatusNotFound(appVersion = %s, locale = %s, groupName = %s, accountInScope = %s, foundGroups = %s, status = %s, localGroupsAvailable = %s, freeBytes = %s)
+10-11 11:42:04.872  3849  4664 I cjuo    : (REDACTED) incrementApaDataDownloadStoreExtendedStatusNotFound(appVersion = %s, locale = %s, groupName = %s, accountInScope = %s, foundGroups = %s, pendingFilegroup = %s, localGroupsAvailable = %s, freeBytes = %s, totalBytes = %s, availableSpace = %s, fractionSpace = %s, workProfile = %s)
+10-11 11:42:04.872  3849 13925 D PhFileGroupPop: Added file groups fedass_policy_config_group
+10-11 11:42:04.872  3849 13925 D PhFileGroupPop: Added file groups fedass_policy_config_group
+10-11 11:42:04.872  3849  4662 W cjrt    : (REDACTED) ClientFileGroup %s (BuildId %s VariantId %s LocaleList %s) is Gdd-incompatible with locale %s.
+10-11 11:42:04.873  3849  4661 I cjxz    : (REDACTED) group %s not present %s in %s
+10-11 11:42:04.873  3849 13925 D PhFileGroupPop: Added file groups nga_sot_configs
+10-11 11:42:04.873  3849  4661 I cjuo    : (REDACTED) incrementApaDataDownloadStoreStatus(latency = %s, appVersion = %s, status = %s, locale = %s, fileGroupnames = %s, accountInScope = %s, localGroupsAvailable = %s, clientId = %s, timeSinceSearchBoot = %s (%s), timeSinceDataDownloadInit = %s (%s))
+10-11 11:42:04.876  3849 13925 D PhFileGroupPop: Added file groups nga_sot_configs
+10-11 11:42:04.876  3849  4661 I dpft    : Attempt to add empty FileGroup completed.
+10-11 11:42:04.891   595   595 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+10-11 11:42:04.897   596   640 W gralloc4: Unable to set buffer name VRI[test]#3842(BLAST Consumer)3842: File name too long
+10-11 11:42:04.899   596   640 W gralloc4: Unable to set buffer name VRI[test]#3842(BLAST Consumer)3842: File name too long
+10-11 11:42:04.900   596   640 W gralloc4: Unable to set buffer name VRI[test]#3842(BLAST Consumer)3842: File name too long
+10-11 11:42:04.902   596   640 W gralloc4: Unable to set buffer name VRI[test]#3842(BLAST Consumer)3842: File name too long
+10-11 11:42:04.904   596   640 W gralloc4: Unable to set buffer name VRI[test]#3842(BLAST Consumer)3842: File name too long
+10-11 11:42:04.936 14169 14169 D LifecycleMonitor: Lifecycle status change: com.example.lemonade.MainActivity@c9c7046 in: PRE_ON_CREATE
+10-11 11:42:04.937 14169 14169 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+10-11 11:42:04.937 14169 14169 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+10-11 11:42:04.937 14169 14169 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+10-11 11:42:04.937 14169 14169 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was DESTROYED
+10-11 11:42:04.937 14169 14169 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+10-11 11:42:04.955 14169 14169 D LifecycleMonitor: Lifecycle status change: com.example.lemonade.MainActivity@c9c7046 in: CREATED
+10-11 11:42:04.955 14169 14169 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lemonade.MainActivity@c9c7046
+10-11 11:42:04.955 14169 14169 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lemonade.MainActivity@c9c7046
+10-11 11:42:04.956 14169 14169 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lemonade.MainActivity@c9c7046
+10-11 11:42:04.956 14169 14169 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lemonade.MainActivity@c9c7046
+10-11 11:42:04.956 14169 14169 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lemonade.MainActivity@c9c7046
+10-11 11:42:04.957 14169 14169 D LifecycleMonitor: Lifecycle status change: com.example.lemonade.MainActivity@c9c7046 in: STARTED
+10-11 11:42:04.957 14169 14169 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lemonade.MainActivity@c9c7046
+10-11 11:42:04.958 14169 14169 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lemonade.MainActivity@c9c7046
+10-11 11:42:04.958 14169 14169 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lemonade.MainActivity@c9c7046
+10-11 11:42:04.958 14169 14169 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lemonade.MainActivity@c9c7046
+10-11 11:42:04.958 14169 14169 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lemonade.MainActivity@c9c7046
+10-11 11:42:04.960 14169 14169 D LifecycleMonitor: Lifecycle status change: com.example.lemonade.MainActivity@c9c7046 in: RESUMED
+10-11 11:42:04.960 14169 14169 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lemonade.MainActivity@c9c7046
+10-11 11:42:04.960 14169 14169 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lemonade.MainActivity@c9c7046
+10-11 11:42:04.960 14169 14169 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lemonade.MainActivity@c9c7046
+10-11 11:42:04.961 14169 14169 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lemonade.MainActivity@c9c7046
+10-11 11:42:04.961 14169 14169 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lemonade.MainActivity@c9c7046
+10-11 11:42:04.984   596   640 W gralloc4: Unable to set buffer name VRI[MainActivity]#4(BLAST Consumer)4: File name too long
+10-11 11:42:04.986   596   640 W gralloc4: Unable to set buffer name VRI[MainActivity]#4(BLAST Consumer)4: File name too long
+10-11 11:42:04.989   596   640 W gralloc4: Unable to set buffer name VRI[MainActivity]#4(BLAST Consumer)4: File name too long
+10-11 11:42:04.991  1581  1705 W ziparchive: Unable to open '/data/app/~~jbAzdE7dxUo4AvD7l8Qd9A==/com.example.lemonade-A57eHKrU8SAn1gl7U4sg7w==/base.dm': No such file or directory
+10-11 11:42:04.993  1581  1705 I ActivityTaskManager: Displayed com.example.lemonade/.MainActivity for user 0: +131ms
+10-11 11:42:04.994   596   640 W gralloc4: Unable to set buffer name VRI[MainActivity]#4(BLAST Consumer)4: File name too long
+10-11 11:42:04.995 14169 14169 D RootViewPicker: Root not ready - waiting: 10ms for one to appear.
+10-11 11:42:04.998   596   640 W gralloc4: Unable to set buffer name VRI[MainActivity]#4(BLAST Consumer)4: File name too long
+10-11 11:42:05.006 14169 14169 D RootViewPicker: Root not ready - waiting: 25ms for one to appear.
+10-11 11:42:05.032 14169 14169 D RootViewPicker: Root not ready - waiting: 50ms for one to appear.
+10-11 11:42:05.086 14169 14169 D RootViewPicker: Root not ready - waiting: 100ms for one to appear.
+10-11 11:42:05.105  3849  4244 I gzxe    : Running throttled refresh
+10-11 11:42:05.105  3849  4661 I gzxe    : Running throttled refresh
+10-11 11:42:05.105  3849  4660 I gzxe    : Running throttled refresh
+10-11 11:42:05.105  3849  4661 I gzxe    : Running throttled refresh
+10-11 11:42:05.106  3849  4662 I gzxe    : Running throttled refresh
+10-11 11:42:05.107  3849  4664 I gzxe    : Running throttled refresh
+10-11 11:42:05.107  3849  4244 I gzxe    : Running throttled refresh
+10-11 11:42:05.108  3849  4244 I gzxe    : Running throttled refresh
+10-11 11:42:05.108  3849  4244 I gzxe    : Running throttled refresh
+10-11 11:42:05.108  3849  4244 I gzxe    : Running throttled refresh
+10-11 11:42:05.109  3849  4660 I gzxe    : Running throttled refresh
+10-11 11:42:05.111  3849  4296 W MDD     : GddFileGroupPopulator: Account was not provided, skipping private sync for corpus: GDD_APA_CORRECTIONS, configuration: GddAgsaApaCorrections
+10-11 11:42:05.118  3849  4660 I flhq    : (REDACTED) Starting batch sync for corpora: %s
+10-11 11:42:05.139  3849  4662 I flhq    : (REDACTED) Starting batch sync for corpora: %s
+10-11 11:42:05.139  3849  4294 I gvow    : Building Device Properties.
+10-11 11:42:05.141  3849  4294 I gvow    : Building Device Properties.
+10-11 11:42:05.142  3849  4664 I flhq    : (REDACTED) Starting batch sync for corpora: %s
+10-11 11:42:05.144  3849  4661 I flhq    : (REDACTED) Starting batch sync for corpora: %s
+10-11 11:42:05.145  3849  4662 I dpft    : Attempt to add empty FileGroup completed.
+10-11 11:42:05.146  3849  4296 E SQLiteLog: (1) no such table: geller_metadata_table in "SELECT DISTINCT metadata FROM geller_metadata_table WHERE data_type = ? AND key = ?"
+10-11 11:42:05.147  3849  4296 E flme    : Read metadata failed
+10-11 11:42:05.147  3849  4296 E flme    : android.database.sqlite.SQLiteException: no such table: geller_metadata_table (code 1 SQLITE_ERROR): , while compiling: SELECT DISTINCT metadata FROM geller_metadata_table WHERE data_type = ? AND key = ?
+10-11 11:42:05.147  3849  4296 E flme    : 	at android.database.sqlite.SQLiteConnection.nativePrepareStatement(Native Method)
+10-11 11:42:05.147  3849  4296 E flme    : 	at android.database.sqlite.SQLiteConnection.acquirePreparedStatement(SQLiteConnection.java:1069)
+10-11 11:42:05.147  3849  4296 E flme    : 	at android.database.sqlite.SQLiteConnection.prepare(SQLiteConnection.java:673)
+10-11 11:42:05.147  3849  4296 E flme    : 	at android.database.sqlite.SQLiteSession.prepare(SQLiteSession.java:590)
+10-11 11:42:05.147  3849  4296 E flme    : 	at android.database.sqlite.SQLiteProgram.<init>(SQLiteProgram.java:62)
+10-11 11:42:05.147  3849  4296 E flme    : 	at android.database.sqlite.SQLiteQuery.<init>(SQLiteQuery.java:37)
+10-11 11:42:05.147  3849  4296 E flme    : 	at android.database.sqlite.SQLiteDirectCursorDriver.query(SQLiteDirectCursorDriver.java:46)
+10-11 11:42:05.147  3849  4296 E flme    : 	at android.database.sqlite.SQLiteDatabase.rawQueryWithFactory(SQLiteDatabase.java:1714)
+10-11 11:42:05.147  3849  4296 E flme    : 	at android.database.sqlite.SQLiteDatabase.queryWithFactory(SQLiteDatabase.java:1561)
+10-11 11:42:05.147  3849  4296 E flme    : 	at android.database.sqlite.SQLiteDatabase.query(SQLiteDatabase.java:1432)
+10-11 11:42:05.147  3849  4296 E flme    : 	at flmf.d(PG:4)
+10-11 11:42:05.147  3849  4296 E flme    : 	at flme.readMetadata(PG:2)
+10-11 11:42:05.147  3849  4296 E flme    : 	at com.google.android.libraries.geller.portable.Geller.nativeReadMetadata(Native Method)
+10-11 11:42:05.147  3849  4296 E flme    : 	at com.google.android.libraries.geller.portable.Geller.c(PG:4)
+10-11 11:42:05.147  3849  4296 E flme    : 	at gznx.apply(PG:1)
+10-11 11:42:05.147  3849  4296 E flme    : 	at gzof.a(PG:5)
+10-11 11:42:05.147  3849  4296 E flme    : 	at hqsm.a(PG:3)
+10-11 11:42:05.147  3849  4296 E flme    : 	at iicu.a(PG:1)
+10-11 11:42:05.147  3849  4296 E flme    : 	at iieq.run(PG:4)
+10-11 11:42:05.147  3849  4296 E flme    : 	at fhus.run(PG:1)
+10-11 11:42:05.147  3849  4296 E flme    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-11 11:42:05.147  3849  4296 E flme    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-11 11:42:05.147  3849  4296 E flme    : 	at fhtw.run(PG:2)
+10-11 11:42:05.147  3849  4296 E flme    : 	at java.lang.Thread.run(Thread.java:1012)
+10-11 11:42:05.147  3849  4296 E flme    : 	at fhvb.run(PG:5)
+10-11 11:42:05.149  3849  4292 I gvow    : Building Device Properties.
+10-11 11:42:05.149  3849  4296 E flme    : An error occurred. Dropping existing data and recreating all tables.
+10-11 11:42:05.149  3849  4296 E flme    : android.database.sqlite.SQLiteException: no such table: geller_metadata_table (code 1 SQLITE_ERROR): , while compiling: SELECT DISTINCT metadata FROM geller_metadata_table WHERE data_type = ? AND key = ?
+10-11 11:42:05.149  3849  4296 E flme    : 	at android.database.sqlite.SQLiteConnection.nativePrepareStatement(Native Method)
+10-11 11:42:05.149  3849  4296 E flme    : 	at android.database.sqlite.SQLiteConnection.acquirePreparedStatement(SQLiteConnection.java:1069)
+10-11 11:42:05.149  3849  4296 E flme    : 	at android.database.sqlite.SQLiteConnection.prepare(SQLiteConnection.java:673)
+10-11 11:42:05.149  3849  4296 E flme    : 	at android.database.sqlite.SQLiteSession.prepare(SQLiteSession.java:590)
+10-11 11:42:05.149  3849  4296 E flme    : 	at android.database.sqlite.SQLiteProgram.<init>(SQLiteProgram.java:62)
+10-11 11:42:05.149  3849  4296 E flme    : 	at android.database.sqlite.SQLiteQuery.<init>(SQLiteQuery.java:37)
+10-11 11:42:05.149  3849  4296 E flme    : 	at android.database.sqlite.SQLiteDirectCursorDriver.query(SQLiteDirectCursorDriver.java:46)
+10-11 11:42:05.149  3849  4296 E flme    : 	at android.database.sqlite.SQLiteDatabase.rawQueryWithFactory(SQLiteDatabase.java:1714)
+10-11 11:42:05.149  3849  4296 E flme    : 	at android.database.sqlite.SQLiteDatabase.queryWithFactory(SQLiteDatabase.java:1561)
+10-11 11:42:05.149  3849  4296 E flme    : 	at android.database.sqlite.SQLiteDatabase.query(SQLiteDatabase.java:1432)
+10-11 11:42:05.149  3849  4296 E flme    : 	at flmf.d(PG:4)
+10-11 11:42:05.149  3849  4296 E flme    : 	at flme.readMetadata(PG:2)
+10-11 11:42:05.149  3849  4296 E flme    : 	at com.google.android.libraries.geller.portable.Geller.nativeReadMetadata(Native Method)
+10-11 11:42:05.149  3849  4296 E flme    : 	at com.google.android.libraries.geller.portable.Geller.c(PG:4)
+10-11 11:42:05.149  3849  4296 E flme    : 	at gznx.apply(PG:1)
+10-11 11:42:05.149  3849  4296 E flme    : 	at gzof.a(PG:5)
+10-11 11:42:05.149  3849  4296 E flme    : 	at hqsm.a(PG:3)
+10-11 11:42:05.149  3849  4296 E flme    : 	at iicu.a(PG:1)
+10-11 11:42:05.149  3849  4296 E flme    : 	at iieq.run(PG:4)
+10-11 11:42:05.149  3849  4296 E flme    : 	at fhus.run(PG:1)
+10-11 11:42:05.149  3849  4296 E flme    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-11 11:42:05.149  3849  4296 E flme    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-11 11:42:05.149  3849  4296 E flme    : 	at fhtw.run(PG:2)
+10-11 11:42:05.149  3849  4296 E flme    : 	at java.lang.Thread.run(Thread.java:1012)
+10-11 11:42:05.149  3849  4296 E flme    : 	at fhvb.run(PG:5)
+10-11 11:42:05.152  3849  4296 W flme    : (REDACTED) Dropped table %s
+10-11 11:42:05.153  3849  4292 I gvow    : Building Device Properties.
+10-11 11:42:05.153  3849  4296 E SQLiteLog: (1) index datatype_key_dataid already exists in "CREATE INDEX datatype_key_dataid ON geller_key_table (data_type, key, delete_status, data_id);"
+10-11 11:42:05.153  3849  4664 I LPRequestState: (REDACTED) [%s] #resolveUnusedLanguagePacks
+10-11 11:42:05.153  3849  4664 I LPRequestState: (REDACTED) [%s] #resolveDesiredLanguagePacks
+10-11 11:42:05.154  3849  4296 E flme    : Failed to recreate tables
+10-11 11:42:05.154  3849  4296 E flme    : android.database.sqlite.SQLiteException: index datatype_key_dataid already exists (code 1 SQLITE_ERROR): , while compiling: CREATE INDEX datatype_key_dataid ON geller_key_table (data_type, key, delete_status, data_id);
+10-11 11:42:05.154  3849  4296 E flme    : 	at android.database.sqlite.SQLiteConnection.nativePrepareStatement(Native Method)
+10-11 11:42:05.154  3849  4296 E flme    : 	at android.database.sqlite.SQLiteConnection.acquirePreparedStatement(SQLiteConnection.java:1069)
+10-11 11:42:05.154  3849  4296 E flme    : 	at android.database.sqlite.SQLiteConnection.prepare(SQLiteConnection.java:673)
+10-11 11:42:05.154  3849  4296 E flme    : 	at android.database.sqlite.SQLiteSession.prepare(SQLiteSession.java:590)
+10-11 11:42:05.154  3849  4296 E flme    : 	at android.database.sqlite.SQLiteProgram.<init>(SQLiteProgram.java:62)
+10-11 11:42:05.154  3849  4296 E flme    : 	at android.database.sqlite.SQLiteStatement.<init>(SQLiteStatement.java:34)
+10-11 11:42:05.154  3849  4296 E flme    : 	at android.database.sqlite.SQLiteDatabase.executeSql(SQLiteDatabase.java:2088)
+10-11 11:42:05.154  3849  4296 E flme    : 	at android.database.sqlite.SQLiteDatabase.execSQL(SQLiteDatabase.java:2010)
+10-11 11:42:05.154  3849  4296 E flme    : 	at flme.onCreate(PG:5)
+10-11 11:42:05.154  3849  4296 E flme    : 	at flme.g(PG:12)
+10-11 11:42:05.154  3849  4296 E flme    : 	at flme.f(PG:18)
+10-11 11:42:05.154  3849  4296 E flme    : 	at flme.readMetadata(PG:5)
+10-11 11:42:05.154  3849  4296 E flme    : 	at com.google.android.libraries.geller.portable.Geller.nativeReadMetadata(Native Method)
+10-11 11:42:05.154  3849  4296 E flme    : 	at com.google.android.libraries.geller.portable.Geller.c(PG:4)
+10-11 11:42:05.154  3849  4296 E flme    : 	at gznx.apply(PG:1)
+10-11 11:42:05.154  3849  4296 E flme    : 	at gzof.a(PG:5)
+10-11 11:42:05.154  3849  4296 E flme    : 	at hqsm.a(PG:3)
+10-11 11:42:05.154  3849  4296 E flme    : 	at iicu.a(PG:1)
+10-11 11:42:05.154  3849  4296 E flme    : 	at iieq.run(PG:4)
+10-11 11:42:05.154  3849  4296 E flme    : 	at fhus.run(PG:1)
+10-11 11:42:05.154  3849  4296 E flme    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-11 11:42:05.154  3849  4296 E flme    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-11 11:42:05.154  3849  4296 E flme    : 	at fhtw.run(PG:2)
+10-11 11:42:05.154  3849  4296 E flme    : 	at java.lang.Thread.run(Thread.java:1012)
+10-11 11:42:05.154  3849  4296 E flme    : 	at fhvb.run(PG:5)
+10-11 11:42:05.154  3849  4661 I flhq    : (REDACTED) Starting batch sync for corpora: %s
+10-11 11:42:05.159  3849 14064 I flme    : (REDACTED) The GellerConfig is not present, defaulting isUploadEnabled for corpus %s to true.
+10-11 11:42:05.165  3849  4661 I flhq    : (REDACTED) Starting batch sync for corpora: %s
+10-11 11:42:05.165  3849  4663 W flhq    : (REDACTED) Upload permissions denied for Corpus %s
+10-11 11:42:05.165  3849 14064 E SQLiteLog: (1) no such table: geller_metadata_table in "SELECT DISTINCT metadata FROM geller_metadata_table WHERE data_type = ? AND key = ?"
+10-11 11:42:05.166  3849  4663 I flhq    : (REDACTED) Starting batch sync for corpora: %s
+10-11 11:42:05.166  3849  4663 I flhq    : (REDACTED) Starting batch sync for corpora: %s
+10-11 11:42:05.166  3849 14064 E flme    : Read metadata failed
+10-11 11:42:05.166  3849 14064 E flme    : android.database.sqlite.SQLiteException: no such table: geller_metadata_table (code 1 SQLITE_ERROR): , while compiling: SELECT DISTINCT metadata FROM geller_metadata_table WHERE data_type = ? AND key = ?
+10-11 11:42:05.166  3849 14064 E flme    : 	at android.database.sqlite.SQLiteConnection.nativePrepareStatement(Native Method)
+10-11 11:42:05.166  3849 14064 E flme    : 	at android.database.sqlite.SQLiteConnection.acquirePreparedStatement(SQLiteConnection.java:1069)
+10-11 11:42:05.166  3849 14064 E flme    : 	at android.database.sqlite.SQLiteConnection.prepare(SQLiteConnection.java:673)
+10-11 11:42:05.166  3849 14064 E flme    : 	at android.database.sqlite.SQLiteSession.prepare(SQLiteSession.java:590)
+10-11 11:42:05.166  3849 14064 E flme    : 	at android.database.sqlite.SQLiteProgram.<init>(SQLiteProgram.java:62)
+10-11 11:42:05.166  3849 14064 E flme    : 	at android.database.sqlite.SQLiteQuery.<init>(SQLiteQuery.java:37)
+10-11 11:42:05.166  3849 14064 E flme    : 	at android.database.sqlite.SQLiteDirectCursorDriver.query(SQLiteDirectCursorDriver.java:46)
+10-11 11:42:05.166  3849 14064 E flme    : 	at android.database.sqlite.SQLiteDatabase.rawQueryWithFactory(SQLiteDatabase.java:1714)
+10-11 11:42:05.166  3849 14064 E flme    : 	at android.database.sqlite.SQLiteDatabase.queryWithFactory(SQLiteDatabase.java:1561)
+10-11 11:42:05.166  3849 14064 E flme    : 	at android.database.sqlite.SQLiteDatabase.query(SQLiteDatabase.java:1432)
+10-11 11:42:05.166  3849 14064 E flme    : 	at flmf.d(PG:4)
+10-11 11:42:05.166  3849 14064 E flme    : 	at flme.readMetadata(PG:2)
+10-11 11:42:05.166  3849 14064 E flme    : 	at com.google.android.libraries.geller.portable.Geller.nativeReadMetadata(Native Method)
+10-11 11:42:05.166  3849 14064 E flme    : 	at com.google.android.libraries.geller.portable.Geller.c(PG:4)
+10-11 11:42:05.166  3849 14064 E flme    : 	at flhq.d(PG:30)
+10-11 11:42:05.166  3849 14064 E flme    : 	at flhn.apply(PG:7)
+10-11 11:42:05.166  3849 14064 E flme    : 	at hqsy.apply(PG:3)
+10-11 11:42:05.166  3849 14064 E flme    : 	at iiaz.e(PG:2)
+10-11 11:42:05.166  3849 14064 E flme    : 	at iiba.run(PG:9)
+10-11 11:42:05.166  3849 14064 E flme    : 	at fhus.run(PG:1)
+10-11 11:42:05.166  3849 14064 E flme    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-11 11:42:05.166  3849 14064 E flme    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-11 11:42:05.166  3849 14064 E flme    : 	at fhua.run(PG:2)
+10-11 11:42:05.166  3849 14064 E flme    : 	at java.lang.Thread.run(Thread.java:1012)
+10-11 11:42:05.166  3849 14064 E flme    : 	at fhvb.run(PG:5)
+10-11 11:42:05.167  3849 14064 E flme    : An error occurred. Dropping existing data and recreating all tables.
+10-11 11:42:05.167  3849 14064 E flme    : android.database.sqlite.SQLiteException: no such table: geller_metadata_table (code 1 SQLITE_ERROR): , while compiling: SELECT DISTINCT metadata FROM geller_metadata_table WHERE data_type = ? AND key = ?
+10-11 11:42:05.167  3849 14064 E flme    : 	at android.database.sqlite.SQLiteConnection.nativePrepareStatement(Native Method)
+10-11 11:42:05.167  3849 14064 E flme    : 	at android.database.sqlite.SQLiteConnection.acquirePreparedStatement(SQLiteConnection.java:1069)
+10-11 11:42:05.167  3849 14064 E flme    : 	at android.database.sqlite.SQLiteConnection.prepare(SQLiteConnection.java:673)
+10-11 11:42:05.167  3849 14064 E flme    : 	at android.database.sqlite.SQLiteSession.prepare(SQLiteSession.java:590)
+10-11 11:42:05.167  3849 14064 E flme    : 	at android.database.sqlite.SQLiteProgram.<init>(SQLiteProgram.java:62)
+10-11 11:42:05.167  3849 14064 E flme    : 	at android.database.sqlite.SQLiteQuery.<init>(SQLiteQuery.java:37)
+10-11 11:42:05.167  3849 14064 E flme    : 	at android.database.sqlite.SQLiteDirectCursorDriver.query(SQLiteDirectCursorDriver.java:46)
+10-11 11:42:05.167  3849 14064 E flme    : 	at android.database.sqlite.SQLiteDatabase.rawQueryWithFactory(SQLiteDatabase.java:1714)
+10-11 11:42:05.167  3849 14064 E flme    : 	at android.database.sqlite.SQLiteDatabase.queryWithFactory(SQLiteDatabase.java:1561)
+10-11 11:42:05.167  3849 14064 E flme    : 	at android.database.sqlite.SQLiteDatabase.query(SQLiteDatabase.java:1432)
+10-11 11:42:05.167  3849 14064 E flme    : 	at flmf.d(PG:4)
+10-11 11:42:05.167  3849 14064 E flme    : 	at flme.readMetadata(PG:2)
+10-11 11:42:05.167  3849 14064 E flme    : 	at com.google.android.libraries.geller.portable.Geller.nativeReadMetadata(Native Method)
+10-11 11:42:05.167  3849 14064 E flme    : 	at com.google.android.libraries.geller.portable.Geller.c(PG:4)
+10-11 11:42:05.167  3849 14064 E flme    : 	at flhq.d(PG:30)
+10-11 11:42:05.167  3849 14064 E flme    : 	at flhn.apply(PG:7)
+10-11 11:42:05.167  3849 14064 E flme    : 	at hqsy.apply(PG:3)
+10-11 11:42:05.167  3849 14064 E flme    : 	at iiaz.e(PG:2)
+10-11 11:42:05.167  3849 14064 E flme    : 	at iiba.run(PG:9)
+10-11 11:42:05.167  3849 14064 E flme    : 	at fhus.run(PG:1)
+10-11 11:42:05.167  3849 14064 E flme    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-11 11:42:05.167  3849 14064 E flme    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-11 11:42:05.167  3849 14064 E flme    : 	at fhua.run(PG:2)
+10-11 11:42:05.167  3849 14064 E flme    : 	at java.lang.Thread.run(Thread.java:1012)
+10-11 11:42:05.167  3849 14064 E flme    : 	at fhvb.run(PG:5)
+10-11 11:42:05.168  3849  4296 I gvow    : Building Device Properties.
+10-11 11:42:05.170  3849  4664 I flhq    : (REDACTED) Starting batch sync for corpora: %s
+10-11 11:42:05.170  3849  4296 I gvow    : Building Device Properties.
+10-11 11:42:05.171  3849 14064 W flme    : (REDACTED) Dropped table %s
+10-11 11:42:05.171  3849  4294 I gvow    : Building Device Properties.
+10-11 11:42:05.172  3849 14168 I flhq    : (REDACTED) The syncToken for corpus %s is %s.
+10-11 11:42:05.173  3849  4296 I gvow    : Building Device Properties.
+10-11 11:42:05.173  3849 14251 I flhq    : (REDACTED) The syncToken for corpus %s is %s.
+10-11 11:42:05.174  3849  4664 I flhq    : (REDACTED) Starting batch sync for corpora: %s
+10-11 11:42:05.176  3849 14064 E SQLiteLog: (1) index datatype_key_dataid already exists in "CREATE INDEX datatype_key_dataid ON geller_key_table (data_type, key, delete_status, data_id);"
+10-11 11:42:05.177  3849 14064 E flme    : Failed to recreate tables
+10-11 11:42:05.177  3849 14064 E flme    : android.database.sqlite.SQLiteException: index datatype_key_dataid already exists (code 1 SQLITE_ERROR): , while compiling: CREATE INDEX datatype_key_dataid ON geller_key_table (data_type, key, delete_status, data_id);
+10-11 11:42:05.177  3849 14064 E flme    : 	at android.database.sqlite.SQLiteConnection.nativePrepareStatement(Native Method)
+10-11 11:42:05.177  3849 14064 E flme    : 	at android.database.sqlite.SQLiteConnection.acquirePreparedStatement(SQLiteConnection.java:1069)
+10-11 11:42:05.177  3849 14064 E flme    : 	at android.database.sqlite.SQLiteConnection.prepare(SQLiteConnection.java:673)
+10-11 11:42:05.177  3849 14064 E flme    : 	at android.database.sqlite.SQLiteSession.prepare(SQLiteSession.java:590)
+10-11 11:42:05.177  3849 14064 E flme    : 	at android.database.sqlite.SQLiteProgram.<init>(SQLiteProgram.java:62)
+10-11 11:42:05.177  3849 14064 E flme    : 	at android.database.sqlite.SQLiteStatement.<init>(SQLiteStatement.java:34)
+10-11 11:42:05.177  3849 14064 E flme    : 	at android.database.sqlite.SQLiteDatabase.executeSql(SQLiteDatabase.java:2088)
+10-11 11:42:05.177  3849 14064 E flme    : 	at android.database.sqlite.SQLiteDatabase.execSQL(SQLiteDatabase.java:2010)
+10-11 11:42:05.177  3849 14064 E flme    : 	at flme.onCreate(PG:5)
+10-11 11:42:05.177  3849 14064 E flme    : 	at flme.g(PG:12)
+10-11 11:42:05.177  3849 14064 E flme    : 	at flme.f(PG:18)
+10-11 11:42:05.177  3849 14064 E flme    : 	at flme.readMetadata(PG:5)
+10-11 11:42:05.177  3849 14064 E flme    : 	at com.google.android.libraries.geller.portable.Geller.nativeReadMetadata(Native Method)
+10-11 11:42:05.177  3849 14064 E flme    : 	at com.google.android.libraries.geller.portable.Geller.c(PG:4)
+10-11 11:42:05.177  3849 14064 E flme    : 	at flhq.d(PG:30)
+10-11 11:42:05.177  3849 14064 E flme    : 	at flhn.apply(PG:7)
+10-11 11:42:05.177  3849 14064 E flme    : 	at hqsy.apply(PG:3)
+10-11 11:42:05.177  3849 14064 E flme    : 	at iiaz.e(PG:2)
+10-11 11:42:05.177  3849 14064 E flme    : 	at iiba.run(PG:9)
+10-11 11:42:05.177  3849 14064 E flme    : 	at fhus.run(PG:1)
+10-11 11:42:05.177  3849 14064 E flme    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-11 11:42:05.177  3849 14064 E flme    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-11 11:42:05.177  3849 14064 E flme    : 	at fhua.run(PG:2)
+10-11 11:42:05.177  3849 14064 E flme    : 	at java.lang.Thread.run(Thread.java:1012)
+10-11 11:42:05.177  3849 14064 E flme    : 	at fhvb.run(PG:5)
+10-11 11:42:05.177  3849 14064 I flhq    : (REDACTED) No previous syncToken for corpus %s found.
+10-11 11:42:05.179  3849 14064 D TrafficStats: tagSocket(380) with statsTag=0x0, statsUid=-1
+10-11 11:42:05.179  3849 14251 I flhq    : (REDACTED) The syncToken for corpus %s is %s.
+10-11 11:42:05.183  3849 14168 D TrafficStats: tagSocket(382) with statsTag=0x0, statsUid=-1
+10-11 11:42:05.187 14169 14169 D RootViewPicker: Root not ready - waiting: 200ms for one to appear.
+10-11 11:42:05.194  3849  4294 I gvow    : Building Device Properties.
+10-11 11:42:05.195  3849 14139 D TrafficStats: tagSocket(389) with statsTag=0x0, statsUid=-1
+10-11 11:42:05.195  3849 14256 D TrafficStats: tagSocket(395) with statsTag=0x0, statsUid=-1

@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "C:\\Users\\Vadil\\.gradle\\daemon\\7.5.1\\com.example.lemonade.app-merged_res-29:\\drawable_ic_launcher_lemonade_background.xml.flat",
+        "source": "C:\\Users\\Vadil\\.gradle\\daemon\\7.5.1\\com.example.lemonade.app-main-31:\\drawable\\ic_launcher_lemonade_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vadil\\.gradle\\daemon\\7.5.1\\com.example.lemonade.app-merged_res-29:\\drawable_lemon_tree.xml.flat",
+        "source": "C:\\Users\\Vadil\\.gradle\\daemon\\7.5.1\\com.example.lemonade.app-main-31:\\drawable\\lemon_tree.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vadil\\.gradle\\daemon\\7.5.1\\com.example.lemonade.app-merged_res-29:\\mipmap-hdpi_ic_launcher_lemonade_round.png.flat",
+        "source": "C:\\Users\\Vadil\\.gradle\\daemon\\7.5.1\\com.example.lemonade.app-main-31:\\mipmap-hdpi\\ic_launcher_lemonade_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Vadil\\.gradle\\daemon\\7.5.1\\com.example.lemonade.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_lemonade.png.flat",
+        "source": "C:\\Users\\Vadil\\.gradle\\daemon\\7.5.1\\com.example.lemonade.app-main-31:\\mipmap-xxhdpi\\ic_launcher_lemonade.png"
+    },
+    {
+        "merged": "C:\\Users\\Vadil\\.gradle\\daemon\\7.5.1\\com.example.lemonade.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_lemonade.png.flat",
+        "source": "C:\\Users\\Vadil\\.gradle\\daemon\\7.5.1\\com.example.lemonade.app-main-31:\\mipmap-xhdpi\\ic_launcher_lemonade.png"
+    },
+    {
+        "merged": "C:\\Users\\Vadil\\.gradle\\daemon\\7.5.1\\com.example.lemonade.app-merged_res-29:\\mipmap-mdpi_ic_launcher_lemonade_round.png.flat",
+        "source": "C:\\Users\\Vadil\\.gradle\\daemon\\7.5.1\\com.example.lemonade.app-main-31:\\mipmap-mdpi\\ic_launcher_lemonade_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Vadil\\.gradle\\daemon\\7.5.1\\com.example.lemonade.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Vadil\\.gradle\\daemon\\7.5.1\\com.example.lemonade.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vadil\\.gradle\\daemon\\7.5.1\\com.example.lemonade.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_lemonade_round.png.flat",
+        "source": "C:\\Users\\Vadil\\.gradle\\daemon\\7.5.1\\com.example.lemonade.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_lemonade_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Vadil\\.gradle\\daemon\\7.5.1\\com.example.lemonade.app-merged_res-29:\\drawable_ic_launcher_lemonade_foreground.xml.flat",
+        "source": "C:\\Users\\Vadil\\.gradle\\daemon\\7.5.1\\com.example.lemonade.app-main-31:\\drawable\\ic_launcher_lemonade_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vadil\\.gradle\\daemon\\7.5.1\\com.example.lemonade.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_lemonade_round.png.flat",
+        "source": "C:\\Users\\Vadil\\.gradle\\daemon\\7.5.1\\com.example.lemonade.app-main-31:\\mipmap-xxhdpi\\ic_launcher_lemonade_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Vadil\\.gradle\\daemon\\7.5.1\\com.example.lemonade.app-merged_res-29:\\mipmap-mdpi_ic_launcher_lemonade.png.flat",
+        "source": "C:\\Users\\Vadil\\.gradle\\daemon\\7.5.1\\com.example.lemonade.app-main-31:\\mipmap-mdpi\\ic_launcher_lemonade.png"
+    },
+    {
+        "merged": "C:\\Users\\Vadil\\.gradle\\daemon\\7.5.1\\com.example.lemonade.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_lemonade.xml.flat",
+        "source": "C:\\Users\\Vadil\\.gradle\\daemon\\7.5.1\\com.example.lemonade.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_lemonade.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vadil\\.gradle\\daemon\\7.5.1\\com.example.lemonade.app-merged_res-29:\\drawable_lemon_squeeze.xml.flat",
+        "source": "C:\\Users\\Vadil\\.gradle\\daemon\\7.5.1\\com.example.lemonade.app-main-31:\\drawable\\lemon_squeeze.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vadil\\.gradle\\daemon\\7.5.1\\com.example.lemonade.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_lemonade_round.png.flat",
+        "source": "C:\\Users\\Vadil\\.gradle\\daemon\\7.5.1\\com.example.lemonade.app-main-31:\\mipmap-xhdpi\\ic_launcher_lemonade_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Vadil\\.gradle\\daemon\\7.5.1\\com.example.lemonade.app-merged_res-29:\\drawable_lemon_drink.xml.flat",
+        "source": "C:\\Users\\Vadil\\.gradle\\daemon\\7.5.1\\com.example.lemonade.app-main-31:\\drawable\\lemon_drink.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vadil\\.gradle\\daemon\\7.5.1\\com.example.lemonade.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_lemonade.png.flat",
+        "source": "C:\\Users\\Vadil\\.gradle\\daemon\\7.5.1\\com.example.lemonade.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_lemonade.png"
+    },
+    {
+        "merged": "C:\\Users\\Vadil\\.gradle\\daemon\\7.5.1\\com.example.lemonade.app-merged_res-29:\\mipmap-hdpi_ic_launcher_lemonade.png.flat",
+        "source": "C:\\Users\\Vadil\\.gradle\\daemon\\7.5.1\\com.example.lemonade.app-main-31:\\mipmap-hdpi\\ic_launcher_lemonade.png"
+    },
+    {
+        "merged": "C:\\Users\\Vadil\\.gradle\\daemon\\7.5.1\\com.example.lemonade.app-merged_res-29:\\drawable_lemon_restart.xml.flat",
+        "source": "C:\\Users\\Vadil\\.gradle\\daemon\\7.5.1\\com.example.lemonade.app-main-31:\\drawable\\lemon_restart.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vadil\\.gradle\\daemon\\7.5.1\\com.example.lemonade.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_lemonade_round.xml.flat",
+        "source": "C:\\Users\\Vadil\\.gradle\\daemon\\7.5.1\\com.example.lemonade.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_lemonade_round.xml"
+    },
+    {
+        "merged": "com.example.lemonade.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.example.lemonade.app-main-31:/layout/activity_main.xml"
+    }
+]

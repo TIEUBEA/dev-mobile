@@ -1,0 +1,13 @@
+#Wed Oct 11 09:57:14 GMT+01:00 2023
+base.0=C\:\\Users\\Vadil\\StudioProjects\\android-basics-kotlin-lemonade-app\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
+base.1=C\:\\Users\\Vadil\\StudioProjects\\android-basics-kotlin-lemonade-app\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+base.2=C\:\\Users\\Vadil\\StudioProjects\\android-basics-kotlin-lemonade-app\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\2\\classes.dex
+base.3=C\:\\Users\\Vadil\\StudioProjects\\android-basics-kotlin-lemonade-app\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\5\\classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=2/classes.dex
+path.3=5/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex

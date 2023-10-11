@@ -1,0 +1,271 @@
+INSTRUMENTATION_STATUS: class=com.example.lemonade.LemonadeTests
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=6
+INSTRUMENTATION_STATUS: stream=
+com.example.lemonade.LemonadeTests:
+INSTRUMENTATION_STATUS: test=test_squeezing_lemon_proceeds_to_drink_state
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=com.example.lemonade.LemonadeTests
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=6
+INSTRUMENTATION_STATUS: stack=androidx.test.espresso.base.DefaultFailureHandler$AssertionFailedWithCauseError: 'an instance of android.widget.TextView and view.getText() equals string from resource id: <2131689520>' doesn't match the selected view.
+Expected: an instance of android.widget.TextView and view.getText() equals string from resource id: <2131689520> [lemon_drink] value: Cliquez pour boire la lemonade!
+Got: view.getText() was "Cliquez pour sélectionner un lemon!"
+View Details: MaterialTextView{id=2131231150, res-name=text_action, visibility=VISIBLE, width=637, height=54, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@ceedd21, tag=null, root-is-layout-requested=false, has-input-connection=false, x=222.0, y=494.0, text=Cliquez pour sélectionner un lemon!, input-type=0, ime-target=false, has-links=false}
+
+at dalvik.system.VMStack.getThreadStackTrace(Native Method)
+at java.lang.Thread.getStackTrace(Thread.java:1841)
+at androidx.test.espresso.base.DefaultFailureHandler.getUserFriendlyError(DefaultFailureHandler.java:12)
+at androidx.test.espresso.base.DefaultFailureHandler.handle(DefaultFailureHandler.java:7)
+at androidx.test.espresso.ViewInteraction.waitForAndHandleInteractionResults(ViewInteraction.java:5)
+at androidx.test.espresso.ViewInteraction.check(ViewInteraction.java:12)
+at com.example.lemonade.BaseTest.testState(BaseTest.kt:55)
+at com.example.lemonade.LemonadeTests.test_squeezing_lemon_proceeds_to_drink_state(LemonadeTests.kt:69)
+... 28 trimmed
+Caused by: junit.framework.AssertionFailedError: 'an instance of android.widget.TextView and view.getText() equals string from resource id: <2131689520>' doesn't match the selected view.
+Expected: an instance of android.widget.TextView and view.getText() equals string from resource id: <2131689520> [lemon_drink] value: Cliquez pour boire la lemonade!
+Got: view.getText() was "Cliquez pour sélectionner un lemon!"
+View Details: MaterialTextView{id=2131231150, res-name=text_action, visibility=VISIBLE, width=637, height=54, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@ceedd21, tag=null, root-is-layout-requested=false, has-input-connection=false, x=222.0, y=494.0, text=Cliquez pour sélectionner un lemon!, input-type=0, ime-target=false, has-links=false}
+
+at androidx.test.espresso.matcher.ViewMatchers.assertThat(ViewMatchers.java:16)
+at androidx.test.espresso.assertion.ViewAssertions$MatchesViewAssertion.check(ViewAssertions.java:11)
+at androidx.test.espresso.ViewInteraction$SingleExecutionViewAssertion.check(ViewInteraction.java:2)
+at androidx.test.espresso.ViewInteraction$2.call(ViewInteraction.java:12)
+at androidx.test.espresso.ViewInteraction$2.call(ViewInteraction.java:1)
+at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+at android.os.Handler.handleCallback(Handler.java:958)
+at android.os.Handler.dispatchMessage(Handler.java:99)
+at android.os.Looper.loopOnce(Looper.java:205)
+at android.os.Looper.loop(Looper.java:294)
+at android.app.ActivityThread.main(ActivityThread.java:8177)
+at java.lang.reflect.Method.invoke(Native Method)
+at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:552)
+at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:971)
+
+INSTRUMENTATION_STATUS: stream=
+Error in test_squeezing_lemon_proceeds_to_drink_state(com.example.lemonade.LemonadeTests):
+androidx.test.espresso.base.DefaultFailureHandler$AssertionFailedWithCauseError: 'an instance of android.widget.TextView and view.getText() equals string from resource id: <2131689520>' doesn't match the selected view.
+Expected: an instance of android.widget.TextView and view.getText() equals string from resource id: <2131689520> [lemon_drink] value: Cliquez pour boire la lemonade!
+Got: view.getText() was "Cliquez pour sélectionner un lemon!"
+View Details: MaterialTextView{id=2131231150, res-name=text_action, visibility=VISIBLE, width=637, height=54, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@ceedd21, tag=null, root-is-layout-requested=false, has-input-connection=false, x=222.0, y=494.0, text=Cliquez pour sélectionner un lemon!, input-type=0, ime-target=false, has-links=false}
+
+at dalvik.system.VMStack.getThreadStackTrace(Native Method)
+at java.lang.Thread.getStackTrace(Thread.java:1841)
+at androidx.test.espresso.base.DefaultFailureHandler.getUserFriendlyError(DefaultFailureHandler.java:12)
+at androidx.test.espresso.base.DefaultFailureHandler.handle(DefaultFailureHandler.java:7)
+at androidx.test.espresso.ViewInteraction.waitForAndHandleInteractionResults(ViewInteraction.java:5)
+at androidx.test.espresso.ViewInteraction.check(ViewInteraction.java:12)
+at com.example.lemonade.BaseTest.testState(BaseTest.kt:55)
+at com.example.lemonade.LemonadeTests.test_squeezing_lemon_proceeds_to_drink_state(LemonadeTests.kt:69)
+... 28 trimmed
+Caused by: junit.framework.AssertionFailedError: 'an instance of android.widget.TextView and view.getText() equals string from resource id: <2131689520>' doesn't match the selected view.
+Expected: an instance of android.widget.TextView and view.getText() equals string from resource id: <2131689520> [lemon_drink] value: Cliquez pour boire la lemonade!
+Got: view.getText() was "Cliquez pour sélectionner un lemon!"
+View Details: MaterialTextView{id=2131231150, res-name=text_action, visibility=VISIBLE, width=637, height=54, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@ceedd21, tag=null, root-is-layout-requested=false, has-input-connection=false, x=222.0, y=494.0, text=Cliquez pour sélectionner un lemon!, input-type=0, ime-target=false, has-links=false}
+
+at androidx.test.espresso.matcher.ViewMatchers.assertThat(ViewMatchers.java:16)
+at androidx.test.espresso.assertion.ViewAssertions$MatchesViewAssertion.check(ViewAssertions.java:11)
+at androidx.test.espresso.ViewInteraction$SingleExecutionViewAssertion.check(ViewInteraction.java:2)
+at androidx.test.espresso.ViewInteraction$2.call(ViewInteraction.java:12)
+at androidx.test.espresso.ViewInteraction$2.call(ViewInteraction.java:1)
+at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+at android.os.Handler.handleCallback(Handler.java:958)
+at android.os.Handler.dispatchMessage(Handler.java:99)
+at android.os.Looper.loopOnce(Looper.java:205)
+at android.os.Looper.loop(Looper.java:294)
+at android.app.ActivityThread.main(ActivityThread.java:8177)
+at java.lang.reflect.Method.invoke(Native Method)
+at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:552)
+at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:971)
+
+INSTRUMENTATION_STATUS: test=test_squeezing_lemon_proceeds_to_drink_state
+INSTRUMENTATION_STATUS_CODE: -2
+INSTRUMENTATION_STATUS: class=com.example.lemonade.LemonadeTests
+INSTRUMENTATION_STATUS: current=2
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=6
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=test_initial_state
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=com.example.lemonade.LemonadeTests
+INSTRUMENTATION_STATUS: current=2
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=6
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: test=test_initial_state
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: class=com.example.lemonade.LemonadeTests
+INSTRUMENTATION_STATUS: current=3
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=6
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=test_picking_lemon_proceeds_to_squeeze_state
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=com.example.lemonade.LemonadeTests
+INSTRUMENTATION_STATUS: current=3
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=6
+INSTRUMENTATION_STATUS: stack=androidx.test.espresso.base.DefaultFailureHandler$AssertionFailedWithCauseError: 'an instance of android.widget.TextView and view.getText() equals string from resource id: <2131689523>' doesn't match the selected view.
+Expected: an instance of android.widget.TextView and view.getText() equals string from resource id: <2131689523> [lemon_squeeze] value: Cliquez pour presser le lemon!
+Got: view.getText() was "Cliquez pour sélectionner un lemon!"
+View Details: MaterialTextView{id=2131231150, res-name=text_action, visibility=VISIBLE, width=637, height=54, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@6dc594e, tag=null, root-is-layout-requested=false, has-input-connection=false, x=222.0, y=494.0, text=Cliquez pour sélectionner un lemon!, input-type=0, ime-target=false, has-links=false}
+
+at dalvik.system.VMStack.getThreadStackTrace(Native Method)
+at java.lang.Thread.getStackTrace(Thread.java:1841)
+at androidx.test.espresso.base.DefaultFailureHandler.getUserFriendlyError(DefaultFailureHandler.java:12)
+at androidx.test.espresso.base.DefaultFailureHandler.handle(DefaultFailureHandler.java:7)
+at androidx.test.espresso.ViewInteraction.waitForAndHandleInteractionResults(ViewInteraction.java:5)
+at androidx.test.espresso.ViewInteraction.check(ViewInteraction.java:12)
+at com.example.lemonade.BaseTest.testState(BaseTest.kt:55)
+at com.example.lemonade.LemonadeTests.test_picking_lemon_proceeds_to_squeeze_state(LemonadeTests.kt:58)
+... 28 trimmed
+Caused by: junit.framework.AssertionFailedError: 'an instance of android.widget.TextView and view.getText() equals string from resource id: <2131689523>' doesn't match the selected view.
+Expected: an instance of android.widget.TextView and view.getText() equals string from resource id: <2131689523> [lemon_squeeze] value: Cliquez pour presser le lemon!
+Got: view.getText() was "Cliquez pour sélectionner un lemon!"
+View Details: MaterialTextView{id=2131231150, res-name=text_action, visibility=VISIBLE, width=637, height=54, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@6dc594e, tag=null, root-is-layout-requested=false, has-input-connection=false, x=222.0, y=494.0, text=Cliquez pour sélectionner un lemon!, input-type=0, ime-target=false, has-links=false}
+
+at androidx.test.espresso.matcher.ViewMatchers.assertThat(ViewMatchers.java:16)
+at androidx.test.espresso.assertion.ViewAssertions$MatchesViewAssertion.check(ViewAssertions.java:11)
+at androidx.test.espresso.ViewInteraction$SingleExecutionViewAssertion.check(ViewInteraction.java:2)
+at androidx.test.espresso.ViewInteraction$2.call(ViewInteraction.java:12)
+at androidx.test.espresso.ViewInteraction$2.call(ViewInteraction.java:1)
+at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+at android.os.Handler.handleCallback(Handler.java:958)
+at android.os.Handler.dispatchMessage(Handler.java:99)
+at android.os.Looper.loopOnce(Looper.java:205)
+at android.os.Looper.loop(Looper.java:294)
+at android.app.ActivityThread.main(ActivityThread.java:8177)
+at java.lang.reflect.Method.invoke(Native Method)
+at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:552)
+at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:971)
+
+INSTRUMENTATION_STATUS: stream=
+Error in test_picking_lemon_proceeds_to_squeeze_state(com.example.lemonade.LemonadeTests):
+androidx.test.espresso.base.DefaultFailureHandler$AssertionFailedWithCauseError: 'an instance of android.widget.TextView and view.getText() equals string from resource id: <2131689523>' doesn't match the selected view.
+Expected: an instance of android.widget.TextView and view.getText() equals string from resource id: <2131689523> [lemon_squeeze] value: Cliquez pour presser le lemon!
+Got: view.getText() was "Cliquez pour sélectionner un lemon!"
+View Details: MaterialTextView{id=2131231150, res-name=text_action, visibility=VISIBLE, width=637, height=54, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@6dc594e, tag=null, root-is-layout-requested=false, has-input-connection=false, x=222.0, y=494.0, text=Cliquez pour sélectionner un lemon!, input-type=0, ime-target=false, has-links=false}
+
+at dalvik.system.VMStack.getThreadStackTrace(Native Method)
+at java.lang.Thread.getStackTrace(Thread.java:1841)
+at androidx.test.espresso.base.DefaultFailureHandler.getUserFriendlyError(DefaultFailureHandler.java:12)
+at androidx.test.espresso.base.DefaultFailureHandler.handle(DefaultFailureHandler.java:7)
+at androidx.test.espresso.ViewInteraction.waitForAndHandleInteractionResults(ViewInteraction.java:5)
+at androidx.test.espresso.ViewInteraction.check(ViewInteraction.java:12)
+at com.example.lemonade.BaseTest.testState(BaseTest.kt:55)
+at com.example.lemonade.LemonadeTests.test_picking_lemon_proceeds_to_squeeze_state(LemonadeTests.kt:58)
+... 28 trimmed
+Caused by: junit.framework.AssertionFailedError: 'an instance of android.widget.TextView and view.getText() equals string from resource id: <2131689523>' doesn't match the selected view.
+Expected: an instance of android.widget.TextView and view.getText() equals string from resource id: <2131689523> [lemon_squeeze] value: Cliquez pour presser le lemon!
+Got: view.getText() was "Cliquez pour sélectionner un lemon!"
+View Details: MaterialTextView{id=2131231150, res-name=text_action, visibility=VISIBLE, width=637, height=54, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@6dc594e, tag=null, root-is-layout-requested=false, has-input-connection=false, x=222.0, y=494.0, text=Cliquez pour sélectionner un lemon!, input-type=0, ime-target=false, has-links=false}
+
+at androidx.test.espresso.matcher.ViewMatchers.assertThat(ViewMatchers.java:16)
+at androidx.test.espresso.assertion.ViewAssertions$MatchesViewAssertion.check(ViewAssertions.java:11)
+at androidx.test.espresso.ViewInteraction$SingleExecutionViewAssertion.check(ViewInteraction.java:2)
+at androidx.test.espresso.ViewInteraction$2.call(ViewInteraction.java:12)
+at androidx.test.espresso.ViewInteraction$2.call(ViewInteraction.java:1)
+at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+at android.os.Handler.handleCallback(Handler.java:958)
+at android.os.Handler.dispatchMessage(Handler.java:99)
+at android.os.Looper.loopOnce(Looper.java:205)
+at android.os.Looper.loop(Looper.java:294)
+at android.app.ActivityThread.main(ActivityThread.java:8177)
+at java.lang.reflect.Method.invoke(Native Method)
+at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:552)
+at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:971)
+
+INSTRUMENTATION_STATUS: test=test_picking_lemon_proceeds_to_squeeze_state
+INSTRUMENTATION_STATUS_CODE: -2
+INSTRUMENTATION_STATUS: class=com.example.lemonade.LemonadeTests
+INSTRUMENTATION_STATUS: current=4
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=6
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=test_drinking_juice_proceeds_to_restart_state
+INSTRUMENTATION_STATUS_CODE: 1
+INSTRUMENTATION_STATUS: class=com.example.lemonade.LemonadeTests
+INSTRUMENTATION_STATUS: current=4
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=6
+INSTRUMENTATION_STATUS: stack=androidx.test.espresso.base.DefaultFailureHandler$AssertionFailedWithCauseError: 'an instance of android.widget.TextView and view.getText() equals string from resource id: <2131689521>' doesn't match the selected view.
+Expected: an instance of android.widget.TextView and view.getText() equals string from resource id: <2131689521> [lemon_empty_glass] value: Cliquez pour recommencer!
+Got: view.getText() was "Cliquez pour sélectionner un lemon!"
+View Details: MaterialTextView{id=2131231150, res-name=text_action, visibility=VISIBLE, width=637, height=54, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@f7d2b72, tag=null, root-is-layout-requested=false, has-input-connection=false, x=222.0, y=494.0, text=Cliquez pour sélectionner un lemon!, input-type=0, ime-target=false, has-links=false}
+
+at dalvik.system.VMStack.getThreadStackTrace(Native Method)
+at java.lang.Thread.getStackTrace(Thread.java:1841)
+at androidx.test.espresso.base.DefaultFailureHandler.getUserFriendlyError(DefaultFailureHandler.java:12)
+at androidx.test.espresso.base.DefaultFailureHandler.handle(DefaultFailureHandler.java:7)
+at androidx.test.espresso.ViewInteraction.waitForAndHandleInteractionResults(ViewInteraction.java:5)
+at androidx.test.espresso.ViewInteraction.check(ViewInteraction.java:12)
+at com.example.lemonade.BaseTest.testState(BaseTest.kt:55)
+at com.example.lemonade.LemonadeTests.test_drinking_juice_proceeds_to_restart_state(LemonadeTests.kt:97)
+... 28 trimmed
+Caused by: junit.framework.AssertionFailedError: 'an instance of android.widget.TextView and view.getText() equals string from resource id: <2131689521>' doesn't match the selected view.
+Expected: an instance of android.widget.TextView and view.getText() equals string from resource id: <2131689521> [lemon_empty_glass] value: Cliquez pour recommencer!
+Got: view.getText() was "Cliquez pour sélectionner un lemon!"
+View Details: MaterialTextView{id=2131231150, res-name=text_action, visibility=VISIBLE, width=637, height=54, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@f7d2b72, tag=null, root-is-layout-requested=false, has-input-connection=false, x=222.0, y=494.0, text=Cliquez pour sélectionner un lemon!, input-type=0, ime-target=false, has-links=false}
+
+at androidx.test.espresso.matcher.ViewMatchers.assertThat(ViewMatchers.java:16)
+at androidx.test.espresso.assertion.ViewAssertions$MatchesViewAssertion.check(ViewAssertions.java:11)
+at androidx.test.espresso.ViewInteraction$SingleExecutionViewAssertion.check(ViewInteraction.java:2)
+at androidx.test.espresso.ViewInteraction$2.call(ViewInteraction.java:12)
+at androidx.test.espresso.ViewInteraction$2.call(ViewInteraction.java:1)
+at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+at android.os.Handler.handleCallback(Handler.java:958)
+at android.os.Handler.dispatchMessage(Handler.java:99)
+at android.os.Looper.loopOnce(Looper.java:205)
+at android.os.Looper.loop(Looper.java:294)
+at android.app.ActivityThread.main(ActivityThread.java:8177)
+at java.lang.reflect.Method.invoke(Native Method)
+at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:552)
+at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:971)
+
+INSTRUMENTATION_STATUS: stream=
+Error in test_drinking_juice_proceeds_to_restart_state(com.example.lemonade.LemonadeTests):
+androidx.test.espresso.base.DefaultFailureHandler$AssertionFailedWithCauseError: 'an instance of android.widget.TextView and view.getText() equals string from resource id: <2131689521>' doesn't match the selected view.
+Expected: an instance of android.widget.TextView and view.getText() equals string from resource id: <2131689521> [lemon_empty_glass] value: Cliquez pour recommencer!
+Got: view.getText() was "Cliquez pour sélectionner un lemon!"
+View Details: MaterialTextView{id=2131231150, res-name=text_action, visibility=VISIBLE, width=637, height=54, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@f7d2b72, tag=null, root-is-layout-requested=false, has-input-connection=false, x=222.0, y=494.0, text=Cliquez pour sélectionner un lemon!, input-type=0, ime-target=false, has-links=false}
+
+at dalvik.system.VMStack.getThreadStackTrace(Native Method)
+at java.lang.Thread.getStackTrace(Thread.java:1841)
+at androidx.test.espresso.base.DefaultFailureHandler.getUserFriendlyError(DefaultFailureHandler.java:12)
+at androidx.test.espresso.base.DefaultFailureHandler.handle(DefaultFailureHandler.java:7)
+at androidx.test.espresso.ViewInteraction.waitForAndHandleInteractionResults(ViewInteraction.java:5)
+at androidx.test.espresso.ViewInteraction.check(ViewInteraction.java:12)
+at com.example.lemonade.BaseTest.testState(BaseTest.kt:55)
+at com.example.lemonade.LemonadeTests.test_drinking_juice_proceeds_to_restart_state(LemonadeTests.kt:97)
+... 28 trimmed
+Caused by: junit.framework.AssertionFailedError: 'an instance of android.widget.TextView and view.getText() equals string from resource id: <2131689521>' doesn't match the selected view.
+Expected: an instance of android.widget.TextView and view.getText() equals string from resource id: <2131689521> [lemon_empty_glass] value: Cliquez pour recommencer!
+Got: view.getText() was "Cliquez pour sélectionner un lemon!"
+View Details: MaterialTextView{id=2131231150, res-name=text_action, visibility=VISIBLE, width=637, height=54, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@f7d2b72, tag=null, root-is-layout-requested=false, has-input-connection=false, x=222.0, y=494.0, text=Cliquez pour sélectionner un lemon!, input-type=0, ime-target=false, has-links=false}
+
+at androidx.test.espresso.matcher.ViewMatchers.assertThat(ViewMatchers.java:16)
+at androidx.test.espresso.assertion.ViewAssertions$MatchesViewAssertion.check(ViewAssertions.java:11)
+at androidx.test.espresso.ViewInteraction$SingleExecutionViewAssertion.check(ViewInteraction.java:2)
+at androidx.test.espresso.ViewInteraction$2.call(ViewInteraction.java:12)
+at androidx.test.espresso.ViewInteraction$2.call(ViewInteraction.java:1)
+at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+at android.os.Handler.handleCallback(Handler.java:958)
+at android.os.Handler.dispatchMessage(Handler.java:99)
+at android.os.Looper.loopOnce(Looper.java:205)
+at android.os.Looper.loop(Looper.java:294)
+at android.app.ActivityThread.main(ActivityThread.java:8177)
+at java.lang.reflect.Method.invoke(Native Method)
+at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:552)
+at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:971)
+
+INSTRUMENTATION_STATUS: test=test_drinking_juice_proceeds_to_restart_state
+INSTRUMENTATION_STATUS_CODE: -2
+INSTRUMENTATION_STATUS: class=com.example.lemonade.LemonadeTests
+INSTRUMENTATION_STATUS: current=5
+INSTRUMENTATION_STATUS: id=AndroidJUnitRunner
+INSTRUMENTATION_STATUS: numtests=6
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: test=test_restarting_proceeds_to_pick_lemon_state
+INSTRUMENTATION_STATUS_CODE: 1

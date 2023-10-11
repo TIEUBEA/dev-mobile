@@ -1,0 +1,536 @@
+10-11 11:41:56.028 14169 14204 I TestRunner: started: test_squeezing_lemon_proceeds_to_drink_state(com.example.lemonade.LemonadeTests)
+10-11 11:41:56.035 14169 14204 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+10-11 11:41:56.048 14169 14204 D CompatibilityChangeReporter: Compat change id reported: 160794467; UID 10354; state: ENABLED
+10-11 11:41:56.054  2215  2233 I native  : I0000 00:00:1697020916.054025    2233 tf_lite_classifier.cc:400] Event stream classified as kNone
+10-11 11:41:56.063  1581  1716 W SearchableInfo: Invalid searchable metadata for com.instagram.android/com.instagram.direct.appwidget.DirectRecipientSearchActivity: Search label must be a resource reference.
+10-11 11:41:56.065  4953  4953 I KeyboardModeManager: KeyboardModeManager.updateKeyboardPinStateIfNecessary():1005 Unpin jbn@4c41a61 from hinge
+10-11 11:41:56.074  4953  4953 I AndroidIME: KeyboardViewManager.updateKeyboardBodyViewHolderPaddingBottom():631 Set finalPaddingBottom = 0 while keyboardBottomGapFromScreen = 0; navigationHeight = 126
+10-11 11:41:56.082   910   910 D Zygote  : Forked child process 14206
+10-11 11:41:56.083   595   595 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+10-11 11:41:56.088  1023  1023 D Vibrator: perform
+10-11 11:41:56.089  1023  1023 D Vibrator: on
+10-11 11:41:56.092  1023 14207 D Vibrator: waitForComplete
+10-11 11:41:56.098 14206 14206 I e.lemonade.test: Late-enabling -Xcheck:jni
+10-11 11:41:56.110  1023 14207 D Vibrator: waitForComplete: Get STOP! Set active to 0.
+10-11 11:41:56.111  1023  1023 D Vibrator: off
+10-11 11:41:56.112   596   640 W gralloc4: Unable to set buffer name VRI[test]#3838(BLAST Consumer)3838: File name too long
+10-11 11:41:56.115   596   640 W gralloc4: Unable to set buffer name VRI[test]#3838(BLAST Consumer)3838: File name too long
+10-11 11:41:56.117   596   640 W gralloc4: Unable to set buffer name VRI[test]#3838(BLAST Consumer)3838: File name too long
+10-11 11:41:56.120   596   640 W gralloc4: Unable to set buffer name VRI[test]#3838(BLAST Consumer)3838: File name too long
+10-11 11:41:56.120 14206 14206 I e.lemonade.test: Using CollectorTypeCC GC.
+10-11 11:41:56.121   596   640 W gralloc4: Unable to set buffer name VRI[test]#3838(BLAST Consumer)3838: File name too long
+10-11 11:41:56.124  1260  1300 I adbd    : jdwp connection from 14206
+10-11 11:41:56.137   953   962 D ContextHubHal: Got message from nanoapp: ID 0x476f6f676c001019
+10-11 11:41:56.143   953   962 D ContextHubHal: Got message from nanoapp: ID 0x476f6f676c001019
+10-11 11:41:56.150 14206 14206 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10355; state: ENABLED
+10-11 11:41:56.150 14206 14206 D CompatibilityChangeReporter: Compat change id reported: 242716250; UID 10355; state: DISABLED
+10-11 11:41:56.160  2215  2233 I native  : I0000 00:00:1697020916.160253    2233 tf_lite_classifier.cc:400] Event stream classified as kNone
+10-11 11:41:56.166 14206 14206 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+10-11 11:41:56.167 14206 14206 D nativeloader: Configuring clns-4 for other apk /system/framework/android.test.mock.jar. target_sdk_version=33, uses_libraries=ALL, library_path=/data/app/~~ARB83jvaoQ3zrOzX95wvBw==/com.example.lemonade.test-U0nM4Pm5ll06XVyxTtQfHg==/lib/arm64, permitted_path=/data:/mnt/expand:/data/user/0/com.example.lemonade.test
+10-11 11:41:56.167 14206 14206 D nativeloader: Extending system_exposed_libraries: libedgetpu_dba.google.so
+10-11 11:41:56.168  4953  4953 I KeyboardModeManager: KeyboardModeManager.updateKeyboardPinStateIfNecessary():1005 Unpin jbn@4c41a61 from hinge
+10-11 11:41:56.168 14206 14206 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+10-11 11:41:56.169 14206 14206 D nativeloader: Configuring clns-5 for other apk /system/framework/android.test.runner.jar. target_sdk_version=33, uses_libraries=ALL, library_path=/data/app/~~ARB83jvaoQ3zrOzX95wvBw==/com.example.lemonade.test-U0nM4Pm5ll06XVyxTtQfHg==/lib/arm64, permitted_path=/data:/mnt/expand:/data/user/0/com.example.lemonade.test
+10-11 11:41:56.169 14206 14206 D nativeloader: Extending system_exposed_libraries: libedgetpu_dba.google.so
+10-11 11:41:56.170 14206 14206 W ziparchive: Unable to open '/data/app/~~ARB83jvaoQ3zrOzX95wvBw==/com.example.lemonade.test-U0nM4Pm5ll06XVyxTtQfHg==/base.dm': No such file or directory
+10-11 11:41:56.170 14206 14206 W ziparchive: Unable to open '/data/app/~~ARB83jvaoQ3zrOzX95wvBw==/com.example.lemonade.test-U0nM4Pm5ll06XVyxTtQfHg==/base.dm': No such file or directory
+10-11 11:41:56.174  4953  4953 I AndroidIME: KeyboardViewManager.updateKeyboardBodyViewHolderPaddingBottom():631 Set finalPaddingBottom = 0 while keyboardBottomGapFromScreen = 0; navigationHeight = 126
+10-11 11:41:56.181 14206 14206 D nativeloader: Configuring clns-6 for other apk /data/app/~~ARB83jvaoQ3zrOzX95wvBw==/com.example.lemonade.test-U0nM4Pm5ll06XVyxTtQfHg==/base.apk. target_sdk_version=33, uses_libraries=, library_path=/data/app/~~ARB83jvaoQ3zrOzX95wvBw==/com.example.lemonade.test-U0nM4Pm5ll06XVyxTtQfHg==/lib/arm64, permitted_path=/data:/mnt/expand:/data/user/0/com.example.lemonade.test
+10-11 11:41:56.194 14206 14206 V GraphicsEnvironment: Currently set values for:
+10-11 11:41:56.194 14206 14206 V GraphicsEnvironment:   angle_gl_driver_selection_pkgs=[]
+10-11 11:41:56.194 14206 14206 V GraphicsEnvironment:   angle_gl_driver_selection_values=[]
+10-11 11:41:56.195 14206 14206 V GraphicsEnvironment: ANGLE GameManagerService for com.example.lemonade.test: false
+10-11 11:41:56.195 14206 14206 V GraphicsEnvironment: com.example.lemonade.test is not listed in per-application setting
+10-11 11:41:56.195 14206 14206 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+10-11 11:41:56.205  3665  3665 I AiAiEcho: (REDACTED) AppFetcherImpl onPackageChanged %s.
+10-11 11:41:56.205  3665 13611 I AiAiEcho: (REDACTED) AppIndexer Package:[%s] UserProfile:[%d] Enabled:[%s].
+10-11 11:41:56.205  3665 13611 I AiAiEcho: (REDACTED) AppFetcherImplV2 updateApps package:[%s], userId:[%d], reason:[%s].
+10-11 11:41:56.207 14206 14238 I DMABUFHEAPS: Using DMA-BUF heap named: vframe-secure
+10-11 11:41:56.236  1184  1215 I RFSD    : [RfsService::Nv] ProcessMessage : RFS_IO_REQUEST
+10-11 11:41:56.254  1023  1023 D Vibrator: perform
+10-11 11:41:56.255  1023  1023 D Vibrator: on
+10-11 11:41:56.255  1023 14259 D Vibrator: waitForComplete
+10-11 11:41:56.270  2215  2233 I native  : I0000 00:00:1697020916.270042    2233 tf_lite_classifier.cc:400] Event stream classified as kNone
+10-11 11:41:56.276  1023 14259 D Vibrator: waitForComplete: Get STOP! Set active to 0.
+10-11 11:41:56.276  1023  1023 D Vibrator: off
+10-11 11:41:56.281  4953  4953 I KeyboardModeManager: KeyboardModeManager.updateKeyboardPinStateIfNecessary():1005 Unpin jbn@4c41a61 from hinge
+10-11 11:41:56.283  4953  4953 I AndroidIME: KeyboardViewManager.updateKeyboardBodyViewHolderPaddingBottom():631 Set finalPaddingBottom = 0 while keyboardBottomGapFromScreen = 0; navigationHeight = 126
+10-11 11:41:56.307  1581  1868 D InputDispatcher: No new touched window at (620.2, 2059.5) in display 0
+10-11 11:41:56.314  3665  5394 I AiAiEcho: SmartspaceNotificationPredictor no parser can handle this notification or notification is invalid
+10-11 11:41:56.318 14206 14206 D CompatibilityChangeReporter: Compat change id reported: 210923482; UID 10355; state: ENABLED
+10-11 11:41:56.378 14169 14260 I DMABUFHEAPS: Using DMA-BUF heap named: vframe-secure
+10-11 11:41:56.382  2215  2233 I native  : I0000 00:00:1697020916.382542    2233 tf_lite_classifier.cc:400] Event stream classified as kNone
+10-11 11:41:56.406  1581  1634 I system_server: Background concurrent copying GC freed 3297348(122MB) AllocSpace objects, 63(2212KB) LOS objects, 48% free, 103MB/199MB, paused 1.501ms,215us total 1.917s
+10-11 11:41:56.415  1581  1868 D InputDispatcher: No new touched window at (428.2, 1689.8) in display 0
+10-11 11:41:56.416 10422 14012 I Icing   : Indexing com.google.android.gms-apps from com.google.android.gms
+10-11 11:41:56.418 10422 14012 I Icing   : Indexing done com.google.android.gms-apps
+10-11 11:41:56.422 14169 14169 D LifecycleMonitor: Lifecycle status change: com.example.lemonade.MainActivity@94bb9aa in: PRE_ON_CREATE
+10-11 11:41:56.423 14169 14169 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+10-11 11:41:56.430  1581  1635 W JavaBinder: BinderProxy is being destroyed but the application did not call unlinkToDeath to unlink all of its death recipients beforehand.  Releasing leaked death recipient: com.android.server.input.InputManagerService$$ExternalSyntheticLambda7
+10-11 11:41:56.430  1581  1635 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+10-11 11:41:56.449  3849  4294 I bhkx    : (REDACTED) remove existing package for update: %s
+10-11 11:41:56.455  3849  4292 I bhkx    : (REDACTED) remove existing package for update: %s
+10-11 11:41:56.458  2215  2233 I native  : I0000 00:00:1697020916.458164    2233 tf_lite_classifier.cc:400] Event stream classified as kNone
+10-11 11:41:56.458  3849 14250 I flme    : (REDACTED) soft deleting data for %s
+10-11 11:41:56.461 14169 14169 W xample.lemonade: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (unsupported, reflection, allowed)
+10-11 11:41:56.461 14169 14169 W xample.lemonade: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)
+10-11 11:41:56.463 14169 14169 D CompatibilityChangeReporter: Compat change id reported: 210923482; UID 10354; state: ENABLED
+10-11 11:41:56.463  1184  1215 I RFSD    : CNvFile::OnWriteDone
+10-11 11:41:56.464  1184  1215 W RFSD    : [CsumCheckForFileAndForceCrash] /mnt/vendor/efs/nv_normal.bin checksum : verified
+10-11 11:41:56.464  1184  1215 I RFSD    : [RfsService::Nv] CsumUpdate
+10-11 11:41:56.464  1184  1215 I RFSD    : [RfsService::Nv] CsumCalc
+10-11 11:41:56.470  1581  1636 W System  : A resource failed to call close.
+10-11 11:41:56.472  1581  1636 W System  : A resource failed to call close.
+10-11 11:41:56.476  1753  1754 I pixel-thermal: usb_pwr_therm2:43.953 raw data: usb_pwr_therm2:43953
+10-11 11:41:56.478  1753  1754 I pixel-thermal: VIRTUAL-USB-THROTTLING:1 raw data: USB2-MINUS-QI:-2225 USB2-MINUS-USB:-1103 VIRTUAL-USB-THROTTLING:1 qi_therm:46178 usb_pwr_therm:45056 usb_pwr_therm2:43953
+10-11 11:41:56.478  1753  1754 I pixel-thermal: VIRTUAL-USB-UI:1 raw data: USB2-MINUS-QI:-2225 USB2-MINUS-USB:-1103 VIRTUAL-USB-UI:1 usb_pwr_therm2:43953
+10-11 11:41:56.482  1581  1636 W System  : A resource failed to call HardwareBuffer.close.
+10-11 11:41:56.486  1184  1215 I RFSD    : [RfsService::Nv] ProcessMessage : RFS_OP_STATUS
+10-11 11:41:56.486  1184  1215 I RFSD    : [RfsService::Nv] ProcessMessage : RFS_STATUS_SUCCESS
+10-11 11:41:56.488  1581  1636 W System  : A resource failed to call HardwareBuffer.close.
+10-11 11:41:56.491  3849  4294 I bhkx    : (REDACTED) remove existing package for update: %s
+10-11 11:41:56.495  3849 14250 I flme    : (REDACTED) Writing data of size=%d bytes with N=%d keys to Geller corpus %s at ts=%d
+10-11 11:41:56.496  3849 14251 I flme    : (REDACTED) Writing metadata key: %s, corpus: %s
+10-11 11:41:56.498 14169 14169 D LifecycleMonitor: Lifecycle status change: com.example.lemonade.MainActivity@94bb9aa in: CREATED
+10-11 11:41:56.498 14169 14169 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.lemonade.MainActivity@94bb9aa
+10-11 11:41:56.500 14169 14169 D LifecycleMonitor: Lifecycle status change: com.example.lemonade.MainActivity@94bb9aa in: STARTED
+10-11 11:41:56.500 14169 14169 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.lemonade.MainActivity@94bb9aa
+10-11 11:41:56.501  3849 14251 I flme    : (REDACTED) Writing metadata key: %s, corpus: %s
+10-11 11:41:56.502 14169 14169 D LifecycleMonitor: Lifecycle status change: com.example.lemonade.MainActivity@94bb9aa in: RESUMED
+10-11 11:41:56.502 14169 14169 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.lemonade.MainActivity@94bb9aa
+10-11 11:41:56.507 14169 14169 D CompatibilityChangeReporter: Compat change id reported: 237531167; UID 10354; state: DISABLED
+10-11 11:41:56.510 14169 14204 D EventInjectionStrategy: Creating injection strategy with input manager.
+10-11 11:41:56.510 14169 14204 W xample.lemonade: Accessing hidden method Landroid/hardware/input/InputManager;->getInstance()Landroid/hardware/input/InputManager; (unsupported, reflection, allowed)
+10-11 11:41:56.510 14169 14204 W xample.lemonade: Accessing hidden method Landroid/hardware/input/InputManager;->injectInputEvent(Landroid/view/InputEvent;I)Z (unsupported, reflection, allowed)
+10-11 11:41:56.510 14169 14204 W xample.lemonade: Accessing hidden field Landroid/hardware/input/InputManager;->INJECT_INPUT_EVENT_MODE_WAIT_FOR_FINISH:I (unsupported, reflection, allowed)
+10-11 11:41:56.512  3849  4292 I bhkx    : (REDACTED) remove existing package for update: %s
+10-11 11:41:56.513  3849  4292 I bhkx    : (REDACTED) remove existing package for update: %s
+10-11 11:41:56.513  3849  4294 I bhkx    : refreshDeviceAppInfoForAccount done.
+10-11 11:41:56.520  3849  4294 I bhkx    : (REDACTED) remove existing package for update: %s
+10-11 11:41:56.529  3849  4660 I flhq    : (REDACTED) Starting batch sync for corpora: %s
+10-11 11:41:56.529  3849  4292 I bhkx    : refreshDeviceAppInfoForAccount done.
+10-11 11:41:56.534   535   535 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.allocator@4.0::IAllocator/default in either framework or device VINTF manifest.
+10-11 11:41:56.536  3849  4294 E SQLiteLog: (1) no such table: geller_metadata_table in "SELECT DISTINCT metadata FROM geller_metadata_table WHERE data_type = ? AND key = ?"
+10-11 11:41:56.536   596   640 W gralloc4: Unable to set buffer name VRI[MainActivity]#0(BLAST Consumer)0: File name too long
+10-11 11:41:56.537  3849  4294 E flme    : Read metadata failed
+10-11 11:41:56.537  3849  4294 E flme    : android.database.sqlite.SQLiteException: no such table: geller_metadata_table (code 1 SQLITE_ERROR): , while compiling: SELECT DISTINCT metadata FROM geller_metadata_table WHERE data_type = ? AND key = ?
+10-11 11:41:56.537  3849  4294 E flme    : 	at android.database.sqlite.SQLiteConnection.nativePrepareStatement(Native Method)
+10-11 11:41:56.537  3849  4294 E flme    : 	at android.database.sqlite.SQLiteConnection.acquirePreparedStatement(SQLiteConnection.java:1069)
+10-11 11:41:56.537  3849  4294 E flme    : 	at android.database.sqlite.SQLiteConnection.prepare(SQLiteConnection.java:673)
+10-11 11:41:56.537  3849  4294 E flme    : 	at android.database.sqlite.SQLiteSession.prepare(SQLiteSession.java:590)
+10-11 11:41:56.537  3849  4294 E flme    : 	at android.database.sqlite.SQLiteProgram.<init>(SQLiteProgram.java:62)
+10-11 11:41:56.537  3849  4294 E flme    : 	at android.database.sqlite.SQLiteQuery.<init>(SQLiteQuery.java:37)
+10-11 11:41:56.537  3849  4294 E flme    : 	at android.database.sqlite.SQLiteDirectCursorDriver.query(SQLiteDirectCursorDriver.java:46)
+10-11 11:41:56.537  3849  4294 E flme    : 	at android.database.sqlite.SQLiteDatabase.rawQueryWithFactory(SQLiteDatabase.java:1714)
+10-11 11:41:56.537  3849  4294 E flme    : 	at android.database.sqlite.SQLiteDatabase.queryWithFactory(SQLiteDatabase.java:1561)
+10-11 11:41:56.537  3849  4294 E flme    : 	at android.database.sqlite.SQLiteDatabase.query(SQLiteDatabase.java:1432)
+10-11 11:41:56.537  3849  4294 E flme    : 	at flmf.d(PG:4)
+10-11 11:41:56.537  3849  4294 E flme    : 	at flme.readMetadata(PG:2)
+10-11 11:41:56.537  3849  4294 E flme    : 	at com.google.android.libraries.geller.portable.Geller.nativeReadMetadata(Native Method)
+10-11 11:41:56.537  3849  4294 E flme    : 	at com.google.android.libraries.geller.portable.Geller.c(PG:4)
+10-11 11:41:56.537  3849  4294 E flme    : 	at gznx.apply(PG:1)
+10-11 11:41:56.537  3849  4294 E flme    : 	at gzof.a(PG:5)
+10-11 11:41:56.537  3849  4294 E flme    : 	at hqsm.a(PG:3)
+10-11 11:41:56.537  3849  4294 E flme    : 	at iicu.a(PG:1)
+10-11 11:41:56.537  3849  4294 E flme    : 	at iieq.run(PG:4)
+10-11 11:41:56.537  3849  4294 E flme    : 	at fhus.run(PG:1)
+10-11 11:41:56.537  3849  4294 E flme    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-11 11:41:56.537  3849  4294 E flme    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-11 11:41:56.537  3849  4294 E flme    : 	at fhtw.run(PG:2)
+10-11 11:41:56.537  3849  4294 E flme    : 	at java.lang.Thread.run(Thread.java:1012)
+10-11 11:41:56.537  3849  4294 E flme    : 	at fhvb.run(PG:5)
+10-11 11:41:56.538  3849  4294 E flme    : An error occurred. Dropping existing data and recreating all tables.
+10-11 11:41:56.538  3849  4294 E flme    : android.database.sqlite.SQLiteException: no such table: geller_metadata_table (code 1 SQLITE_ERROR): , while compiling: SELECT DISTINCT metadata FROM geller_metadata_table WHERE data_type = ? AND key = ?
+10-11 11:41:56.538  3849  4294 E flme    : 	at android.database.sqlite.SQLiteConnection.nativePrepareStatement(Native Method)
+10-11 11:41:56.538  3849  4294 E flme    : 	at android.database.sqlite.SQLiteConnection.acquirePreparedStatement(SQLiteConnection.java:1069)
+10-11 11:41:56.538  3849  4294 E flme    : 	at android.database.sqlite.SQLiteConnection.prepare(SQLiteConnection.java:673)
+10-11 11:41:56.538  3849  4294 E flme    : 	at android.database.sqlite.SQLiteSession.prepare(SQLiteSession.java:590)
+10-11 11:41:56.538  3849  4294 E flme    : 	at android.database.sqlite.SQLiteProgram.<init>(SQLiteProgram.java:62)
+10-11 11:41:56.538  3849  4294 E flme    : 	at android.database.sqlite.SQLiteQuery.<init>(SQLiteQuery.java:37)
+10-11 11:41:56.538  3849  4294 E flme    : 	at android.database.sqlite.SQLiteDirectCursorDriver.query(SQLiteDirectCursorDriver.java:46)
+10-11 11:41:56.538  3849  4294 E flme    : 	at android.database.sqlite.SQLiteDatabase.rawQueryWithFactory(SQLiteDatabase.java:1714)
+10-11 11:41:56.538  3849  4294 E flme    : 	at android.database.sqlite.SQLiteDatabase.queryWithFactory(SQLiteDatabase.java:1561)
+10-11 11:41:56.538  3849  4294 E flme    : 	at android.database.sqlite.SQLiteDatabase.query(SQLiteDatabase.java:1432)
+10-11 11:41:56.538  3849  4294 E flme    : 	at flmf.d(PG:4)
+10-11 11:41:56.538  3849  4294 E flme    : 	at flme.readMetadata(PG:2)
+10-11 11:41:56.538  3849  4294 E flme    : 	at com.google.android.libraries.geller.portable.Geller.nativeReadMetadata(Native Method)
+10-11 11:41:56.538  3849  4294 E flme    : 	at com.google.android.libraries.geller.portable.Geller.c(PG:4)
+10-11 11:41:56.538  3849  4294 E flme    : 	at gznx.apply(PG:1)
+10-11 11:41:56.538  3849  4294 E flme    : 	at gzof.a(PG:5)
+10-11 11:41:56.538  3849  4294 E flme    : 	at hqsm.a(PG:3)
+10-11 11:41:56.538  3849  4294 E flme    : 	at iicu.a(PG:1)
+10-11 11:41:56.538  3849  4294 E flme    : 	at iieq.run(PG:4)
+10-11 11:41:56.538  3849  4294 E flme    : 	at fhus.run(PG:1)
+10-11 11:41:56.538  3849  4294 E flme    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-11 11:41:56.538  3849  4294 E flme    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-11 11:41:56.538  3849  4294 E flme    : 	at fhtw.run(PG:2)
+10-11 11:41:56.538  3849  4294 E flme    : 	at java.lang.Thread.run(Thread.java:1012)
+10-11 11:41:56.538  3849  4294 E flme    : 	at fhvb.run(PG:5)
+10-11 11:41:56.538   596   640 W gralloc4: Unable to set buffer name VRI[MainActivity]#0(BLAST Consumer)0: File name too long
+10-11 11:41:56.538  3849  4294 W flme    : (REDACTED) Dropped table %s
+10-11 11:41:56.539  3849  4292 I gvow    : Building Device Properties.
+10-11 11:41:56.539   596   640 W gralloc4: Unable to set buffer name VRI[MainActivity]#0(BLAST Consumer)0: File name too long
+10-11 11:41:56.540  3849  4294 E SQLiteLog: (1) index datatype_key_dataid already exists in "CREATE INDEX datatype_key_dataid ON geller_key_table (data_type, key, delete_status, data_id);"
+10-11 11:41:56.541  3849  4294 E flme    : Failed to recreate tables
+10-11 11:41:56.541  3849  4294 E flme    : android.database.sqlite.SQLiteException: index datatype_key_dataid already exists (code 1 SQLITE_ERROR): , while compiling: CREATE INDEX datatype_key_dataid ON geller_key_table (data_type, key, delete_status, data_id);
+10-11 11:41:56.541  3849  4294 E flme    : 	at android.database.sqlite.SQLiteConnection.nativePrepareStatement(Native Method)
+10-11 11:41:56.541  3849  4294 E flme    : 	at android.database.sqlite.SQLiteConnection.acquirePreparedStatement(SQLiteConnection.java:1069)
+10-11 11:41:56.541  3849  4294 E flme    : 	at android.database.sqlite.SQLiteConnection.prepare(SQLiteConnection.java:673)
+10-11 11:41:56.541  3849  4294 E flme    : 	at android.database.sqlite.SQLiteSession.prepare(SQLiteSession.java:590)
+10-11 11:41:56.541  3849  4294 E flme    : 	at android.database.sqlite.SQLiteProgram.<init>(SQLiteProgram.java:62)
+10-11 11:41:56.541  3849  4294 E flme    : 	at android.database.sqlite.SQLiteStatement.<init>(SQLiteStatement.java:34)
+10-11 11:41:56.541  3849  4294 E flme    : 	at android.database.sqlite.SQLiteDatabase.executeSql(SQLiteDatabase.java:2088)
+10-11 11:41:56.541  3849  4294 E flme    : 	at android.database.sqlite.SQLiteDatabase.execSQL(SQLiteDatabase.java:2010)
+10-11 11:41:56.541  3849  4294 E flme    : 	at flme.onCreate(PG:5)
+10-11 11:41:56.541  3849  4294 E flme    : 	at flme.g(PG:12)
+10-11 11:41:56.541  3849  4294 E flme    : 	at flme.f(PG:18)
+10-11 11:41:56.541  3849  4294 E flme    : 	at flme.readMetadata(PG:5)
+10-11 11:41:56.541  3849  4294 E flme    : 	at com.google.android.libraries.geller.portable.Geller.nativeReadMetadata(Native Method)
+10-11 11:41:56.541  3849  4294 E flme    : 	at com.google.android.libraries.geller.portable.Geller.c(PG:4)
+10-11 11:41:56.541  3849  4294 E flme    : 	at gznx.apply(PG:1)
+10-11 11:41:56.541  3849  4294 E flme    : 	at gzof.a(PG:5)
+10-11 11:41:56.541  3849  4294 E flme    : 	at hqsm.a(PG:3)
+10-11 11:41:56.541  3849  4294 E flme    : 	at iicu.a(PG:1)
+10-11 11:41:56.541  3849  4294 E flme    : 	at iieq.run(PG:4)
+10-11 11:41:56.541  3849  4294 E flme    : 	at fhus.run(PG:1)
+10-11 11:41:56.541  3849  4294 E flme    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-11 11:41:56.541  3849  4294 E flme    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-11 11:41:56.541  3849  4294 E flme    : 	at fhtw.run(PG:2)
+10-11 11:41:56.541  3849  4294 E flme    : 	at java.lang.Thread.run(Thread.java:1012)
+10-11 11:41:56.541  3849  4294 E flme    : 	at fhvb.run(PG:5)
+10-11 11:41:56.543   596   640 W gralloc4: Unable to set buffer name VRI[MainActivity]#0(BLAST Consumer)0: File name too long
+10-11 11:41:56.547   596   640 W gralloc4: Unable to set buffer name VRI[MainActivity]#0(BLAST Consumer)0: File name too long
+10-11 11:41:56.553  1581  1705 W ziparchive: Unable to open '/data/app/~~jbAzdE7dxUo4AvD7l8Qd9A==/com.example.lemonade-A57eHKrU8SAn1gl7U4sg7w==/base.dm': No such file or directory
+10-11 11:41:56.554  1581  1705 I ActivityTaskManager: Displayed com.example.lemonade/.MainActivity for user 0: +501ms
+10-11 11:41:56.558 14169 14204 W xample.lemonade: Accessing hidden method Landroid/view/ViewConfiguration;->getDoubleTapMinTime()I (unsupported, reflection, allowed)
+10-11 11:41:56.563 14169 14169 W xample.lemonade: Accessing hidden method Landroid/os/MessageQueue;->next()Landroid/os/Message; (unsupported, reflection, allowed)
+10-11 11:41:56.563 14169 14169 W xample.lemonade: Accessing hidden field Landroid/os/MessageQueue;->mMessages:Landroid/os/Message; (unsupported, reflection, allowed)
+10-11 11:41:56.564 14169 14169 W xample.lemonade: Accessing hidden method Landroid/os/Message;->recycleUnchecked()V (unsupported, reflection, allowed)
+10-11 11:41:56.565 14169 14169 W xample.lemonade: Accessing hidden method Landroid/view/WindowManagerGlobal;->getInstance()Landroid/view/WindowManagerGlobal; (unsupported, reflection, allowed)
+10-11 11:41:56.565 14169 14169 W xample.lemonade: Accessing hidden field Landroid/view/WindowManagerGlobal;->mViews:Ljava/util/ArrayList; (unsupported, reflection, allowed)
+10-11 11:41:56.565 14169 14169 W xample.lemonade: Accessing hidden field Landroid/view/WindowManagerGlobal;->mParams:Ljava/util/ArrayList; (unsupported, reflection, allowed)
+10-11 11:41:56.565 14169 14169 D RootViewPicker: Root not ready - waiting: 10ms for one to appear.
+10-11 11:41:56.569  3849  4292 I bhkx    : refreshDeviceAppInfoForAccount done.
+10-11 11:41:56.569  3849  4292 I bhkx    : refreshDeviceAppInfoForAccount done.
+10-11 11:41:56.570  3849  4294 I bhkx    : refreshDeviceAppInfoForAccount done.
+10-11 11:41:56.571  1245  1451 I CHRE    : @ 122290.761: [AR] inconsistent: 41.176471
+10-11 11:41:56.572  1245  1451 D CHRE    : @ 122290.763: [ActivityPlatform] type 6, confidence 41
+10-11 11:41:56.575 14169 14169 D RootViewPicker: Root not ready - waiting: 25ms for one to appear.
+10-11 11:41:56.575  3849 14064 I flme    : (REDACTED) The GellerConfig is not present, defaulting isUploadEnabled for corpus %s to true.
+10-11 11:41:56.598  3849 14064 E SQLiteLog: (1) no such table: geller_metadata_table in "SELECT DISTINCT metadata FROM geller_metadata_table WHERE data_type = ? AND key = ?"
+10-11 11:41:56.598  3849  4292 I bhkx    : refreshDeviceAppInfoForAccount done.
+10-11 11:41:56.601 14169 14169 D RootViewPicker: Root not ready - waiting: 50ms for one to appear.
+10-11 11:41:56.605  3690  4451 W cyme    : (REDACTED) Slow context fetch for key %s took %s
+10-11 11:41:56.605  3690  4451 I ghaw    : (REDACTED) GetContext(%s, %s): Fetch from the %s surface finished with status: %s
+10-11 11:41:56.606  3690  4451 I gvyk    : (REDACTED) ContextResult succeeded for ContextKey: %s. %s
+10-11 11:41:56.607  3849  4664 W bhkx    : missing version info.
+10-11 11:41:56.608  3849  5293 W aquw    : Abort, client detached.
+10-11 11:41:56.609  3690  4451 I gvyy    : (REDACTED) Updating context input '%s' with dynamic class '%s' containing %s entities. %s
+10-11 11:41:56.610  3690  4451 I gvyy    : (REDACTED) Clearing context input '%s'. %s
+10-11 11:41:56.610  3690  4180 W cyme    : (REDACTED) Slow context fetch for key %s took %s
+10-11 11:41:56.610  3690  4451 I gvyq    : (REDACTED) Sending speech biasing context update to SODA with locale %s. %s
+10-11 11:41:56.610  3690  4180 I ghaw    : (REDACTED) GetContext(%s, %s): Fetch from the %s surface finished with status: %s
+10-11 11:41:56.611  3690  4180 I gvyk    : (REDACTED) ContextResult succeeded for ContextKey: %s. %s
+10-11 11:41:56.611  3690  4451 I hevq    : (REDACTED) #getSodaAsrUpdateRequest inserting app domain: %s
+10-11 11:41:56.611  3690  4180 I gvyy    : (REDACTED) Updating context input '%s' with dynamic class '%s' containing %s entities. %s
+10-11 11:41:56.611  3690  4180 I gvyy    : (REDACTED) Clearing context input '%s'. %s
+10-11 11:41:56.612  3690  4180 I gvyq    : (REDACTED) Sending speech biasing context update to SODA with locale %s. %s
+10-11 11:41:56.612  3690  4180 I hevq    : (REDACTED) #getSodaAsrUpdateRequest inserting app domain: %s
+10-11 11:41:56.616  3849  4662 W bhkx    : missing version info.
+10-11 11:41:56.647  4688  5167 W Bugle   : TextClassifierLibManagerImpl: Reclaiming memory at level: 40
+10-11 11:41:56.648  3849 14064 E flme    : Read metadata failed
+10-11 11:41:56.648  3849 14064 E flme    : android.database.sqlite.SQLiteException: no such table: geller_metadata_table (code 1 SQLITE_ERROR): , while compiling: SELECT DISTINCT metadata FROM geller_metadata_table WHERE data_type = ? AND key = ?
+10-11 11:41:56.648  3849 14064 E flme    : 	at android.database.sqlite.SQLiteConnection.nativePrepareStatement(Native Method)
+10-11 11:41:56.648  3849 14064 E flme    : 	at android.database.sqlite.SQLiteConnection.acquirePreparedStatement(SQLiteConnection.java:1069)
+10-11 11:41:56.648  3849 14064 E flme    : 	at android.database.sqlite.SQLiteConnection.prepare(SQLiteConnection.java:673)
+10-11 11:41:56.648  3849 14064 E flme    : 	at android.database.sqlite.SQLiteSession.prepare(SQLiteSession.java:590)
+10-11 11:41:56.648  3849 14064 E flme    : 	at android.database.sqlite.SQLiteProgram.<init>(SQLiteProgram.java:62)
+10-11 11:41:56.648  3849 14064 E flme    : 	at android.database.sqlite.SQLiteQuery.<init>(SQLiteQuery.java:37)
+10-11 11:41:56.648  3849 14064 E flme    : 	at android.database.sqlite.SQLiteDirectCursorDriver.query(SQLiteDirectCursorDriver.java:46)
+10-11 11:41:56.648  3849 14064 E flme    : 	at android.database.sqlite.SQLiteDatabase.rawQueryWithFactory(SQLiteDatabase.java:1714)
+10-11 11:41:56.648  3849 14064 E flme    : 	at android.database.sqlite.SQLiteDatabase.queryWithFactory(SQLiteDatabase.java:1561)
+10-11 11:41:56.648  3849 14064 E flme    : 	at android.database.sqlite.SQLiteDatabase.query(SQLiteDatabase.java:1432)
+10-11 11:41:56.648  3849 14064 E flme    : 	at flmf.d(PG:4)
+10-11 11:41:56.648  3849 14064 E flme    : 	at flme.readMetadata(PG:2)
+10-11 11:41:56.648  3849 14064 E flme    : 	at com.google.android.libraries.geller.portable.Geller.nativeReadMetadata(Native Method)
+10-11 11:41:56.648  3849 14064 E flme    : 	at com.google.android.libraries.geller.portable.Geller.c(PG:4)
+10-11 11:41:56.648  3849 14064 E flme    : 	at flhq.d(PG:30)
+10-11 11:41:56.648  3849 14064 E flme    : 	at flhn.apply(PG:7)
+10-11 11:41:56.648  3849 14064 E flme    : 	at hqsy.apply(PG:3)
+10-11 11:41:56.648  3849 14064 E flme    : 	at iiaz.e(PG:2)
+10-11 11:41:56.648  3849 14064 E flme    : 	at iiba.run(PG:9)
+10-11 11:41:56.648  3849 14064 E flme    : 	at fhus.run(PG:1)
+10-11 11:41:56.648  3849 14064 E flme    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-11 11:41:56.648  3849 14064 E flme    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-11 11:41:56.648  3849 14064 E flme    : 	at fhua.run(PG:2)
+10-11 11:41:56.648  3849 14064 E flme    : 	at java.lang.Thread.run(Thread.java:1012)
+10-11 11:41:56.648  3849 14064 E flme    : 	at fhvb.run(PG:5)
+10-11 11:41:56.649  3849 14064 E flme    : An error occurred. Dropping existing data and recreating all tables.
+10-11 11:41:56.649  3849 14064 E flme    : android.database.sqlite.SQLiteException: no such table: geller_metadata_table (code 1 SQLITE_ERROR): , while compiling: SELECT DISTINCT metadata FROM geller_metadata_table WHERE data_type = ? AND key = ?
+10-11 11:41:56.649  3849 14064 E flme    : 	at android.database.sqlite.SQLiteConnection.nativePrepareStatement(Native Method)
+10-11 11:41:56.649  3849 14064 E flme    : 	at android.database.sqlite.SQLiteConnection.acquirePreparedStatement(SQLiteConnection.java:1069)
+10-11 11:41:56.649  3849 14064 E flme    : 	at android.database.sqlite.SQLiteConnection.prepare(SQLiteConnection.java:673)
+10-11 11:41:56.649  3849 14064 E flme    : 	at android.database.sqlite.SQLiteSession.prepare(SQLiteSession.java:590)
+10-11 11:41:56.649  3849 14064 E flme    : 	at android.database.sqlite.SQLiteProgram.<init>(SQLiteProgram.java:62)
+10-11 11:41:56.649  3849 14064 E flme    : 	at android.database.sqlite.SQLiteQuery.<init>(SQLiteQuery.java:37)
+10-11 11:41:56.649  3849 14064 E flme    : 	at android.database.sqlite.SQLiteDirectCursorDriver.query(SQLiteDirectCursorDriver.java:46)
+10-11 11:41:56.649  3849 14064 E flme    : 	at android.database.sqlite.SQLiteDatabase.rawQueryWithFactory(SQLiteDatabase.java:1714)
+10-11 11:41:56.649  3849 14064 E flme    : 	at android.database.sqlite.SQLiteDatabase.queryWithFactory(SQLiteDatabase.java:1561)
+10-11 11:41:56.649  3849 14064 E flme    : 	at android.database.sqlite.SQLiteDatabase.query(SQLiteDatabase.java:1432)
+10-11 11:41:56.649  3849 14064 E flme    : 	at flmf.d(PG:4)
+10-11 11:41:56.649  3849 14064 E flme    : 	at flme.readMetadata(PG:2)
+10-11 11:41:56.649  3849 14064 E flme    : 	at com.google.android.libraries.geller.portable.Geller.nativeReadMetadata(Native Method)
+10-11 11:41:56.649  3849 14064 E flme    : 	at com.google.android.libraries.geller.portable.Geller.c(PG:4)
+10-11 11:41:56.649  3849 14064 E flme    : 	at flhq.d(PG:30)
+10-11 11:41:56.649  3849 14064 E flme    : 	at flhn.apply(PG:7)
+10-11 11:41:56.649  3849 14064 E flme    : 	at hqsy.apply(PG:3)
+10-11 11:41:56.649  3849 14064 E flme    : 	at iiaz.e(PG:2)
+10-11 11:41:56.649  3849 14064 E flme    : 	at iiba.run(PG:9)
+10-11 11:41:56.649  3849 14064 E flme    : 	at fhus.run(PG:1)
+10-11 11:41:56.649  3849 14064 E flme    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-11 11:41:56.649  3849 14064 E flme    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-11 11:41:56.649  3849 14064 E flme    : 	at fhua.run(PG:2)
+10-11 11:41:56.649  3849 14064 E flme    : 	at java.lang.Thread.run(Thread.java:1012)
+10-11 11:41:56.649  3849 14064 E flme    : 	at fhvb.run(PG:5)
+10-11 11:41:56.651  3849 14064 W flme    : (REDACTED) Dropped table %s
+10-11 11:41:56.651  3849 14064 E SQLiteLog: (1) index datatype_key_dataid already exists in "CREATE INDEX datatype_key_dataid ON geller_key_table (data_type, key, delete_status, data_id);"
+10-11 11:41:56.652 14169 14169 D RootViewPicker: Root not ready - waiting: 100ms for one to appear.
+10-11 11:41:56.652  3849 14064 E flme    : Failed to recreate tables
+10-11 11:41:56.652  3849 14064 E flme    : android.database.sqlite.SQLiteException: index datatype_key_dataid already exists (code 1 SQLITE_ERROR): , while compiling: CREATE INDEX datatype_key_dataid ON geller_key_table (data_type, key, delete_status, data_id);
+10-11 11:41:56.652  3849 14064 E flme    : 	at android.database.sqlite.SQLiteConnection.nativePrepareStatement(Native Method)
+10-11 11:41:56.652  3849 14064 E flme    : 	at android.database.sqlite.SQLiteConnection.acquirePreparedStatement(SQLiteConnection.java:1069)
+10-11 11:41:56.652  3849 14064 E flme    : 	at android.database.sqlite.SQLiteConnection.prepare(SQLiteConnection.java:673)
+10-11 11:41:56.652  3849 14064 E flme    : 	at android.database.sqlite.SQLiteSession.prepare(SQLiteSession.java:590)
+10-11 11:41:56.652  3849 14064 E flme    : 	at android.database.sqlite.SQLiteProgram.<init>(SQLiteProgram.java:62)
+10-11 11:41:56.652  3849 14064 E flme    : 	at android.database.sqlite.SQLiteStatement.<init>(SQLiteStatement.java:34)
+10-11 11:41:56.652  3849 14064 E flme    : 	at android.database.sqlite.SQLiteDatabase.executeSql(SQLiteDatabase.java:2088)
+10-11 11:41:56.652  3849 14064 E flme    : 	at android.database.sqlite.SQLiteDatabase.execSQL(SQLiteDatabase.java:2010)
+10-11 11:41:56.652  3849 14064 E flme    : 	at flme.onCreate(PG:5)
+10-11 11:41:56.652  3849 14064 E flme    : 	at flme.g(PG:12)
+10-11 11:41:56.652  3849 14064 E flme    : 	at flme.f(PG:18)
+10-11 11:41:56.652  3849 14064 E flme    : 	at flme.readMetadata(PG:5)
+10-11 11:41:56.652  3849 14064 E flme    : 	at com.google.android.libraries.geller.portable.Geller.nativeReadMetadata(Native Method)
+10-11 11:41:56.652  3849 14064 E flme    : 	at com.google.android.libraries.geller.portable.Geller.c(PG:4)
+10-11 11:41:56.652  3849 14064 E flme    : 	at flhq.d(PG:30)
+10-11 11:41:56.652  3849 14064 E flme    : 	at flhn.apply(PG:7)
+10-11 11:41:56.652  3849 14064 E flme    : 	at hqsy.apply(PG:3)
+10-11 11:41:56.652  3849 14064 E flme    : 	at iiaz.e(PG:2)
+10-11 11:41:56.652  3849 14064 E flme    : 	at iiba.run(PG:9)
+10-11 11:41:56.652  3849 14064 E flme    : 	at fhus.run(PG:1)
+10-11 11:41:56.652  3849 14064 E flme    : 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-11 11:41:56.652  3849 14064 E flme    : 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-11 11:41:56.652  3849 14064 E flme    : 	at fhua.run(PG:2)
+10-11 11:41:56.652  3849 14064 E flme    : 	at java.lang.Thread.run(Thread.java:1012)
+10-11 11:41:56.652  3849 14064 E flme    : 	at fhvb.run(PG:5)
+10-11 11:41:56.652  3849 14064 I flhq    : (REDACTED) No previous syncToken for corpus %s found.
+10-11 11:41:56.655  3849 14064 D TrafficStats: tagSocket(519) with statsTag=0x0, statsUid=-1
+10-11 11:41:56.704  3849  3868 I earchbox:search: Background concurrent copying GC freed 1157457(58MB) AllocSpace objects, 493(14MB) LOS objects, 40% free, 143MB/239MB, paused 5.097ms,933us total 1.799s
+10-11 11:41:56.748 10422 14012 I Icing   : Indexing com.google.android.gms-apps from com.google.android.gms
+10-11 11:41:56.752 10422 14012 I Icing   : Indexing done com.google.android.gms-apps
+10-11 11:41:56.753 14169 14169 D RootViewPicker: Root not ready - waiting: 200ms for one to appear.
+10-11 11:41:56.753  3800 27265 D ModemODPMPoller: Current Modem ODPM (mw): 1200, threshold: 800
+10-11 11:41:56.780  3849  4244 I LPRequestState: (REDACTED) [%s] #resolveUnusedLanguagePacks
+10-11 11:41:56.780  3849  4244 I LPRequestState: (REDACTED) [%s] #resolveDesiredLanguagePacks
+10-11 11:41:56.918  1581  1641 I ImeTracker: com.example.lemonade:fca548af: onRequestHide at ORIGIN_SERVER_HIDE_INPUT reason HIDE_UNSPECIFIED_WINDOW
+10-11 11:41:56.921  4953  4953 I GoogleInputMethodService: GoogleInputMethodService.onFinishInputView():2239
+10-11 11:41:56.921  4953  4953 I NgaExtension: NgaExtension.onDeactivate():480 NgaExtension#onDeactivate [SDG]
+10-11 11:41:56.922  4953  4953 W TooltipLifecycleManager: TooltipLifecycleManager.dismissTooltips():163 Tooltip with id spell_check_add_to_dictionary not found in tooltipManager.
+10-11 11:41:56.923  3849  4661 I cslt    : #startInteraction [SD]
+10-11 11:41:56.924  3849  4661 I cslq    : (REDACTED) Starting %s [SD]
+10-11 11:41:56.924  3849  4661 I csng    : (REDACTED) Handling KeyboardVisibilityEvent: %s [SD]
+10-11 11:41:56.925  4953 14617 W RemoteInputConnection: requestCursorUpdates() was cancelled.
+10-11 11:41:56.925  4953  4953 I KeyboardWrapper: KeyboardWrapper.consumeEvent():385 Skip consuming an event as current keyboard is deactivated (state=0, keyboard existence=true)
+10-11 11:41:56.926  4953  4953 I VoiceInputHandler: VoiceInputHandler.onDeactivateIme():110 unregistering TalkbackStateListener
+10-11 11:41:56.926  4953  4953 I VoiceInputManagerWrapper: VoiceInputManagerWrapper.shutdown():81 shutdown()
+10-11 11:41:56.927  4953  4953 I AndroidIME: AbstractIme.onDeactivate():203 LatinIme.onDeactivate()
+10-11 11:41:56.930  6863  6863 I ImeTracker: com.aero:68da6a4e: onRequestHide at ORIGIN_CLIENT_HIDE_SOFT_INPUT reason HIDE_SOFT_INPUT
+10-11 11:41:56.934  4953  4953 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3267
+10-11 11:41:56.935  4953  4953 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2097 repeatCheckTimes = 0, locked = false
+10-11 11:41:56.935  4953  4953 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1889 onStartInput(EditorInfo{EditorInfo{packageName=com.example.lemonade, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+10-11 11:41:56.935  4953  4953 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2097 repeatCheckTimes = 1, locked = false
+10-11 11:41:56.935  1581  1640 I ImeTracker: com.aero:68da6a4e: onCancelled at PHASE_SERVER_CLIENT_FOCUSED
+10-11 11:41:56.938  6863  6863 D WM-SystemJobService: onStopJob for WorkGenerationalId(workSpecId=99c3a53b-71d0-43cd-aaac-cf5ac4160f5b, generation=0)
+10-11 11:41:56.938  6863  7182 D WM-Processor: Processor stopping background work 99c3a53b-71d0-43cd-aaac-cf5ac4160f5b
+10-11 11:41:56.938  6863  7182 D WM-WorkerWrapper: Work interrupted for Work [ id=99c3a53b-71d0-43cd-aaac-cf5ac4160f5b, tags={ com.aero.messaging.xmpp.XmppLogoutWorker } ]
+10-11 11:41:56.940  6863  6863 D WM-SystemJobService: onStopJob for WorkGenerationalId(workSpecId=d38e62c2-5ede-4c7c-8df7-54591dd46021, generation=0)
+10-11 11:41:56.940  6863  7182 D WM-Processor: WorkerWrapper interrupted for 99c3a53b-71d0-43cd-aaac-cf5ac4160f5b
+10-11 11:41:56.940  6863  7182 D WM-StopWorkRunnable: StopWorkRunnable for 99c3a53b-71d0-43cd-aaac-cf5ac4160f5b; Processor.stopWork = true
+10-11 11:41:56.940  6863  7182 D WM-Processor: Processor stopping background work d38e62c2-5ede-4c7c-8df7-54591dd46021
+10-11 11:41:56.940  6863  7182 D WM-WorkerWrapper: Work interrupted for Work [ id=d38e62c2-5ede-4c7c-8df7-54591dd46021, tags={ com.aero.messaging.xmpp.XmppLifecycleWorker } ]
+10-11 11:41:56.944  6863  6863 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=falsecallback=ImeCallback=ImeOnBackInvokedCallback@212820832 Callback=android.window.IOnBackInvokedCallback$Stub$Proxy@78cf703
+10-11 11:41:56.944  6863  6863 W RemoteInputConnectionImpl: requestCursorAnchorInfo on inactive InputConnection
+10-11 11:41:56.945  4953 18084 W AndroidFuture: Remote result com.android.internal.infra.AndroidFuture@631c9b1[Completed normally] ignored, as local future is already completed: com.android.internal.infra.AndroidFuture@e8cfe96[Completed exceptionally: java.util.concurrent.CancellationException]
+10-11 11:41:56.945  6863  6863 I ImeTracker: com.example.lemonade:fca548af: onCancelled at PHASE_CLIENT_APPLY_ANIMATION
+10-11 11:41:56.945  6863  6863 D WM-Processor: 0Xf 99c3a53b-71d0-43cd-aaac-cf5ac4160f5b executed; reschedule = true
+10-11 11:41:56.945  6863  6863 D WM-GreedyScheduler: Stopping tracking for WorkGenerationalId(workSpecId=99c3a53b-71d0-43cd-aaac-cf5ac4160f5b, generation=0)
+10-11 11:41:56.945  6863  6863 D WM-WorkConstraintsTrack: Constraints met for {WorkSpec: d38e62c2-5ede-4c7c-8df7-54591dd46021}
+10-11 11:41:56.945  6863  6863 D WM-SystemJobService: 99c3a53b-71d0-43cd-aaac-cf5ac4160f5b executed on JobScheduler
+10-11 11:41:56.947  6863  7182 D WM-Processor: WorkerWrapper interrupted for d38e62c2-5ede-4c7c-8df7-54591dd46021
+10-11 11:41:56.947  6863  7182 D WM-StopWorkRunnable: StopWorkRunnable for d38e62c2-5ede-4c7c-8df7-54591dd46021; Processor.stopWork = true
+10-11 11:41:56.948  6863  7181 I WM-WorkerWrapper: Work [ id=99c3a53b-71d0-43cd-aaac-cf5ac4160f5b, tags={ com.aero.messaging.xmpp.XmppLogoutWorker } ] was cancelled
+10-11 11:41:56.948  6863  7181 I WM-WorkerWrapper: java.util.concurrent.CancellationException: Task was cancelled.
+10-11 11:41:56.948  6863  7181 I WM-WorkerWrapper: 	at X.0ZB.A02(Unknown Source:32)
+10-11 11:41:56.948  6863  7181 I WM-WorkerWrapper: 	at X.0ZB.get(Unknown Source:47)
+10-11 11:41:56.948  6863  7181 I WM-WorkerWrapper: 	at X.0b0.run(Unknown Source:4)
+10-11 11:41:56.948  6863  7181 I WM-WorkerWrapper: 	at X.0b5.run(Unknown Source:2)
+10-11 11:41:56.948  6863  7181 I WM-WorkerWrapper: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-11 11:41:56.948  6863  7181 I WM-WorkerWrapper: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-11 11:41:56.948  6863  7181 I WM-WorkerWrapper: 	at java.lang.Thread.run(Thread.java:1012)
+10-11 11:41:56.948  6863  7181 D WM-WorkerWrapper: Work interrupted for Work [ id=99c3a53b-71d0-43cd-aaac-cf5ac4160f5b, tags={ com.aero.messaging.xmpp.XmppLogoutWorker } ]
+10-11 11:41:56.951  6863  6863 D WM-Processor: 0Xf d38e62c2-5ede-4c7c-8df7-54591dd46021 executed; reschedule = true
+10-11 11:41:56.952  6863  6863 D WM-GreedyScheduler: Stopping tracking for WorkGenerationalId(workSpecId=d38e62c2-5ede-4c7c-8df7-54591dd46021, generation=0)
+10-11 11:41:56.952  6863  6863 D WM-NetworkStateTracker: Unregistering network callback
+10-11 11:41:56.952  6863  7181 D WM-GreedyScheduler: Cancelling work ID 99c3a53b-71d0-43cd-aaac-cf5ac4160f5b
+10-11 11:41:56.954  6863  7181 D WM-SystemJobScheduler: Scheduling work ID d38e62c2-5ede-4c7c-8df7-54591dd46021Job ID 9228
+10-11 11:41:56.956 14169 14169 D CompatibilityChangeReporter: Compat change id reported: 247079863; UID 10354; state: DISABLED
+10-11 11:41:56.956 14169 14169 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230939/com.example.lemonade:id/image_lemon_state>
+10-11 11:41:56.958  6863  7181 D WM-SystemJobScheduler: Scheduling work ID 99c3a53b-71d0-43cd-aaac-cf5ac4160f5bJob ID 9230
+10-11 11:41:56.961  6863  7181 D WM-GreedyScheduler: Starting tracking for 99c3a53b-71d0-43cd-aaac-cf5ac4160f5b
+10-11 11:41:56.962  6863  7181 D WM-ConstraintTracker: 09a: initial state = NetworkState(isConnected=true, isValidated=true, isMetered=true, isNotRoaming=true)
+10-11 11:41:56.962  6863  7181 D WM-NetworkStateTracker: Registering network callback
+10-11 11:41:56.963  1581  1641 D ConnectivityService: requestNetwork for uid/pid:10298/6863 activeRequest: null callbackRequest: 4438 [NetworkRequest [ REQUEST id=4439, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10298 RequestorUid: 10298 RequestorPkg: com.aero UnderlyingNetworks: Null] ]] callback flags: 0 order: 2147483647
+10-11 11:41:56.966  6863  7181 D WM-WorkConstraintsTrack: Constraints met for {WorkSpec: 99c3a53b-71d0-43cd-aaac-cf5ac4160f5b}
+10-11 11:41:56.967  6863  7181 D WM-GreedyScheduler: Constraints met: Scheduling work ID WorkGenerationalId(workSpecId=99c3a53b-71d0-43cd-aaac-cf5ac4160f5b, generation=0)
+10-11 11:41:56.967  6863  7181 I WM-WorkerWrapper: Work [ id=d38e62c2-5ede-4c7c-8df7-54591dd46021, tags={ com.aero.messaging.xmpp.XmppLifecycleWorker } ] was cancelled
+10-11 11:41:56.967  6863  7181 I WM-WorkerWrapper: java.util.concurrent.CancellationException: Task was cancelled.
+10-11 11:41:56.967  6863  7181 I WM-WorkerWrapper: 	at X.0ZB.A02(Unknown Source:32)
+10-11 11:41:56.967  6863  7181 I WM-WorkerWrapper: 	at X.0ZB.get(Unknown Source:47)
+10-11 11:41:56.967  6863  7181 I WM-WorkerWrapper: 	at X.0b0.run(Unknown Source:4)
+10-11 11:41:56.967  6863  7181 I WM-WorkerWrapper: 	at X.0b5.run(Unknown Source:2)
+10-11 11:41:56.967  6863  7181 I WM-WorkerWrapper: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-11 11:41:56.967  6863  7181 I WM-WorkerWrapper: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-11 11:41:56.967  6863  7181 I WM-WorkerWrapper: 	at java.lang.Thread.run(Thread.java:1012)
+10-11 11:41:56.967  6863  7181 D WM-WorkerWrapper: Work interrupted for Work [ id=d38e62c2-5ede-4c7c-8df7-54591dd46021, tags={ com.aero.messaging.xmpp.XmppLifecycleWorker } ]
+10-11 11:41:56.970  1581  1905 D WifiNetworkFactory: got request NetworkRequest [ REQUEST id=4439, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10298 RequestorUid: 10298 RequestorPkg: com.aero UnderlyingNetworks: Null] ]
+10-11 11:41:56.971  1581  1905 D UntrustedWifiNetworkFactory: got request NetworkRequest [ REQUEST id=4439, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10298 RequestorUid: 10298 RequestorPkg: com.aero UnderlyingNetworks: Null] ]
+10-11 11:41:56.971  6863  7219 D WM-NetworkStateTracker: Network capabilities changed: [ Transports: CELLULAR Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN&VALIDATED&NOT_ROAMING&FOREGROUND&NOT_CONGESTED&NOT_SUSPENDED&NOT_VCN_MANAGED LinkUpBandwidth>=8876Kbps LinkDnBandwidth>=16109Kbps Specifier: <TelephonyNetworkSpecifier [mSubId = 2]> UnderlyingNetworks: Null]
+10-11 11:41:56.972  6863  7181 D WM-GreedyScheduler: Cancelling work ID d38e62c2-5ede-4c7c-8df7-54591dd46021
+10-11 11:41:56.972  1581  1905 D OemPaidWifiNetworkFactory: got request NetworkRequest [ REQUEST id=4439, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10298 RequestorUid: 10298 RequestorPkg: com.aero UnderlyingNetworks: Null] ]
+10-11 11:41:56.972  1581  1905 D MultiInternetWifiNetworkFactory: got request NetworkRequest [ REQUEST id=4439, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10298 RequestorUid: 10298 RequestorPkg: com.aero UnderlyingNetworks: Null] ]
+10-11 11:41:56.973  1581  1913 D ConnectivityService: NetReassign [4439 : null → 113] [c 0] [a 1] [i 5]
+10-11 11:41:56.976  6863  7181 D WM-SystemJobScheduler: Scheduling work ID d38e62c2-5ede-4c7c-8df7-54591dd46021Job ID 9231
+10-11 11:41:56.978  6863  7181 D WM-Processor: 0Xf: processing WorkGenerationalId(workSpecId=99c3a53b-71d0-43cd-aaac-cf5ac4160f5b, generation=0)
+10-11 11:41:56.980  6863  7181 D WM-Processor: Processor cancelling 99c3a53b-71d0-43cd-aaac-cf5ac4160f5b
+10-11 11:41:56.980  6863  7181 D WM-WorkerWrapper: Work interrupted for null
+10-11 11:41:56.980  6863  7181 D WM-WorkerWrapper: WorkSpec {WorkSpec: 99c3a53b-71d0-43cd-aaac-cf5ac4160f5b} is already done. Not interrupting.
+10-11 11:41:56.980  6863  7181 D WM-Processor: WorkerWrapper interrupted for 99c3a53b-71d0-43cd-aaac-cf5ac4160f5b
+10-11 11:41:56.981  6863  6863 D WM-Processor: 0Xf 99c3a53b-71d0-43cd-aaac-cf5ac4160f5b executed; reschedule = false
+10-11 11:41:56.981  6863  6863 D WM-GreedyScheduler: Stopping tracking for WorkGenerationalId(workSpecId=99c3a53b-71d0-43cd-aaac-cf5ac4160f5b, generation=0)
+10-11 11:41:56.981  6863  6863 D WM-NetworkStateTracker: Unregistering network callback
+10-11 11:41:56.983  6863  7181 D WM-GreedyScheduler: Cancelling work ID 99c3a53b-71d0-43cd-aaac-cf5ac4160f5b
+10-11 11:41:56.986  6863  7181 D WM-PackageManagerHelper: androidx.work.impl.background.systemalarm.RescheduleReceiver enabled
+10-11 11:41:56.989  6863  7181 D WM-SystemJobScheduler: Scheduling work ID 18f50397-511b-42dc-b4ad-cef4bf7a05a1Job ID 9232
+10-11 11:41:56.992  6863  7181 D WM-GreedyScheduler: Starting tracking for 18f50397-511b-42dc-b4ad-cef4bf7a05a1
+10-11 11:41:56.993  6863  7181 D WM-ConstraintTracker: 09a: initial state = NetworkState(isConnected=true, isValidated=true, isMetered=true, isNotRoaming=true)
+10-11 11:41:56.993  6863  7181 D WM-NetworkStateTracker: Registering network callback
+10-11 11:41:56.994  1581  3581 D ConnectivityService: requestNetwork for uid/pid:10298/6863 activeRequest: null callbackRequest: 4440 [NetworkRequest [ REQUEST id=4441, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10298 RequestorUid: 10298 RequestorPkg: com.aero UnderlyingNetworks: Null] ]] callback flags: 0 order: 2147483647
+10-11 11:41:56.994  6863  7181 D WM-WorkConstraintsTrack: Constraints met for {WorkSpec: 18f50397-511b-42dc-b4ad-cef4bf7a05a1}
+10-11 11:41:56.994  6863  7181 D WM-GreedyScheduler: Constraints met: Scheduling work ID WorkGenerationalId(workSpecId=18f50397-511b-42dc-b4ad-cef4bf7a05a1, generation=0)
+10-11 11:41:56.995  6863  7181 D WM-WorkerWrapper: Work interrupted for Work [ id=99c3a53b-71d0-43cd-aaac-cf5ac4160f5b, tags={ com.aero.messaging.xmpp.XmppLogoutWorker } ]
+10-11 11:41:56.996  6863  7219 D WM-NetworkStateTracker: Network capabilities changed: [ Transports: CELLULAR Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN&VALIDATED&NOT_ROAMING&FOREGROUND&NOT_CONGESTED&NOT_SUSPENDED&NOT_VCN_MANAGED LinkUpBandwidth>=8876Kbps LinkDnBandwidth>=16109Kbps Specifier: <TelephonyNetworkSpecifier [mSubId = 2]> UnderlyingNetworks: Null]
+10-11 11:41:56.996  6863  7181 D WM-Processor: 0Xf: processing WorkGenerationalId(workSpecId=18f50397-511b-42dc-b4ad-cef4bf7a05a1, generation=0)
+10-11 11:41:56.998  1581  1905 D WifiNetworkFactory: got request NetworkRequest [ REQUEST id=4441, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10298 RequestorUid: 10298 RequestorPkg: com.aero UnderlyingNetworks: Null] ]
+10-11 11:41:56.999  1581  1905 D UntrustedWifiNetworkFactory: got request NetworkRequest [ REQUEST id=4441, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10298 RequestorUid: 10298 RequestorPkg: com.aero UnderlyingNetworks: Null] ]
+10-11 11:41:56.999  1581  1905 D OemPaidWifiNetworkFactory: got request NetworkRequest [ REQUEST id=4441, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10298 RequestorUid: 10298 RequestorPkg: com.aero UnderlyingNetworks: Null] ]
+10-11 11:41:56.999  6863  6863 D WM-WorkerWrapper: Starting work for com.aero.messaging.xmpp.XmppLogoutWorker
+10-11 11:41:57.000  1581  1905 D MultiInternetWifiNetworkFactory: got request NetworkRequest [ REQUEST id=4441, [ Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VCN_MANAGED Uid: 10298 RequestorUid: 10298 RequestorPkg: com.aero UnderlyingNetworks: Null] ]
+10-11 11:41:57.000  1581  1913 D ConnectivityService: NetReassign [4441 : null → 113] [c 1] [a 0] [i 5]
+10-11 11:41:57.015 26110 26124 I FontLog : (REDACTED) Received query %s, URI %s
+10-11 11:41:57.016 26110 26124 I FontLog : (REDACTED) Query [%s] resolved to %s
+10-11 11:41:57.018 26110 26124 I FontLog : (REDACTED) Fetch %s end status %s
+10-11 11:41:57.021 26110 26124 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+10-11 11:41:57.026 26110 26124 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+10-11 11:41:57.085  3849  4661 I LPRequestState: (REDACTED) [%s] #resolveUnusedLanguagePacks
+10-11 11:41:57.085  3849  4661 I LPRequestState: (REDACTED) [%s] #resolveDesiredLanguagePacks
+10-11 11:41:57.277 14169 14169 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view has drawable resource 2131165325
+10-11 11:41:57.277 14169 14169 E ViewAssertions: '(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)' check could not be performed because view 'has drawable resource 2131165325' was not found.
+10-11 11:41:57.281 14169 14169 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=an instance of android.widget.TextView and view.getText() equals string from resource id: <2131689520>}' assertion on view view.getId() is <2131231150/com.example.lemonade:id/text_action>
+10-11 11:41:57.284 14169 14204 E TestRunner: failed: test_squeezing_lemon_proceeds_to_drink_state(com.example.lemonade.LemonadeTests)
+10-11 11:41:57.284 14169 14204 E TestRunner: ----- begin exception -----
+10-11 11:41:57.295 14169 14204 E TestRunner: androidx.test.espresso.base.DefaultFailureHandler$AssertionFailedWithCauseError: 'an instance of android.widget.TextView and view.getText() equals string from resource id: <2131689520>' doesn't match the selected view.
+10-11 11:41:57.295 14169 14204 E TestRunner: Expected: an instance of android.widget.TextView and view.getText() equals string from resource id: <2131689520> [lemon_drink] value: Cliquez pour boire la lemonade!
+10-11 11:41:57.295 14169 14204 E TestRunner:      Got: view.getText() was "Cliquez pour sélectionner un lemon!"
+10-11 11:41:57.295 14169 14204 E TestRunner: View Details: MaterialTextView{id=2131231150, res-name=text_action, visibility=VISIBLE, width=637, height=54, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@ceedd21, tag=null, root-is-layout-requested=false, has-input-connection=false, x=222.0, y=494.0, text=Cliquez pour sélectionner un lemon!, input-type=0, ime-target=false, has-links=false}
+10-11 11:41:57.295 14169 14204 E TestRunner:
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at dalvik.system.VMStack.getThreadStackTrace(Native Method)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at java.lang.Thread.getStackTrace(Thread.java:1841)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at androidx.test.espresso.base.DefaultFailureHandler.getUserFriendlyError(DefaultFailureHandler.java:12)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at androidx.test.espresso.base.DefaultFailureHandler.handle(DefaultFailureHandler.java:7)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at androidx.test.espresso.ViewInteraction.waitForAndHandleInteractionResults(ViewInteraction.java:5)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at androidx.test.espresso.ViewInteraction.check(ViewInteraction.java:12)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at com.example.lemonade.BaseTest.testState(BaseTest.kt:55)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at com.example.lemonade.LemonadeTests.test_squeezing_lemon_proceeds_to_drink_state(LemonadeTests.kt:69)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at java.lang.reflect.Method.invoke(Native Method)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at androidx.test.internal.runner.junit4.statement.RunBefores.evaluate(RunBefores.java:80)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at androidx.test.ext.junit.runners.AndroidJUnit4.run(AndroidJUnit4.java:162)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:128)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:27)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:56)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at androidx.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:444)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2402)
+10-11 11:41:57.295 14169 14204 E TestRunner: Caused by: junit.framework.AssertionFailedError: 'an instance of android.widget.TextView and view.getText() equals string from resource id: <2131689520>' doesn't match the selected view.
+10-11 11:41:57.295 14169 14204 E TestRunner: Expected: an instance of android.widget.TextView and view.getText() equals string from resource id: <2131689520> [lemon_drink] value: Cliquez pour boire la lemonade!
+10-11 11:41:57.295 14169 14204 E TestRunner:      Got: view.getText() was "Cliquez pour sélectionner un lemon!"
+10-11 11:41:57.295 14169 14204 E TestRunner: View Details: MaterialTextView{id=2131231150, res-name=text_action, visibility=VISIBLE, width=637, height=54, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=androidx.constraintlayout.widget.ConstraintLayout$LayoutParams@ceedd21, tag=null, root-is-layout-requested=false, has-input-connection=false, x=222.0, y=494.0, text=Cliquez pour sélectionner un lemon!, input-type=0, ime-target=false, has-links=false}
+10-11 11:41:57.295 14169 14204 E TestRunner:
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at androidx.test.espresso.matcher.ViewMatchers.assertThat(ViewMatchers.java:16)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at androidx.test.espresso.assertion.ViewAssertions$MatchesViewAssertion.check(ViewAssertions.java:11)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at androidx.test.espresso.ViewInteraction$SingleExecutionViewAssertion.check(ViewInteraction.java:2)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at androidx.test.espresso.ViewInteraction$2.call(ViewInteraction.java:12)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at androidx.test.espresso.ViewInteraction$2.call(ViewInteraction.java:1)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at android.os.Handler.handleCallback(Handler.java:958)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at android.os.Handler.dispatchMessage(Handler.java:99)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at android.os.Looper.loopOnce(Looper.java:205)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at android.os.Looper.loop(Looper.java:294)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at android.app.ActivityThread.main(ActivityThread.java:8177)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at java.lang.reflect.Method.invoke(Native Method)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:552)
+10-11 11:41:57.295 14169 14204 E TestRunner: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:971)
+10-11 11:41:57.295 14169 14204 E TestRunner: ----- end exception -----
+10-11 11:41:57.300  3849  4244 I DefaultLPManager: #getPackage
+10-11 11:41:57.301  3849  4244 I DefaultLPManager: #getPackage
+10-11 11:41:57.301  3849  4663 I SodaResourceCollector: (REDACTED) Installed LanguagePacks: %s
+10-11 11:41:57.301  3849  4663 I SodaResourceCollector: (REDACTED) Pending pack: %s
+10-11 11:41:57.301  3849  4661 I fftw    : (REDACTED) Setting locale=%s
+10-11 11:41:57.301  3849  4661 I fftw    : MDD refresh started.
+10-11 11:41:57.301  3849  4661 W fftb    : (REDACTED) No hotword model URL available for locale: %s
+10-11 11:41:57.301  3849  4661 I fftw    : MDD refresh completed.
+10-11 11:41:57.301  3849  4661 I fftw    : (REDACTED) Received request to retrieve hotword model with timeout. ActiveLocale=%s
+10-11 11:41:57.301  3849  4661 I fftw    : Trying to get latest model bytes.
+10-11 11:41:57.302  3849  4661 I fftw    : (REDACTED) Trying to get preloaded model for matching URL. (locale=%s)
+10-11 11:41:57.302  3849  4662 I SodaResourceCollector: Skipping stopword download due to disablement by flag.
+10-11 11:41:57.302  3849  4664 I fftw    : Preloaded model not available. Attempting download.
+10-11 11:41:57.302  3849  4664 I fftw    : Trying to get latest MDD Model bytes.
+10-11 11:41:57.302  3849  4664 W fftw    : Locale is not registered with HotwordConfigManager. Ignoring download.
+10-11 11:41:57.302  3849  4662 I SodaResourceCollector: Tisid model queries skipped because SpeakerId disabled.
+10-11 11:41:57.302  3849  4244 I SodaResourceCollector: Tdsid model updates skipped because SpeakerId disabled.
+10-11 11:41:57.302  3849  4664 I SodaResourceCollector: Tisid model updates skipped because SpeakerId disabled.
+10-11 11:41:57.302  3849  4660 I SodaResourceCollector: Tdsid model updates skipped because SpeakerId disabled.
+10-11 11:41:57.302  3849  4664 I SodaResourceCollector: Tdsid model updates skipped because SpeakerId disabled.
+10-11 11:41:57.302  3849  4664 I SodaResourceCollector: No Tdsid update occurred. Skipping callback(s)
+10-11 11:41:57.304  3690  4451 I hfso    : (REDACTED) Reading SodaResourceManager message with updated resourceIds: %s. Total set: %s
+10-11 11:41:57.304  3690  4451 I hfso    : (REDACTED) Reading SodaResourceManager message with updated resourceIds: %s. Total set: %s
+10-11 11:41:57.317  3665  5394 I AiAiEcho: SmartspaceNotificationPredictor no parser can handle this notification or notification is invalid
+10-11 11:41:57.317 14169 14204 I TestRunner: finished: test_squeezing_lemon_proceeds_to_drink_state(com.example.lemonade.LemonadeTests)
