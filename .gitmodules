@@ -1,0 +1,3 @@
+[submodule "Mobile-Develop"]
+	path = Mobile-Develop
+	url = https://github.com/vadilkt/dev-mobile.git
